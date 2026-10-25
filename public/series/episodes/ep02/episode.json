@@ -1,0 +1,365 @@
+{
+  "id": "ep02",
+  "number": 2,
+  "title": "네 사람이 둘러앉은 이유",
+  "hook": "조선의 보드게임",
+  "category": "놀이·음악",
+  "album": 2,
+  "side": "left",
+  "duration": 60,
+  "byline": "운초 전칭 · TJ KIM 컬렉션",
+  "narration": [
+    "조선 사람들은 쉬는 날, 무엇을 하며 놀았을까요? 네 사람이 낮은 판을 둘러싸고 앉았습니다. 오늘의 주인공은 윷놀이입니다.",
+    "윷을 던진 결과에 따라 말을 움직이고, 어느 길로 갈지 머리를 씁니다. 운만으로 끝나지 않는 놀이죠. 작은 도구 몇 개가 사람들을 한자리에 모았습니다.",
+    "처음 이 그림을 본 외국인이라면, 주사위 대신 쓰는 나무 조각과 판 위의 길이 궁금했을 겁니다. 사람들의 옷차림만큼, 함께 시간을 보내는 방식도 낯선 나라를 이해하는 단서였겠지요.",
+    "한복의 색과 손의 방향을 따라 그려 보세요. 판은 작아도 사람 사이의 거리는 가까워집니다. 다만 그림은 그 순간을 골라 보여 줍니다. 이 장면 하나로 조선의 모든 놀이 문화를 설명할 수는 없겠지요.",
+    "우리에게 익숙한 윷판이, 누군가에게는 처음 만나는 조선의 모습이었습니다."
+  ],
+  "voice_id": "S02",
+  "voice_text": "조선 사람들은 쉬는 날, 무엇을 하며 놀았을까요? 네 사람이 낮은 판을 둘러싸고 앉았습니다. 오늘의 주인공은 윷놀이입니다. 윷을 던진 결과에 따라 말을 움직이고, 어느 길로 갈지 머리를 씁니다. 운만으로 끝나지 않는 놀이죠. 작은 도구 몇 개가 사람들을 한자리에 모았습니다. 처음 이 그림을 본 외국인이라면, 주사위 대신 쓰는 나무 조각과 판 위의 길이 궁금했을 겁니다. 사람들의 옷차림만큼, 함께 시간을 보내는 방식도 낯선 나라를 이해하는 단서였겠지요. 한복의 색과 손의 방향을 따라 그려 보세요. 판은 작아도 사람 사이의 거리는 가까워집니다. 다만 그림은 그 순간을 골라 보여 줍니다. 이 장면 하나로 조선의 모든 놀이 문화를 설명할 수는 없겠지요. 우리에게 익숙한 윷판이, 누군가에게는 처음 만나는 조선의 모습이었습니다.",
+  "voice_file": "S02.wav",
+  "video": "../episodes/ep02/output/ep02-short-60s.mp4",
+  "poster": "../episodes/ep02/art/poster.jpg",
+  "original": "../episodes/ep02/art/original-clean.png",
+  "source_photo": "../../../research/album-2.jpg",
+  "sources": [
+    {
+      "title": "윷놀이: 규칙과 공동 놀이",
+      "url": "https://encykorea.aks.ac.kr/Article/E0042794"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "status": "ready",
+  "caption_style": "calm-myeongjo",
+  "revision": "figure-first-caption18-v3",
+  "drawing_order": "인물별 얼굴 → 몸과 손 → 다리·아랫옷 → 물건 → 배경",
+  "caption_layout": {
+    "max_chars": 18,
+    "font_size": 54,
+    "top": 1212,
+    "one_line": true,
+    "complete_sentence": true,
+    "type": "condensed-sentences"
+  },
+  "player_revision": "portrait-intro-v14",
+  "player_only": true,
+  "player_director": {
+    "intro_duration": 6,
+    "shots": [
+      {
+        "element": "front_man_face",
+        "start": 0.8,
+        "end": 3.4999999999999982,
+        "box": [
+          251.5,
+          222.5,
+          461.5,
+          390.5
+        ],
+        "zoom": 4.76
+      },
+      {
+        "element": "front_man_body",
+        "start": 3.4999999999999982,
+        "end": 6.799999999999998,
+        "box": [
+          93.788,
+          220.93,
+          570.212,
+          602.07
+        ],
+        "zoom": 2.1
+      },
+      {
+        "element": "front_man_legs",
+        "start": 6.799999999999998,
+        "end": 9.299999999999995,
+        "box": [
+          192.0,
+          395.0,
+          492.0,
+          635.0
+        ],
+        "zoom": 3.33
+      },
+      {
+        "element": "rear_woman_face",
+        "start": 9.299999999999995,
+        "end": 11.999999999999995,
+        "box": [
+          289.0,
+          113.0,
+          499.0,
+          281.0
+        ],
+        "zoom": 4.76
+      },
+      {
+        "element": "rear_woman_body",
+        "start": 11.999999999999995,
+        "end": 15.299999999999995,
+        "box": [
+          219.325,
+          125.66,
+          552.675,
+          392.34
+        ],
+        "zoom": 3.0
+      },
+      {
+        "element": "rear_woman_legs",
+        "start": 15.299999999999995,
+        "end": 17.799999999999994,
+        "box": [
+          253.0,
+          215.5,
+          553.0,
+          455.5
+        ],
+        "zoom": 3.33
+      },
+      {
+        "element": "rear_man_face",
+        "start": 17.799999999999994,
+        "end": 20.499999999999996,
+        "box": [
+          511.781,
+          107.525,
+          749.219,
+          297.475
+        ],
+        "zoom": 4.21
+      },
+      {
+        "element": "rear_man_body",
+        "start": 20.499999999999996,
+        "end": 23.799999999999994,
+        "box": [
+          421.562,
+          105.95,
+          930.438,
+          513.05
+        ],
+        "zoom": 1.97
+      },
+      {
+        "element": "rear_man_legs",
+        "start": 23.799999999999994,
+        "end": 26.299999999999986,
+        "box": [
+          559.0,
+          294.1,
+          895.0,
+          562.9
+        ],
+        "zoom": 2.98
+      },
+      {
+        "element": "front_woman_face",
+        "start": 26.299999999999986,
+        "end": 28.99999999999999,
+        "box": [
+          566.0,
+          224.5,
+          776.0,
+          392.5
+        ],
+        "zoom": 4.76
+      },
+      {
+        "element": "front_woman_body",
+        "start": 28.99999999999999,
+        "end": 32.29999999999999,
+        "box": [
+          420.15,
+          213.04,
+          968.85,
+          652.0
+        ],
+        "zoom": 1.82
+      },
+      {
+        "element": "front_woman_legs",
+        "start": 32.29999999999999,
+        "end": 34.79999999999998,
+        "box": [
+          479.7,
+          303.52,
+          915.3,
+          652.0
+        ],
+        "zoom": 2.3
+      },
+      {
+        "element": "objects",
+        "start": 34.79999999999998,
+        "end": 41.800000000000004,
+        "box": [
+          343.5,
+          300.5,
+          643.5,
+          540.5
+        ],
+        "zoom": 3.33
+      },
+      {
+        "element": "background",
+        "start": 41.800000000000004,
+        "end": 49.8,
+        "box": [
+          0,
+          0,
+          1000,
+          652
+        ],
+        "zoom": 1.0
+      }
+    ],
+    "brush_types": {
+      "fine": {
+        "label": "세필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "fine-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "medium": {
+        "label": "중필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "medium-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "large": {
+        "label": "대필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "large-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "flat": {
+        "label": "평붓",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "flat-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      }
+    },
+    "brush_frames": 96,
+    "viewport": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "ink_bleed": 0.45,
+    "signature": "approved portrait Tj v13",
+    "signature_duration": 2.5,
+    "pressure_brush": {
+      "atlas": "pressure-atlas.png",
+      "width": 192,
+      "height": 288,
+      "anchor": [
+        62.4,
+        253.2
+      ],
+      "levels": 4,
+      "angles": 24
+    },
+    "caption_top": 1374,
+    "material": "fiber-height-wet-roughness-shader",
+    "caption_font_size": 60,
+    "brush_motion": "path-direction-speed-pressure-live-3d",
+    "intro_brush": "large-calligraphy-separate-tuft",
+    "intro_brush_scale": 9.04,
+    "intro_ink_bleed_multiplier": 2,
+    "brush_camera_reference": {
+      "intro": 3.6,
+      "painting": 5.14
+    },
+    "signature_canvas": [
+      1080,
+      1920
+    ],
+    "signature_approved": true,
+    "wet_ink_on_contact": true
+  },
+  "player_music": {
+    "file": "flow-music/meokbit-jangdan-source.m4a",
+    "title": "먹빛의 장단",
+    "source": "Google Flow Music original generation",
+    "hide_credit": true,
+    "effects_at": [
+      1,
+      1.35,
+      1.65,
+      1.93,
+      2.17,
+      2.38,
+      2.56,
+      2.73,
+      2.88,
+      3.02,
+      3.15,
+      3.27,
+      3.39,
+      3.5
+    ],
+    "separate_tracks": true,
+    "default_start": 5,
+    "default_offset": 0,
+    "intro_rim_file": "court-finish-v9.m4a",
+    "roll_file": "roll-v7.m4a",
+    "finish_instrument": "three-buk-inspired",
+    "gain_controls": true,
+    "finish_file": "court-finish-v9.m4a",
+    "finish_duration": 1.55,
+    "finish_at": 3.5,
+    "effects_scope": "intro-only"
+  },
+  "exports": {
+    "ko": "ep02-short-ko-v18-cover.mp4",
+    "en": "ep02-short-en-v18-cover.mp4",
+    "ja": "ep02-short-ja-v18-cover.mp4"
+  },
+  "cover_exports": {
+    "ko": "../episodes/ep02/art/covers-v18/ko.png",
+    "en": "../episodes/ep02/art/covers-v18/en.png",
+    "ja": "../episodes/ep02/art/covers-v18/ja.png"
+  }
+}

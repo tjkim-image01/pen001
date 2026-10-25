@@ -1,0 +1,141 @@
+{
+  "episode": "ep05",
+  "language": "ko",
+  "provider": "Typecast",
+  "actor": "한준",
+  "narration": "비가 와도, 사람들은 길을 나섭니다. 누군가는 지붕 아래 쉬고, 누군가는 짐을 나릅니다. 넓은 모자와 덮개가 빗물을 피하는 방법이 됩니다. 오늘의 우산 행렬과는 다른 모습이지요. 먼저 사람들의 얼굴과 몸짓을 천천히 살펴봅니다. 옷차림은 멋뿐 아니라 날씨에 대응하는 도구였습니다. 처음 보는 외국인은, 낯선 모자의 모양부터 궁금했을 겁니다. 그 너머에는 비에도 계속되는 장사와 발걸음이 있습니다. 특별한 복식이 아니라, 살아가는 방법으로 그림을 읽어 봅니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+  "blocks": [
+    {
+      "text": "비가 와도, 사람들은 길을 나섭니다.",
+      "caption": "비가 와도 하루는 이어집니다."
+    },
+    {
+      "text": "누군가는 지붕 아래 쉬고, 누군가는 짐을 나릅니다.",
+      "caption": "쉬는 사람과 걷는 사람이 있죠."
+    },
+    {
+      "text": "넓은 모자와 덮개가 빗물을 피하는 방법이 됩니다.",
+      "caption": "모자와 덮개가 비를 막습니다."
+    },
+    {
+      "text": "오늘의 우산 행렬과는 다른 모습이지요.",
+      "caption": "우산 행렬과는 다른 풍경이죠."
+    },
+    {
+      "text": "먼저 사람들의 얼굴과 몸짓을 천천히 살펴봅니다.",
+      "caption": "사람들의 몸짓을 살펴봅니다."
+    },
+    {
+      "text": "옷차림은 멋뿐 아니라 날씨에 대응하는 도구였습니다.",
+      "caption": "옷은 날씨에 대응하는 도구죠."
+    },
+    {
+      "text": "처음 보는 외국인은, 낯선 모자의 모양부터 궁금했을 겁니다.",
+      "caption": "모자의 모양이 궁금했겠지요."
+    },
+    {
+      "text": "그 너머에는 비에도 계속되는 장사와 발걸음이 있습니다.",
+      "caption": "빗속에도 일은 이어집니다."
+    },
+    {
+      "text": "특별한 복식이 아니라, 살아가는 방법으로 그림을 읽어 봅니다.",
+      "caption": "생활의 방법으로 읽어 봅니다."
+    },
+    {
+      "text": "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+      "caption": "TJ KIM 컬렉션 소장품입니다."
+    }
+  ],
+  "voice": "locales/ko/voice-director.m4a",
+  "settings": {
+    "title": "비 오는 날의 조선",
+    "hook": "우산만 있었을까",
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "생활의 도구와 노동, 외국인의 시선을 그림 관찰로 해석",
+  "captions": [
+    {
+      "start": 2.2,
+      "end": 5.5131,
+      "text": "비가 와도 하루는 이어집니다.",
+      "words": []
+    },
+    {
+      "start": 6.0731,
+      "end": 10.49581,
+      "text": "쉬는 사람과 걷는 사람이 있죠.",
+      "words": []
+    },
+    {
+      "start": 11.05581,
+      "end": 15.1951,
+      "text": "모자와 덮개가 비를 막습니다.",
+      "words": []
+    },
+    {
+      "start": 15.7551,
+      "end": 19.03744,
+      "text": "우산 행렬과는 다른 풍경이죠.",
+      "words": []
+    },
+    {
+      "start": 19.59744,
+      "end": 24.06585,
+      "text": "사람들의 몸짓을 살펴봅니다.",
+      "words": []
+    },
+    {
+      "start": 24.62585,
+      "end": 29.03302,
+      "text": "옷은 날씨에 대응하는 도구죠.",
+      "words": []
+    },
+    {
+      "start": 29.59302,
+      "end": 34.34571,
+      "text": "모자의 모양이 궁금했겠지요.",
+      "words": []
+    },
+    {
+      "start": 34.90571,
+      "end": 39.22954,
+      "text": "빗속에도 일은 이어집니다.",
+      "words": []
+    },
+    {
+      "start": 39.78954,
+      "end": 44.69175,
+      "text": "생활의 방법으로 읽어 봅니다.",
+      "words": []
+    },
+    {
+      "start": 45.25175,
+      "end": 49.19104,
+      "text": "TJ KIM 컬렉션 소장품입니다.",
+      "words": []
+    }
+  ],
+  "translations": {},
+  "timing": {
+    "intro": 6,
+    "narration_start": 8.2,
+    "raw_duration": 30.35,
+    "tempo": 0.88,
+    "inter_block_pause": 1.4,
+    "narration_end": 55.19104166666667,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions"
+  },
+  "asr_script_similarity": 0.9542168674698795,
+  "raw_sha256": "96eb7070d080caabba5715111f9f6368c5daec5dfe8d62933daf00d57573d048"
+}

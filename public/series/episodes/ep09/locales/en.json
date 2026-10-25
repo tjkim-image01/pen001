@@ -1,0 +1,166 @@
+{
+  "episode": "ep09",
+  "language": "en",
+  "provider": "Typecast",
+  "actor": "아레스",
+  "narration": "A good meal can depend on a well timed movement. Here, cooked grain is being pounded to make Korean rice cake. One worker brings a wooden mallet down while another turns and shapes the mass. Strength matters, but so does knowing when the other hand will move. Trace the bent back, the lifted arms, and the long handles. Another person and a passing dog make this a lived in workplace. A visitor might wonder about both the food and the tools used to make it. Look beyond the finished dish to the skill of working together. The painting is attributed to Uncho. From the TJ Kim Collection, the smallest pause between hands becomes part of the story.",
+  "blocks": [
+    {
+      "text": "A good meal can depend on a well timed movement.",
+      "caption": "Food unites hands."
+    },
+    {
+      "text": "Here, cooked grain is being pounded to make Korean rice cake.",
+      "caption": "Grain makes food."
+    },
+    {
+      "text": "One worker brings a wooden mallet down while another turns and shapes the mass.",
+      "caption": "Two tasks unite."
+    },
+    {
+      "text": "Strength matters, but so does knowing when the other hand will move.",
+      "caption": "Timing is vital."
+    },
+    {
+      "text": "Trace the bent back, the lifted arms, and the long handles.",
+      "caption": "Watch both arms."
+    },
+    {
+      "text": "Another person and a passing dog make this a lived in workplace.",
+      "caption": "Life meets work."
+    },
+    {
+      "text": "A visitor might wonder about both the food and the tools used to make it.",
+      "caption": "How was food made?"
+    },
+    {
+      "text": "Look beyond the finished dish to the skill of working together.",
+      "caption": "Hands work as one."
+    },
+    {
+      "text": "The painting is attributed to Uncho.",
+      "caption": "Perhaps by Uncho."
+    },
+    {
+      "text": "From the TJ Kim Collection, the smallest pause between hands becomes part of the story.",
+      "caption": "TJ KIM keeps it."
+    }
+  ],
+  "voice": "locales/en/voice-director.m4a",
+  "settings": {
+    "title": "Food takes teamwork",
+    "hook": "The rhythm behind a rice cake",
+    "byline": "Attributed to Uncho · TJ KIM Collection",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "떡: 안반과 떡메를 사용하는 만드는 방법",
+      "url": "https://encykorea.aks.ac.kr/Article/E0017196"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "Objects and routines introduced for an English-speaking newcomer; analogies are interpretive.",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 3.79469,
+      "end": 7.73373,
+      "text": "Food unites hands.",
+      "words": []
+    },
+    {
+      "start": 7.73373,
+      "end": 12.91925,
+      "text": "Grain makes food.",
+      "words": []
+    },
+    {
+      "start": 12.91925,
+      "end": 19.0719,
+      "text": "Two tasks unite.",
+      "words": []
+    },
+    {
+      "start": 19.0719,
+      "end": 24.35027,
+      "text": "Timing is vital.",
+      "words": []
+    },
+    {
+      "start": 24.35027,
+      "end": 29.59681,
+      "text": "Watch both arms.",
+      "words": []
+    },
+    {
+      "start": 29.59681,
+      "end": 35.64084,
+      "text": "Life meets work.",
+      "words": []
+    },
+    {
+      "start": 35.64084,
+      "end": 42.10279,
+      "text": "How was food made?",
+      "words": []
+    },
+    {
+      "start": 42.10279,
+      "end": 46.82279,
+      "text": "Hands work as one.",
+      "words": []
+    },
+    {
+      "start": 46.82279,
+      "end": 49.95136,
+      "text": "Perhaps by Uncho.",
+      "words": []
+    },
+    {
+      "start": 49.95136,
+      "end": 56.74265,
+      "text": "TJ KIM keeps it.",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "From the TJ KIM Collection",
+    "풍속화 속 한국  /  08": "KOREAN LIFE IN PAINTINGS  /  08",
+    "그린 그림에서 소장 이미지로": "Painting to collection image",
+    "소장 이미지 · AI 정리 편집본": "Collection image · AI cleanup",
+    "인물 1 · 얼굴과 머리": "Figure 1 · Face and hair",
+    "인물 1 · 몸과 손": "Figure 1 · Body and hands",
+    "인물 1 · 다리·아랫옷": "Figure 1 · Legs and clothing",
+    "인물 2 · 얼굴과 머리": "Figure 2 · Face and hair",
+    "인물 2 · 몸과 손": "Figure 2 · Body and hands",
+    "인물 2 · 다리·아랫옷": "Figure 2 · Legs and clothing",
+    "인물 3 · 얼굴과 머리": "Figure 3 · Face and hair",
+    "인물 3 · 몸과 손": "Figure 3 · Body and hands",
+    "인물 3 · 다리·아랫옷": "Figure 3 · Legs and clothing",
+    "물건 · 생활의 도구": "Objects of daily life",
+    "배경 · 이곳의 하루": "The setting"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 9.953292,
+    "raw_duration": 52.75,
+    "tempo": 0.9952830188679245,
+    "inter_block_pause": 0,
+    "narration_end": 62.728708,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 9.947021,
+    "korean_first_audible": 9.953292,
+    "sync_tempo": 1
+  },
+  "asr_script_similarity": 0.998062015503876,
+  "raw_sha256": "f1b4bdf2f6e11f4c770f60306e9ead845a6b1b880ba463d0ce5c844d35584482"
+}

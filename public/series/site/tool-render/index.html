@@ -1,0 +1,22 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="icon" href="data:,"></head><body style="margin:0"><script type="module">
+import * as THREE from './vendor/three.module.js';
+import {createDrawingTool} from './models.js';
+const renderer=new THREE.WebGLRenderer({alpha:true,antialias:true,preserveDrawingBuffer:true});renderer.setSize(320,480);renderer.setClearColor(0,0);document.body.append(renderer.domElement);
+renderer.outputColorSpace=THREE.SRGBColorSpace;renderer.setPixelRatio(1);
+const scene=new THREE.Scene(),camera=new THREE.OrthographicCamera(-80,80,120,-120,.1,1500);camera.position.set(0,0,650);camera.lookAt(0,0,0);
+scene.add(new THREE.AmbientLight(0xffffff,2.1));const key=new THREE.DirectionalLight(0xfff0d8,3.2);key.position.set(-170,240,400);scene.add(key);const rim=new THREE.DirectionalLight(0xdde9ff,1.1);rim.position.set(250,50,150);scene.add(rim);
+let group;
+window.toolFrame=(kind,index,pressure=null)=>{
+ if(group){scene.remove(group);group.traverse(o=>{o.geometry?.dispose()})}
+ group=createDrawingTool(kind==='fine'?'sagunja':kind==='flat'?'western':'korean');
+ if(kind==='large')group.scale.set(1.36,1.13,1.36);else if(kind==='fine')group.scale.set(.85,1.11,.85);else group.scale.y=1.17;
+ const a=index/96*Math.PI*2;group.rotation.set(.22+Math.sin(a)*.12,Math.sin(a)*.37,-.27+Math.sin(a)*.14);group.position.set(-28,-91,0);
+ if(group.userData.bristles){group.userData.bristles.scale.x=1+Math.sin(a*2)*.075;group.userData.bristles.rotation.z=Math.sin(a)*.025;}
+ if(pressure!==null){
+  const br=group.userData.bristles,verts=br.geometry.attributes.position;
+  for(let i=0;i<verts.count;i++){const y=verts.getY(i),v=Math.max(0,Math.min(1,y/42)),bow=Math.sin(Math.PI*v);verts.setXYZ(i,verts.getX(i)*(1+pressure*.8*(1-v))+pressure*7*bow,y-pressure*6*bow,verts.getZ(i)*(1+pressure*.35*(1-v)));}
+  verts.needsUpdate=true;br.geometry.computeVertexNormals();group.rotation.z-=pressure*.16;group.rotation.x+=pressure*.12;
+ }
+ scene.add(group);renderer.render(scene,camera);return renderer.domElement.toDataURL('image/png').split(',')[1];
+};window.ready=true;
+</script></body></html>

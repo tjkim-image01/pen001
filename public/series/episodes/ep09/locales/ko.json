@@ -1,0 +1,145 @@
+{
+  "episode": "ep09",
+  "language": "ko",
+  "provider": "Typecast",
+  "actor": "한준",
+  "narration": "큰 나무 메가 올라가고, 다른 손은 아래의 떡을 살핍니다. 익힌 곡물을 쳐서 떡을 만드는 장면입니다. 한 사람은 메를 내리고, 다른 사람은 떡을 뒤집고 다듬지요. 힘만큼 중요한 것은 서로 손을 넣고 빼는 박자입니다. 몸을 굽힌 등과 힘을 쓰는 팔을 차례로 살펴봅니다. 곁에서 돕는 사람과 개도 일터의 풍경에 들어와 있습니다. 외국인에게는 떡만큼 만드는 도구도 새로웠겠지요. 그림은 완성된 음식 너머로, 만드는 몸의 기술을 보여 줍니다. 힘찬 한 번의 동작 뒤에, 오래 맞춰 온 호흡을 상상합니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+  "blocks": [
+    {
+      "text": "큰 나무 메가 올라가고, 다른 손은 아래의 떡을 살핍니다.",
+      "caption": "큰 나무 메가 올라갑니다."
+    },
+    {
+      "text": "익힌 곡물을 쳐서 떡을 만드는 장면입니다.",
+      "caption": "쳐서 떡을 만드는 장면입니다."
+    },
+    {
+      "text": "한 사람은 메를 내리고, 다른 사람은 떡을 뒤집고 다듬지요.",
+      "caption": "치고 뒤집으며 다듬습니다."
+    },
+    {
+      "text": "힘만큼 중요한 것은 서로 손을 넣고 빼는 박자입니다.",
+      "caption": "힘만큼 서로의 박자가 중요하죠."
+    },
+    {
+      "text": "몸을 굽힌 등과 힘을 쓰는 팔을 차례로 살펴봅니다.",
+      "caption": "등과 팔의 움직임을 살펴봅니다."
+    },
+    {
+      "text": "곁에서 돕는 사람과 개도 일터의 풍경에 들어와 있습니다.",
+      "caption": "곁의 사람과 개도 보입니다."
+    },
+    {
+      "text": "외국인에게는 떡만큼 만드는 도구도 새로웠겠지요.",
+      "caption": "만드는 도구도 새로웠겠지요."
+    },
+    {
+      "text": "그림은 완성된 음식 너머로, 만드는 몸의 기술을 보여 줍니다.",
+      "caption": "음식 너머의 기술을 보여 줍니다."
+    },
+    {
+      "text": "힘찬 한 번의 동작 뒤에, 오래 맞춰 온 호흡을 상상합니다.",
+      "caption": "오래 맞춰 온 호흡을 상상해요."
+    },
+    {
+      "text": "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+      "caption": "TJ KIM 컬렉션 소장품입니다."
+    }
+  ],
+  "voice": "locales/ko/voice-director.m4a",
+  "settings": {
+    "title": "두 사람이 맞추는 박자",
+    "hook": "떡메 아래 먹거리",
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "떡: 안반과 떡메를 사용하는 만드는 방법",
+      "url": "https://encykorea.aks.ac.kr/Article/E0017196"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "생활의 도구와 노동, 외국인의 시선을 그림 관찰로 해석",
+  "captions": [
+    {
+      "start": 2.2,
+      "end": 6.90631,
+      "text": "큰 나무 메가 올라갑니다.",
+      "words": []
+    },
+    {
+      "start": 7.46631,
+      "end": 11.35127,
+      "text": "쳐서 떡을 만드는 장면입니다.",
+      "words": []
+    },
+    {
+      "start": 11.91127,
+      "end": 16.69083,
+      "text": "치고 뒤집으며 다듬습니다.",
+      "words": []
+    },
+    {
+      "start": 17.25083,
+      "end": 21.8531,
+      "text": "힘만큼 서로의 박자가 중요하죠.",
+      "words": []
+    },
+    {
+      "start": 22.4131,
+      "end": 26.56706,
+      "text": "등과 팔의 움직임을 살펴봅니다.",
+      "words": []
+    },
+    {
+      "start": 27.12706,
+      "end": 31.79958,
+      "text": "곁의 사람과 개도 보입니다.",
+      "words": []
+    },
+    {
+      "start": 32.35958,
+      "end": 36.31292,
+      "text": "만드는 도구도 새로웠겠지요.",
+      "words": []
+    },
+    {
+      "start": 36.87292,
+      "end": 41.37429,
+      "text": "음식 너머의 기술을 보여 줍니다.",
+      "words": []
+    },
+    {
+      "start": 41.93429,
+      "end": 46.3421,
+      "text": "오래 맞춰 온 호흡을 상상해요.",
+      "words": []
+    },
+    {
+      "start": 46.9021,
+      "end": 50.52121,
+      "text": "TJ KIM 컬렉션 소장품입니다.",
+      "words": []
+    }
+  ],
+  "translations": {},
+  "timing": {
+    "intro": 6,
+    "narration_start": 8.2,
+    "raw_duration": 31.5,
+    "tempo": 0.88,
+    "inter_block_pause": 1.4,
+    "narration_end": 56.521208333333334,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions"
+  },
+  "asr_script_similarity": 0.958139534883721,
+  "raw_sha256": "c92b69e4183302c6121e15c3d4240b3a2de4fbbc8792464241881d48abed8bb1"
+}

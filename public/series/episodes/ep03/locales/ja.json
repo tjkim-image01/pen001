@@ -1,0 +1,173 @@
+{
+  "episode": "ep03",
+  "language": "ja",
+  "provider": "Typecast",
+  "actor": "이노우에 다이치",
+  "narration": "アイロンの前に、布をどう整えたのでしょう。 二人が石の上の布を、木の棒で打っています。 韓国ではタドゥミジルと呼ぶ手仕事です。 洗って糊を付けた布を打ち、しわや表面を整えました。 砧という言葉を思い出す方もいるかもしれません。 似た道具から、韓国の衣生活をのぞいてみましょう。 腕の角度と、二人の座り方にも注目します。 外国人には、白い服の手入れも関心の入り口だったでしょう。 美しい衣服の後ろに、繰り返す労働があります。 この作品はウンチョの作と伝わります。 ティージェイキム・コレクションから、二人の手の時間をたどります。",
+  "blocks": [
+    {
+      "text": "アイロンの前に、布をどう整えたのでしょう。",
+      "caption": "布をどう整えたのでしょう。"
+    },
+    {
+      "text": "二人が石の上の布を、木の棒で打っています。",
+      "caption": "石の上で布を打っています。"
+    },
+    {
+      "text": "韓国ではタドゥミジルと呼ぶ手仕事です。",
+      "caption": "タドゥミジルという仕事です。"
+    },
+    {
+      "text": "洗って糊を付けた布を打ち、しわや表面を整えました。",
+      "caption": "布のしわを整えました。"
+    },
+    {
+      "text": "砧という言葉を思い出す方もいるかもしれません。",
+      "caption": "砧を思い出しますか。"
+    },
+    {
+      "text": "似た道具から、韓国の衣生活をのぞいてみましょう。",
+      "caption": "韓国の衣生活を見つめます。"
+    },
+    {
+      "text": "腕の角度と、二人の座り方にも注目します。",
+      "caption": "二人の腕を見つめます。"
+    },
+    {
+      "text": "外国人には、白い服の手入れも関心の入り口だったでしょう。",
+      "caption": "白い服の手入れも見所です。"
+    },
+    {
+      "text": "美しい衣服の後ろに、繰り返す労働があります。",
+      "caption": "衣服の後ろに労働があります。"
+    },
+    {
+      "text": "この作品はウンチョの作と伝わります。",
+      "caption": "ウンチョ作と伝わります。"
+    },
+    {
+      "text": "ティージェイキム・コレクションから、二人の手の時間をたどります。",
+      "caption": "TJ KIMの所蔵品です。"
+    }
+  ],
+  "voice": "locales/ja/voice-director.m4a",
+  "settings": {
+    "title": "布を打つ時間",
+    "hook": "白い衣服を支えた手仕事",
+    "byline": "伝・ウンチョ作 · TJ KIM",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "다듬이질: 옷감 정리와 도구",
+      "url": "https://www.scienceall.com/brd/board/749/L/menu/748?bbsSn=15834&brdCodeValue=&brdType=R&thisPage=1"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "日本でなじみのある道具や遊びとの比較から違いを観察する。起源や同一性は断定しない。",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 3.64687,
+      "end": 8.11051,
+      "text": "布をどう整えたのでしょう。",
+      "words": []
+    },
+    {
+      "start": 8.20551,
+      "end": 12.72751,
+      "text": "石の上で布を打っています。",
+      "words": []
+    },
+    {
+      "start": 12.82249,
+      "end": 16.78939,
+      "text": "タドゥミジルという仕事です。",
+      "words": []
+    },
+    {
+      "start": 16.88439,
+      "end": 22.64569,
+      "text": "布のしわを整えました。",
+      "words": []
+    },
+    {
+      "start": 22.74068,
+      "end": 27.32986,
+      "text": "砧を思い出しますか。",
+      "words": []
+    },
+    {
+      "start": 27.42486,
+      "end": 32.68577,
+      "text": "韓国の衣生活を見つめます。",
+      "words": []
+    },
+    {
+      "start": 32.78077,
+      "end": 37.41051,
+      "text": "二人の腕を見つめます。",
+      "words": []
+    },
+    {
+      "start": 37.5055,
+      "end": 43.55378,
+      "text": "白い服の手入れも見所です。",
+      "words": []
+    },
+    {
+      "start": 43.64878,
+      "end": 48.0861,
+      "text": "衣服の後ろに労働があります。",
+      "words": []
+    },
+    {
+      "start": 48.1811,
+      "end": 51.89671,
+      "text": "ウンチョ作と伝わります。",
+      "words": []
+    },
+    {
+      "start": 51.99171,
+      "end": 56.5656,
+      "text": "TJ KIMの所蔵品です。",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "TJ KIM コレクション所蔵",
+    "풍속화 속 한국  /  02": "風俗画に見る韓国  /  02",
+    "그린 그림에서 소장 이미지로": "所蔵画像へ重なる",
+    "소장 이미지 · AI 정리 편집본": "所蔵画像・AI整画像",
+    "인물 1 · 얼굴과 머리": "人物1・顔と髪",
+    "인물 1 · 몸과 손": "人物1・体と手",
+    "인물 1 · 다리·아랫옷": "人物1・脚と衣服",
+    "인물 2 · 얼굴과 머리": "人物2・顔と髪",
+    "인물 2 · 몸과 손": "人物2・体と手",
+    "인물 2 · 다리·아랫옷": "人物2・脚と衣服",
+    "물건 · 생활의 도구": "暮らしの道具",
+    "배경 · 이곳의 하루": "暮らしの背景"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 9.870437,
+    "raw_duration": 44.55,
+    "tempo": 0.88,
+    "inter_block_pause": 0.2375,
+    "narration_end": 62.38525,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 9.864875,
+    "korean_first_audible": 9.870437,
+    "sync_tempo": 1
+  },
+  "asr_script_similarity": 0.9177489177489178,
+  "raw_sha256": "1c6084adbcbfa3f9e1d5f26bf5dbdb4d04450220aa88f6a5f30eea431f57fefc"
+}

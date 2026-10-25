@@ -1,0 +1,2 @@
+TJ Kim Page: character subset and renamed derivative of NAVER Nanum Myeongjo. Modified 2026-10-25. Licensed under SIL OFL 1.1; see OFL.txt.
+TJ Kim Myeongjo: subset and renamed derivative of Nanum Myeongjo Regular from google/fonts (NAVER), 2026-10-25. See NanumMyeongjo-OFL.txt.

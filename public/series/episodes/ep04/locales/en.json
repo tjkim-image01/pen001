@@ -1,0 +1,180 @@
+{
+  "episode": "ep04",
+  "language": "en",
+  "provider": "Typecast",
+  "actor": "아레스",
+  "narration": "A meal on the road can tell you a great deal about a place. Under this thatched roof, people prepare and sell food. Bowls and goods sit close to the customers. In front, a carrier balances a broad tray on her head. Follow the hands that prepare a meal and the body that carries it. A visitor might ask what to order, where to sit, or how food reached the street. The exact dishes are not clear enough to name from this picture alone. Rather than a menu, the scene offers a view of people earning a living. The work is attributed to Uncho. From the TJ Kim Collection, an unfamiliar shop becomes a place of familiar human effort.",
+  "blocks": [
+    {
+      "text": "A meal on the road can tell you a great deal about a place.",
+      "caption": "Meals tell a tale."
+    },
+    {
+      "text": "Under this thatched roof, people prepare and sell food.",
+      "caption": "Food means work."
+    },
+    {
+      "text": "Bowls and goods sit close to the customers.",
+      "caption": "Bowls hold a meal."
+    },
+    {
+      "text": "In front, a carrier balances a broad tray on her head.",
+      "caption": "A tray can travel."
+    },
+    {
+      "text": "Follow the hands that prepare a meal and the body that carries it.",
+      "caption": "Follow the hands."
+    },
+    {
+      "text": "A visitor might ask what to order, where to sit, or how food reached the street.",
+      "caption": "How did food move?"
+    },
+    {
+      "text": "The exact dishes are not clear enough to name from this picture alone.",
+      "caption": "Names are unclear."
+    },
+    {
+      "text": "Rather than a menu, the scene offers a view of people earning a living.",
+      "caption": "This is a workday."
+    },
+    {
+      "text": "The work is attributed to Uncho.",
+      "caption": "Perhaps by Uncho."
+    },
+    {
+      "text": "From the TJ Kim Collection, an unfamiliar shop becomes a place of familiar human effort.",
+      "caption": "TJ KIM keeps it."
+    }
+  ],
+  "voice": "locales/en/voice-director.m4a",
+  "settings": {
+    "title": "A meal along the road",
+    "hook": "A food shop becomes a workplace",
+    "byline": "Attributed to Uncho · TJ KIM Collection",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "주막: 음식·술·숙박의 일반 맥락. 이 그림의 개별 점포를 주막으로 확정하지 않음",
+      "url": "https://encykorea.aks.ac.kr/Article/E0053227"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "Objects and routines introduced for an English-speaking newcomer; analogies are interpretive.",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 7.09342,
+      "end": 12.19785,
+      "text": "Meals tell a tale.",
+      "words": []
+    },
+    {
+      "start": 12.20223,
+      "end": 17.40988,
+      "text": "Food means work.",
+      "words": []
+    },
+    {
+      "start": 17.41425,
+      "end": 21.36315,
+      "text": "Bowls hold a meal.",
+      "words": []
+    },
+    {
+      "start": 21.36753,
+      "end": 26.07684,
+      "text": "A tray can travel.",
+      "words": []
+    },
+    {
+      "start": 26.08122,
+      "end": 31.45052,
+      "text": "Follow the hands.",
+      "words": []
+    },
+    {
+      "start": 31.45488,
+      "end": 37.57851,
+      "text": "How did food move?",
+      "words": []
+    },
+    {
+      "start": 37.58288,
+      "end": 42.44172,
+      "text": "Names are unclear.",
+      "words": []
+    },
+    {
+      "start": 42.44608,
+      "end": 48.14034,
+      "text": "This is a workday.",
+      "words": []
+    },
+    {
+      "start": 48.14472,
+      "end": 50.87752,
+      "text": "Perhaps by Uncho.",
+      "words": []
+    },
+    {
+      "start": 50.88188,
+      "end": 57.9792,
+      "text": "TJ KIM keeps it.",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "From the TJ KIM Collection",
+    "풍속화 속 한국  /  03": "KOREAN LIFE IN PAINTINGS  /  03",
+    "그린 그림에서 소장 이미지로": "Painting to collection image",
+    "소장 이미지 · AI 정리 편집본": "Collection image · AI cleanup",
+    "인물 1 · 얼굴과 머리": "Figure 1 · Face and hair",
+    "인물 1 · 몸과 손": "Figure 1 · Body and hands",
+    "인물 1 · 다리·아랫옷": "Figure 1 · Legs and clothing",
+    "인물 2 · 얼굴과 머리": "Figure 2 · Face and hair",
+    "인물 2 · 몸과 손": "Figure 2 · Body and hands",
+    "인물 2 · 다리·아랫옷": "Figure 2 · Legs and clothing",
+    "인물 3 · 얼굴과 머리": "Figure 3 · Face and hair",
+    "인물 3 · 몸과 손": "Figure 3 · Body and hands",
+    "인물 3 · 다리·아랫옷": "Figure 3 · Legs and clothing",
+    "인물 4 · 얼굴과 머리": "Figure 4 · Face and hair",
+    "인물 4 · 몸과 손": "Figure 4 · Body and hands",
+    "인물 5 · 얼굴과 머리": "Figure 5 · Face and hair",
+    "인물 5 · 몸과 손": "Figure 5 · Body and hands",
+    "인물 6 · 얼굴과 머리": "Figure 6 · Face and hair",
+    "인물 6 · 몸과 손": "Figure 6 · Body and hands",
+    "인물 6 · 다리·아랫옷": "Figure 6 · Legs and clothing",
+    "인물 7 · 얼굴과 머리": "Figure 7 · Face and hair",
+    "인물 7 · 몸과 손": "Figure 7 · Body and hands",
+    "인물 8 · 얼굴과 머리": "Figure 8 · Face and hair",
+    "인물 8 · 몸과 손": "Figure 8 · Body and hands",
+    "인물 9 · 얼굴과 머리": "Figure 9 · Face and hair",
+    "인물 9 · 몸과 손": "Figure 9 · Body and hands",
+    "인물 9 · 다리·아랫옷": "Figure 9 · Legs and clothing",
+    "물건 · 생활의 도구": "Objects of daily life",
+    "배경 · 이곳의 하루": "The setting"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 13.269542,
+    "raw_duration": 46.55,
+    "tempo": 0.88,
+    "inter_block_pause": 0.011363636363637082,
+    "narration_end": 63.851687,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 13.266375,
+    "korean_first_audible": 13.269542,
+    "sync_tempo": 1.04
+  },
+  "asr_script_similarity": 0.9949238578680203,
+  "raw_sha256": "3080f4b77fde058c191cd177f737500e16fa702be6cbad9ea4f2093c40794d66"
+}

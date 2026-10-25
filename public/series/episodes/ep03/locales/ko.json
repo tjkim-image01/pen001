@@ -1,0 +1,155 @@
+{
+  "episode": "ep03",
+  "language": "ko",
+  "provider": "Typecast",
+  "actor": "한준",
+  "narration": "옷을 반듯하게 만들려고, 두 사람이 방망이를 들었습니다. 흰 천을 돌 위에 놓고 두드리는 다듬이질입니다. 빨고 풀을 먹인 옷감의 주름을 펴고 표면을 다듬었지요. 손에 든 나무 방망이와 낮은 돌이 생활의 도구였습니다. 두 사람의 팔과 앉은 자세를 천천히 따라가 봅니다. 보기 좋은 옷 한 벌 뒤에, 반복되는 손일이 있습니다. 조선을 처음 본 사람은 흰옷을 어떻게 돌보는지도 궁금했겠지요. 그림은 옷차림과 그 뒤의 노동을 함께 보여 줍니다. 소리는 들리지 않아도, 두 사람이 맞추는 박자를 상상해 봅니다. 이 그림은 운초의 작품으로 전합니다. 티제이킴 컬렉션에서, 오래된 하루를 다시 만납니다.",
+  "blocks": [
+    {
+      "text": "옷을 반듯하게 만들려고, 두 사람이 방망이를 들었습니다.",
+      "caption": "옷을 반듯하게 다듬습니다."
+    },
+    {
+      "text": "흰 천을 돌 위에 놓고 두드리는 다듬이질입니다.",
+      "caption": "다듬이질을 하는 장면입니다."
+    },
+    {
+      "text": "빨고 풀을 먹인 옷감의 주름을 펴고 표면을 다듬었지요.",
+      "caption": "천의 주름을 펴 줍니다."
+    },
+    {
+      "text": "손에 든 나무 방망이와 낮은 돌이 생활의 도구였습니다.",
+      "caption": "방망이와 돌을 사용합니다."
+    },
+    {
+      "text": "두 사람의 팔과 앉은 자세를 천천히 따라가 봅니다.",
+      "caption": "두 사람의 손을 따라갑니다."
+    },
+    {
+      "text": "보기 좋은 옷 한 벌 뒤에, 반복되는 손일이 있습니다.",
+      "caption": "옷 뒤에는 손일이 있습니다."
+    },
+    {
+      "text": "조선을 처음 본 사람은 흰옷을 어떻게 돌보는지도 궁금했겠지요.",
+      "caption": "흰옷의 비결이 궁금했겠지요."
+    },
+    {
+      "text": "그림은 옷차림과 그 뒤의 노동을 함께 보여 줍니다.",
+      "caption": "그림에 노동도 남았습니다."
+    },
+    {
+      "text": "소리는 들리지 않아도, 두 사람이 맞추는 박자를 상상해 봅니다.",
+      "caption": "두 사람의 박자를 상상합니다."
+    },
+    {
+      "text": "이 그림은 운초의 작품으로 전합니다.",
+      "caption": "운초의 작품으로 전합니다."
+    },
+    {
+      "text": "티제이킴 컬렉션에서, 오래된 하루를 다시 만납니다.",
+      "caption": "TJ KIM 컬렉션 소장품입니다."
+    }
+  ],
+  "voice": "locales/ko/voice-director.m4a",
+  "settings": {
+    "title": "옷을 두드리던 시간",
+    "hook": "다림질 이전의 소리",
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "다듬이질: 옷감 정리와 도구",
+      "url": "https://www.scienceall.com/brd/board/749/L/menu/748?bbsSn=15834&brdCodeValue=&brdType=R&thisPage=1"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "생활의 도구와 노동, 외국인의 시선을 그림 관찰로 해석",
+  "captions": [
+    {
+      "start": 2.2,
+      "end": 6.71558,
+      "text": "옷을 반듯하게 다듬습니다.",
+      "words": []
+    },
+    {
+      "start": 7.27558,
+      "end": 11.31315,
+      "text": "다듬이질을 하는 장면입니다.",
+      "words": []
+    },
+    {
+      "start": 11.87315,
+      "end": 16.42229,
+      "text": "천의 주름을 펴 줍니다.",
+      "words": []
+    },
+    {
+      "start": 16.98229,
+      "end": 21.2511,
+      "text": "방망이와 돌을 사용합니다.",
+      "words": []
+    },
+    {
+      "start": 21.8111,
+      "end": 25.94323,
+      "text": "두 사람의 손을 따라갑니다.",
+      "words": []
+    },
+    {
+      "start": 26.50323,
+      "end": 30.66217,
+      "text": "옷 뒤에는 손일이 있습니다.",
+      "words": []
+    },
+    {
+      "start": 31.22217,
+      "end": 36.25898,
+      "text": "흰옷의 비결이 궁금했겠지요.",
+      "words": []
+    },
+    {
+      "start": 36.81898,
+      "end": 40.80283,
+      "text": "그림에 노동도 남았습니다.",
+      "words": []
+    },
+    {
+      "start": 41.36283,
+      "end": 46.13738,
+      "text": "두 사람의 박자를 상상합니다.",
+      "words": []
+    },
+    {
+      "start": 46.69738,
+      "end": 49.94785,
+      "text": "운초의 작품으로 전합니다.",
+      "words": []
+    },
+    {
+      "start": 50.50785,
+      "end": 53.97325,
+      "text": "TJ KIM 컬렉션 소장품입니다.",
+      "words": []
+    }
+  ],
+  "translations": {},
+  "timing": {
+    "intro": 6,
+    "narration_start": 8.2,
+    "raw_duration": 33.3,
+    "tempo": 0.88,
+    "inter_block_pause": 1.4,
+    "narration_end": 59.97325,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions"
+  },
+  "asr_script_similarity": 0.9279661016949152,
+  "raw_sha256": "05b7d1173d7b2e6977374f89f111dc0009d076a68e5915f42f8accfc60ed69c1"
+}

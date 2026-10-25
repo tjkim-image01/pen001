@@ -1,0 +1,159 @@
+{
+  "episode": "ep06",
+  "language": "ja",
+  "provider": "Typecast",
+  "actor": "이노우에 다이치",
+  "narration": "長い弦楽器から、日本の箏を思い浮かべますか。 ここでは、韓国の部屋に座る二人と楽器を見てみます。 木の胴と弦、その上の手を目でたどります。 絵は静かですが、指先が演奏を想像させます。 似た形だけで、同じ楽器や同じ場面とは決めません。 外国人には、床に近い楽器と座り方も見所だったでしょう。 衣装だけでは、二人の身分は決められません。 近くに座る距離と、窓の線にも目を向けます。 ウンチョ作と伝わる、部屋の小さな音楽の時間です。 ティージェイキム・コレクションから、聞こえない音を想像します。",
+  "blocks": [
+    {
+      "text": "長い弦楽器から、日本の箏を思い浮かべますか。",
+      "caption": "箏を思い浮かべますか。"
+    },
+    {
+      "text": "ここでは、韓国の部屋に座る二人と楽器を見てみます。",
+      "caption": "韓国の部屋を見てみます。"
+    },
+    {
+      "text": "木の胴と弦、その上の手を目でたどります。",
+      "caption": "弦の上の手をたどります。"
+    },
+    {
+      "text": "絵は静かですが、指先が演奏を想像させます。",
+      "caption": "指先から音を想像します。"
+    },
+    {
+      "text": "似た形だけで、同じ楽器や同じ場面とは決めません。",
+      "caption": "同じ楽器とは決めません。"
+    },
+    {
+      "text": "外国人には、床に近い楽器と座り方も見所だったでしょう。",
+      "caption": "座り方も見所だったでしょう。"
+    },
+    {
+      "text": "衣装だけでは、二人の身分は決められません。",
+      "caption": "衣装だけでは身分は不明です。"
+    },
+    {
+      "text": "近くに座る距離と、窓の線にも目を向けます。",
+      "caption": "二人の距離にも目を向けます。"
+    },
+    {
+      "text": "ウンチョ作と伝わる、部屋の小さな音楽の時間です。",
+      "caption": "ウンチョ作と伝わります。"
+    },
+    {
+      "text": "ティージェイキム・コレクションから、聞こえない音を想像します。",
+      "caption": "TJ KIMの所蔵品です。"
+    }
+  ],
+  "voice": "locales/ja/voice-director.m4a",
+  "settings": {
+    "title": "指先に残る音楽",
+    "hook": "絵からどんな音が聞こえますか",
+    "byline": "伝・ウンチョ作 · TJ KIM",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "日本でなじみのある道具や遊びとの比較から違いを観察する。起源や同一性は断定しない。",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 3.503,
+      "end": 8.33038,
+      "text": "箏を思い浮かべますか。",
+      "words": []
+    },
+    {
+      "start": 8.55967,
+      "end": 14.05986,
+      "text": "韓国の部屋を見てみます。",
+      "words": []
+    },
+    {
+      "start": 14.28915,
+      "end": 18.62501,
+      "text": "弦の上の手をたどります。",
+      "words": []
+    },
+    {
+      "start": 18.8543,
+      "end": 23.92695,
+      "text": "指先から音を想像します。",
+      "words": []
+    },
+    {
+      "start": 24.15624,
+      "end": 29.96795,
+      "text": "同じ楽器とは決めません。",
+      "words": []
+    },
+    {
+      "start": 30.19724,
+      "end": 36.51939,
+      "text": "座り方も見所だったでしょう。",
+      "words": []
+    },
+    {
+      "start": 36.74869,
+      "end": 41.31383,
+      "text": "衣装だけでは身分は不明です。",
+      "words": []
+    },
+    {
+      "start": 41.54313,
+      "end": 46.27275,
+      "text": "二人の距離にも目を向けます。",
+      "words": []
+    },
+    {
+      "start": 46.50205,
+      "end": 51.67563,
+      "text": "ウンチョ作と伝わります。",
+      "words": []
+    },
+    {
+      "start": 51.90492,
+      "end": 56.4177,
+      "text": "TJ KIMの所蔵品です。",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "TJ KIM コレクション所蔵",
+    "풍속화 속 한국  /  05": "風俗画に見る韓国  /  05",
+    "그린 그림에서 소장 이미지로": "所蔵画像へ重なる",
+    "소장 이미지 · AI 정리 편집본": "所蔵画像・AI整画像",
+    "인물 1 · 얼굴과 머리": "人物1・顔と髪",
+    "인물 1 · 몸과 손": "人物1・体と手",
+    "인물 1 · 다리·아랫옷": "人物1・脚と衣服",
+    "인물 2 · 얼굴과 머리": "人物2・顔と髪",
+    "인물 2 · 몸과 손": "人物2・体と手",
+    "인물 2 · 다리·아랫옷": "人物2・脚と衣服",
+    "물건 · 생활의 도구": "暮らしの道具",
+    "배경 · 이곳의 하루": "暮らしの背景"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 9.7725,
+    "raw_duration": 42.1,
+    "tempo": 0.88,
+    "inter_block_pause": 0.573232323232323,
+    "narration_end": 62.17125,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 9.764854,
+    "korean_first_audible": 9.7725,
+    "sync_tempo": 1
+  },
+  "asr_script_similarity": 0.8981481481481481,
+  "raw_sha256": "c873ebc2b4b6c7b01f1116c71cdfc0586b997a9da45a9192ca1394706b0c6020"
+}

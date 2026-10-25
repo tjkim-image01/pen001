@@ -1,0 +1,298 @@
+{
+  "id": "ep08",
+  "number": 8,
+  "title": "말 한 수에 담긴 하루",
+  "hook": "바둑과 다른 놀이",
+  "category": "놀이·음악",
+  "album": 6,
+  "side": "left",
+  "duration": 66,
+  "byline": "운초 전칭 · TJ KIM 컬렉션",
+  "narration": [
+    "두 사람이 판을 사이에 두고 마주 앉았습니다. 동그란 돌을 놓는 바둑과 달리, 글자가 있는 말을 움직이는 장기입니다.",
+    "말마다 움직이는 방법이 다르고, 상대의 다음 수를 읽어야 합니다. 차와 포, 마와 상이 오가는 작은 판에는 전쟁의 진형이 놀이의 규칙으로 들어와 있지요.",
+    "먼저 판의 선을 긋고, 말을 하나씩 올려 봅니다. 고개를 조금 숙인 자세와 판 쪽으로 모인 손이 두 사람의 집중을 보여 줍니다. 그림에는 승부의 결과보다 생각하는 시간이 남았습니다.",
+    "서양의 체스에 익숙한 외국인이라면 자기 나라의 놀이와 닮은 점, 다른 점을 함께 찾았을 겁니다. 한자를 읽지 못해도, 서로의 수를 기다리는 모습은 알아볼 수 있었겠지요.",
+    "이국적인 복식만 보던 눈이 놀이의 규칙으로 옮겨 갈 때, 낯선 조선 사람도 같은 즐거움과 승부욕을 지닌 이웃으로 가까워집니다."
+  ],
+  "voice_id": "S08",
+  "voice_text": "두 사람이 판을 사이에 두고 마주 앉았습니다. 동그란 돌을 놓는 바둑과 달리, 글자가 있는 말을 움직이는 장기입니다. 말마다 움직이는 방법이 다르고, 상대의 다음 수를 읽어야 합니다. 차와 포, 마와 상이 오가는 작은 판에는 전쟁의 진형이 놀이의 규칙으로 들어와 있지요. 먼저 판의 선을 긋고, 말을 하나씩 올려 봅니다. 고개를 조금 숙인 자세와 판 쪽으로 모인 손이 두 사람의 집중을 보여 줍니다. 그림에는 승부의 결과보다 생각하는 시간이 남았습니다. 서양의 체스에 익숙한 외국인이라면 자기 나라의 놀이와 닮은 점, 다른 점을 함께 찾았을 겁니다. 한자를 읽지 못해도, 서로의 수를 기다리는 모습은 알아볼 수 있었겠지요. 이국적인 복식만 보던 눈이 놀이의 규칙으로 옮겨 갈 때, 낯선 조선 사람도 같은 즐거움과 승부욕을 지닌 이웃으로 가까워집니다.",
+  "voice_file": "S08.wav",
+  "video": "../episodes/ep08/output/ep08-short-60s.mp4",
+  "poster": "../episodes/ep08/art/poster.jpg",
+  "original": "../episodes/ep08/art/original-clean.png",
+  "source_photo": "../../../research/album-6.jpg",
+  "sources": [
+    {
+      "title": "장기: 말의 종류와 진법 놀이",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048325"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "status": "ready",
+  "player_director": {
+    "intro_duration": 6,
+    "shots": [
+      {
+        "element": "left_man_face",
+        "start": 0.8,
+        "end": 4.934375000000005,
+        "box": [
+          167.875,
+          92.1,
+          465.125,
+          329.9
+        ],
+        "zoom": 3.36,
+        "secondary": false
+      },
+      {
+        "element": "left_man_body",
+        "start": 4.934375000000005,
+        "end": 9.98750000000001,
+        "box": [
+          0.0,
+          88.77,
+          659.325,
+          616.23
+        ],
+        "zoom": 1.52,
+        "secondary": false
+      },
+      {
+        "element": "left_man_legs",
+        "start": 9.98750000000001,
+        "end": 13.815625000000015,
+        "box": [
+          100.7,
+          341.92,
+          488.3,
+          652.0
+        ],
+        "zoom": 2.58,
+        "secondary": false
+      },
+      {
+        "element": "right_man_face",
+        "start": 13.815625000000015,
+        "end": 17.95000000000002,
+        "box": [
+          542.062,
+          78.25,
+          813.938,
+          295.75
+        ],
+        "zoom": 3.68,
+        "secondary": false
+      },
+      {
+        "element": "right_man_body",
+        "start": 17.95000000000002,
+        "end": 23.00312500000003,
+        "box": [
+          358.375,
+          72.85,
+          1000.0,
+          586.15
+        ],
+        "zoom": 1.56,
+        "secondary": false
+      },
+      {
+        "element": "right_man_legs",
+        "start": 23.00312500000003,
+        "end": 26.83125000000002,
+        "box": [
+          515.2,
+          298.72,
+          956.8,
+          652.0
+        ],
+        "zoom": 2.26,
+        "secondary": false
+      },
+      {
+        "element": "objects",
+        "start": 26.83125000000002,
+        "end": 37.54999999999999,
+        "box": [
+          304.25,
+          189.4,
+          805.75,
+          590.6
+        ],
+        "zoom": 1.99,
+        "secondary": false
+      },
+      {
+        "element": "background",
+        "start": 37.54999999999999,
+        "end": 49.8,
+        "box": [
+          0,
+          0,
+          1000,
+          652
+        ],
+        "zoom": 1.0,
+        "secondary": false
+      }
+    ],
+    "brush_types": {
+      "fine": {
+        "label": "세필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "fine-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "medium": {
+        "label": "중필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "medium-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "large": {
+        "label": "대필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "large-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "flat": {
+        "label": "평붓",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "flat-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      }
+    },
+    "brush_frames": 96,
+    "viewport": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "ink_bleed": 0.45,
+    "signature": "approved portrait Tj v13",
+    "signature_duration": 2.5,
+    "pressure_brush": {
+      "atlas": "pressure-atlas.png",
+      "width": 192,
+      "height": 288,
+      "anchor": [
+        62.4,
+        253.2
+      ],
+      "levels": 4,
+      "angles": 24
+    },
+    "caption_top": 1374,
+    "material": "fiber-height-wet-roughness-shader",
+    "caption_font_size": 60,
+    "brush_motion": "path-direction-speed-pressure-live-3d",
+    "intro_brush": "large-calligraphy-separate-tuft",
+    "intro_brush_scale": 9.04,
+    "intro_ink_bleed_multiplier": 2,
+    "brush_camera_reference": {
+      "intro": 3.6,
+      "painting": 5.14
+    },
+    "signature_canvas": [
+      1080,
+      1920
+    ],
+    "signature_approved": true,
+    "wet_ink_on_contact": true
+  },
+  "player_music": {
+    "file": "../../../music/flow-night-ready.m4a",
+    "title": "먹빛의 밤",
+    "source": "Google Flow Music original generation",
+    "hide_credit": true,
+    "effects_at": [
+      1,
+      1.35,
+      1.65,
+      1.93,
+      2.17,
+      2.38,
+      2.56,
+      2.73,
+      2.88,
+      3.02,
+      3.15,
+      3.27,
+      3.39,
+      3.5
+    ],
+    "separate_tracks": true,
+    "default_start": 5,
+    "default_offset": 0,
+    "intro_rim_file": "court-finish-v9.m4a",
+    "roll_file": "roll-v7.m4a",
+    "finish_instrument": "three-buk-inspired",
+    "gain_controls": true,
+    "finish_file": "court-finish-v9.m4a",
+    "finish_duration": 1.55,
+    "finish_at": 3.5,
+    "effects_scope": "intro-only"
+  },
+  "caption_style": "calm-myeongjo",
+  "caption_layout": {
+    "max_chars": 18,
+    "font_size": 54,
+    "top": 1374,
+    "one_line": true
+  },
+  "player_revision": "series-v15",
+  "player_only": false,
+  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "exports": {
+    "ko": "ep08-short-ko-v18-cover.mp4",
+    "en": "ep08-short-en-v18-cover.mp4",
+    "ja": "ep08-short-ja-v18-cover.mp4"
+  },
+  "cover_exports": {
+    "ko": "../episodes/ep08/art/covers-v18/ko.png",
+    "en": "../episodes/ep08/art/covers-v18/en.png",
+    "ja": "../episodes/ep08/art/covers-v18/ja.png"
+  }
+}

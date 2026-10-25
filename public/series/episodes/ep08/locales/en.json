@@ -1,0 +1,163 @@
+{
+  "episode": "ep08",
+  "language": "en",
+  "provider": "Typecast",
+  "actor": "아레스",
+  "narration": "A chess player might recognize this concentration. But these lettered pieces belong to janggi, Korean chess. Each kind of piece moves by its own rules. The players must read the position and anticipate another move. Notice the lowered heads and the hands reaching toward the board. To a visitor, both the familiar contest and the unfamiliar pieces could be intriguing. You need not read every character to recognize the waiting and the thought. The picture preserves concentration rather than the final result. The work is attributed to Uncho. From the TJ Kim Collection, a quiet game lets strangers share a familiar human moment.",
+  "blocks": [
+    {
+      "text": "A chess player might recognize this concentration.",
+      "caption": "Focus feels close."
+    },
+    {
+      "text": "But these lettered pieces belong to janggi, Korean chess.",
+      "caption": "This is janggi."
+    },
+    {
+      "text": "Each kind of piece moves by its own rules.",
+      "caption": "Pieces have rules."
+    },
+    {
+      "text": "The players must read the position and anticipate another move.",
+      "caption": "Think ahead."
+    },
+    {
+      "text": "Notice the lowered heads and the hands reaching toward the board.",
+      "caption": "Watch their hands."
+    },
+    {
+      "text": "To a visitor, both the familiar contest and the unfamiliar pieces could be intriguing.",
+      "caption": "A new board waits."
+    },
+    {
+      "text": "You need not read every character to recognize the waiting and the thought.",
+      "caption": "Waiting is shared."
+    },
+    {
+      "text": "The picture preserves concentration rather than the final result.",
+      "caption": "Thought is shown."
+    },
+    {
+      "text": "The work is attributed to Uncho.",
+      "caption": "Perhaps by Uncho."
+    },
+    {
+      "text": "From the TJ Kim Collection, a quiet game lets strangers share a familiar human moment.",
+      "caption": "TJ KIM keeps it."
+    }
+  ],
+  "voice": "locales/en/voice-director.m4a",
+  "settings": {
+    "title": "A quiet contest",
+    "hook": "Janggi, beyond the familiar chessboard",
+    "byline": "Attributed to Uncho · TJ KIM Collection",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "장기: 말의 종류와 진법 놀이",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048325"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "Objects and routines introduced for an English-speaking newcomer; analogies are interpretive.",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 6.76015,
+      "end": 10.43973,
+      "text": "Focus feels close.",
+      "words": []
+    },
+    {
+      "start": 10.43973,
+      "end": 15.51337,
+      "text": "This is janggi.",
+      "words": []
+    },
+    {
+      "start": 15.51337,
+      "end": 19.559,
+      "text": "Pieces have rules.",
+      "words": []
+    },
+    {
+      "start": 19.559,
+      "end": 24.79055,
+      "text": "Think ahead.",
+      "words": []
+    },
+    {
+      "start": 24.79055,
+      "end": 30.29141,
+      "text": "Watch their hands.",
+      "words": []
+    },
+    {
+      "start": 30.29141,
+      "end": 36.59636,
+      "text": "A new board waits.",
+      "words": []
+    },
+    {
+      "start": 36.59636,
+      "end": 42.62106,
+      "text": "Waiting is shared.",
+      "words": []
+    },
+    {
+      "start": 42.62106,
+      "end": 47.75184,
+      "text": "Thought is shown.",
+      "words": []
+    },
+    {
+      "start": 47.75184,
+      "end": 50.314,
+      "text": "Perhaps by Uncho.",
+      "words": []
+    },
+    {
+      "start": 50.314,
+      "end": 58.12985,
+      "text": "TJ KIM keeps it.",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "From the TJ KIM Collection",
+    "풍속화 속 한국  /  07": "KOREAN LIFE IN PAINTINGS  /  07",
+    "그린 그림에서 소장 이미지로": "Painting to collection image",
+    "소장 이미지 · AI 정리 편집본": "Collection image · AI cleanup",
+    "인물 1 · 얼굴과 머리": "Figure 1 · Face and hair",
+    "인물 1 · 몸과 손": "Figure 1 · Body and hands",
+    "인물 1 · 다리·아랫옷": "Figure 1 · Legs and clothing",
+    "인물 2 · 얼굴과 머리": "Figure 2 · Face and hair",
+    "인물 2 · 몸과 손": "Figure 2 · Body and hands",
+    "인물 2 · 다리·아랫옷": "Figure 2 · Legs and clothing",
+    "물건 · 생활의 도구": "Objects of daily life",
+    "배경 · 이곳의 하루": "The setting"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 12.936813,
+    "raw_duration": 48.0,
+    "tempo": 0.9056603773584906,
+    "inter_block_pause": 0,
+    "narration_end": 64.137167,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 12.937625,
+    "korean_first_audible": 12.936813,
+    "sync_tempo": 1.03
+  },
+  "asr_script_similarity": 1.0,
+  "raw_sha256": "bf016466d2f150ba3ec153fef9961f50c2d3b9bbebdd5a85ad85679619c84651"
+}

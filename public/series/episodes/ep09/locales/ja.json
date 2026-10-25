@@ -1,0 +1,166 @@
+{
+  "episode": "ep09",
+  "language": "ja",
+  "provider": "Typecast",
+  "actor": "이노우에 다이치",
+  "narration": "餅つきを思い浮かべる場面でしょうか。 韓国のトックを作る、打つ仕事が描かれています。 一人は木の道具を振り下ろし、もう一人は生地を返します。 力だけでなく、相手の手を見て動くことが大切です。 かがんだ背中と、上がった腕を順にたどります。 横で働く人や、通りかかる犬も絵に残りました。 見慣れた作業に似ていても、道具の形をよく見てみます。 外国人には、食べ物と作り方の両方が発見だったでしょう。 この作品はウンチョの作と伝わります。 ティージェイキム・コレクションから、息を合わせる技を見つめます。",
+  "blocks": [
+    {
+      "text": "餅つきを思い浮かべる場面でしょうか。",
+      "caption": "餅つきを思い浮かべますか。"
+    },
+    {
+      "text": "韓国のトックを作る、打つ仕事が描かれています。",
+      "caption": "韓国のトックを作っています。"
+    },
+    {
+      "text": "一人は木の道具を振り下ろし、もう一人は生地を返します。",
+      "caption": "打つ人と返す人がいます。"
+    },
+    {
+      "text": "力だけでなく、相手の手を見て動くことが大切です。",
+      "caption": "相手の手を見て動きます。"
+    },
+    {
+      "text": "かがんだ背中と、上がった腕を順にたどります。",
+      "caption": "背中と腕をたどります。"
+    },
+    {
+      "text": "横で働く人や、通りかかる犬も絵に残りました。",
+      "caption": "犬も仕事場の絵に残りました。"
+    },
+    {
+      "text": "見慣れた作業に似ていても、道具の形をよく見てみます。",
+      "caption": "道具の形もよく見てみます。"
+    },
+    {
+      "text": "外国人には、食べ物と作り方の両方が発見だったでしょう。",
+      "caption": "食べ物と作り方が発見です。"
+    },
+    {
+      "text": "この作品はウンチョの作と伝わります。",
+      "caption": "ウンチョ作と伝わります。"
+    },
+    {
+      "text": "ティージェイキム・コレクションから、息を合わせる技を見つめます。",
+      "caption": "TJ KIMの所蔵品です。"
+    }
+  ],
+  "voice": "locales/ja/voice-director.m4a",
+  "settings": {
+    "title": "息を合わせる手仕事",
+    "hook": "餅つきに似た、その先へ",
+    "byline": "伝・ウンチョ作 · TJ KIM",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "떡: 안반과 떡메를 사용하는 만드는 방법",
+      "url": "https://encykorea.aks.ac.kr/Article/E0017196"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "日本でなじみのある道具や遊びとの比較から違いを観察する。起源や同一性は断定しない。",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 3.7921,
+      "end": 7.35245,
+      "text": "餅つきを思い浮かべますか。",
+      "words": []
+    },
+    {
+      "start": 7.64236,
+      "end": 12.48984,
+      "text": "韓国のトックを作っています。",
+      "words": []
+    },
+    {
+      "start": 12.77975,
+      "end": 18.39796,
+      "text": "打つ人と返す人がいます。",
+      "words": []
+    },
+    {
+      "start": 18.68786,
+      "end": 24.00798,
+      "text": "相手の手を見て動きます。",
+      "words": []
+    },
+    {
+      "start": 24.29789,
+      "end": 29.24329,
+      "text": "背中と腕をたどります。",
+      "words": []
+    },
+    {
+      "start": 29.53319,
+      "end": 34.99348,
+      "text": "犬も仕事場の絵に残りました。",
+      "words": []
+    },
+    {
+      "start": 35.28338,
+      "end": 40.71627,
+      "text": "道具の形もよく見てみます。",
+      "words": []
+    },
+    {
+      "start": 41.00617,
+      "end": 47.36472,
+      "text": "食べ物と作り方が発見です。",
+      "words": []
+    },
+    {
+      "start": 47.65462,
+      "end": 51.55468,
+      "text": "ウンチョ作と伝わります。",
+      "words": []
+    },
+    {
+      "start": 51.84458,
+      "end": 56.70429,
+      "text": "TJ KIMの所蔵品です。",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "TJ KIM コレクション所蔵",
+    "풍속화 속 한국  /  08": "風俗画に見る韓国  /  08",
+    "그린 그림에서 소장 이미지로": "所蔵画像へ重なる",
+    "소장 이미지 · AI 정리 편집본": "所蔵画像・AI整画像",
+    "인물 1 · 얼굴과 머리": "人物1・顔と髪",
+    "인물 1 · 몸과 손": "人物1・体と手",
+    "인물 1 · 다리·아랫옷": "人物1・脚と衣服",
+    "인물 2 · 얼굴과 머리": "人物2・顔と髪",
+    "인물 2 · 몸과 손": "人物2・体と手",
+    "인물 2 · 다리·아랫옷": "人物2・脚と衣服",
+    "인물 3 · 얼굴과 머리": "人物3・顔と髪",
+    "인물 3 · 몸과 손": "人物3・体と手",
+    "인물 3 · 다리·아랫옷": "人物3・脚と衣服",
+    "물건 · 생활의 도구": "暮らしの道具",
+    "배경 · 이곳의 하루": "暮らしの背景"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 9.953292,
+    "raw_duration": 40.9,
+    "tempo": 0.88,
+    "inter_block_pause": 0.7247474747474748,
+    "narration_end": 62.46925,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 9.946063,
+    "korean_first_audible": 9.953292,
+    "sync_tempo": 1
+  },
+  "asr_script_similarity": 0.9,
+  "raw_sha256": "3cf155fd631057ebaba19814f7a5fe498cf6619a71de20fe339b4ffdda2b3ff6"
+}

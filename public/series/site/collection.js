@@ -1,0 +1,17 @@
+import {language,t,categoryName,episodeView,languageUrl,initLanguage} from './i18n.js?revision=18';
+const $=id=>document.getElementById(id);initLanguage();let episodes=[],category='전체',bundles={};
+function render(){
+ const term=$('search').value.trim().toLocaleLowerCase(language);const found=episodes.filter(e=>{const v=episodeView(e);return(category==='전체'||e.category===category)&&[v.title,v.hook,categoryName(e.category),e.title,...v.narration].join(' ').toLocaleLowerCase(language).includes(term);});
+ $('resultCount').textContent=t('count',{count:found.length});$('grid').replaceChildren();$('empty').hidden=found.length>0;
+ for(const e of found){const v=episodeView(e),article=document.createElement('article');article.className='story-card';const a=document.createElement('a');a.className='art-link';a.href=languageUrl(`watch.html?ep=${e.id}`);a.setAttribute('aria-label',t('episode',{number:e.number-1})+' · '+v.title);const im=new Image();im.src=v.poster||e.thumbnail||e.original;im.alt=v.title;im.loading='lazy';im.width=1536;im.height=1024;a.append(im);article.append(a);
+ const meta=document.createElement('div');meta.className='story-meta';const ep=document.createElement('span');ep.textContent=String(e.number-1).padStart(2,'0')+' / '+categoryName(e.category);const duration=document.createElement('span');duration.textContent=v.ready?t('readyLabel'):t('making');meta.append(ep,duration);article.append(meta);
+ const h=document.createElement('h3'),link=document.createElement('a');link.href=a.href;link.textContent=v.title;h.append(link);article.append(h);const p=document.createElement('p');p.textContent=v.hook;article.append(p);
+ const actions=document.createElement('div');actions.className='story-links';for(const[label,href]of [[t('openVideo'),a.href],...(v.ready?[[t('editDrawing'),languageUrl(`studio.html?ep=${e.id}`)]]:[])]){const b=document.createElement('a');b.textContent=label;b.href=href;actions.append(b);}article.append(actions);$('grid').append(article);
+ }
+ const ready=episodes.filter(e=>episodeView(e).ready).length;$('productionStatus').textContent=ready<10?t('readyCount',{count:ready}):'';
+ const bundle=bundles[language];$('downloadAll').hidden=!bundle;if(bundle){$('downloadAll').href=bundle.url;$('downloadAll').textContent=t('bundle')+' · '+bundle.size_mb+' MB';}
+}
+for(const b of $('categories').children)b.onclick=()=>{category=b.dataset.category;for(const x of $('categories').children){x.classList.toggle('active',x===b);x.setAttribute('aria-pressed',String(x===b));}render();};$('search').oninput=render;$('clearSearch').onclick=()=>{$('search').value='';$('categories').firstElementChild.click();};window.addEventListener('languagechange',render);
+async function refresh(){try{const[r,b]=await Promise.all([fetch('../manifest.json',{cache:'no-store'}),fetch('../output/bundles.json',{cache:'no-store'})]);if(!r.ok)throw Error(t('loadError'));episodes=await r.json();if(b.ok)bundles=await b.json();render();}catch(err){$('resultCount').textContent=t('loadError');if(!$('grid').children.length){const p=document.createElement('p');p.className='error';p.textContent=t('loadError');const b=document.createElement('button');b.className='button';b.textContent=t('retry');b.onclick=refresh;p.append(b);$('grid').replaceChildren(p);}}}
+refresh();const poll=setInterval(()=>{if(document.visibilityState==='visible')refresh();},10000);window.addEventListener('pagehide',()=>clearInterval(poll),{once:true});
+

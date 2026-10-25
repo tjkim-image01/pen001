@@ -1,0 +1,519 @@
+{
+  "id": "ep04",
+  "number": 4,
+  "title": "길 위의 밥 한 끼",
+  "hook": "식당 문턱의 조선",
+  "category": "일·먹거리",
+  "album": 3,
+  "side": "right",
+  "duration": 66,
+  "byline": "운초 전칭 · TJ KIM 컬렉션",
+  "narration": [
+    "낯선 나라를 알려면, 사람들이 어디서 밥을 먹는지 보라는 말이 있지요. 이 그림에는 음식을 만들고 파는 가게가 펼쳐집니다.",
+    "초가지붕 아래에는 그릇이 놓였고, 앞쪽에는 먹거리가 진열돼 있습니다. 손님 곁을 지나가는 사람은 넓은 쟁반을 머리에 이었습니다. 음식을 만드는 손과 나르는 몸이 한 화면에서 움직입니다.",
+    "조선의 주막은 길손에게 음식과 술을 내고, 때로는 잠자리도 마련하던 곳이었습니다. 하지만 여기서는 그림에 보이는 음식 장사의 모습부터 천천히 살펴봅니다.",
+    "외국 여행자라면 무엇을 먹는지뿐 아니라, 어떻게 주문하고 어디에 앉는지도 궁금했겠지요. 늘 보던 식탁과 다른 그릇, 지붕, 사람들의 거리가 생활의 차이를 전합니다.",
+    "그릇의 둥근 선을 하나씩 더하면, 이국적인 구경거리였던 가게가 누군가의 생계를 지탱하던 일터로 보이기 시작합니다."
+  ],
+  "voice_id": "S04",
+  "voice_text": "낯선 나라를 알려면, 사람들이 어디서 밥을 먹는지 보라는 말이 있지요. 이 그림에는 음식을 만들고 파는 가게가 펼쳐집니다. 초가지붕 아래에는 그릇이 놓였고, 앞쪽에는 먹거리가 진열돼 있습니다. 손님 곁을 지나가는 사람은 넓은 쟁반을 머리에 이었습니다. 음식을 만드는 손과 나르는 몸이 한 화면에서 움직입니다. 조선의 주막은 길손에게 음식과 술을 내고, 때로는 잠자리도 마련하던 곳이었습니다. 하지만 여기서는 그림에 보이는 음식 장사의 모습부터 천천히 살펴봅니다. 외국 여행자라면 무엇을 먹는지뿐 아니라, 어떻게 주문하고 어디에 앉는지도 궁금했겠지요. 늘 보던 식탁과 다른 그릇, 지붕, 사람들의 거리가 생활의 차이를 전합니다. 그릇의 둥근 선을 하나씩 더하면, 이국적인 구경거리였던 가게가 누군가의 생계를 지탱하던 일터로 보이기 시작합니다.",
+  "voice_file": "S04.wav",
+  "video": "../episodes/ep04/output/ep04-short-60s.mp4",
+  "poster": "../episodes/ep04/art/poster.jpg",
+  "original": "../episodes/ep04/art/original-clean.png",
+  "source_photo": "../../../research/album-3.jpg",
+  "sources": [
+    {
+      "title": "주막: 음식·술·숙박의 일반 맥락. 이 그림의 개별 점포를 주막으로 확정하지 않음",
+      "url": "https://encykorea.aks.ac.kr/Article/E0053227"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "status": "ready",
+  "player_director": {
+    "intro_duration": 6,
+    "shots": [
+      {
+        "element": "carrier_face",
+        "start": 0.8,
+        "end": 3.368932038834953,
+        "box": [
+          656.5,
+          262.5,
+          866.5,
+          430.5
+        ],
+        "zoom": 4.76,
+        "secondary": false
+      },
+      {
+        "element": "carrier_body",
+        "start": 3.368932038834953,
+        "end": 6.508737864077676,
+        "box": [
+          604.538,
+          291.93,
+          933.462,
+          555.07
+        ],
+        "zoom": 3.04,
+        "secondary": false
+      },
+      {
+        "element": "carrier_legs",
+        "start": 6.508737864077676,
+        "end": 8.887378640776708,
+        "box": [
+          614.5,
+          367.5,
+          914.5,
+          607.5
+        ],
+        "zoom": 3.33,
+        "secondary": false
+      },
+      {
+        "element": "front_man_face",
+        "start": 8.887378640776708,
+        "end": 11.456310679611658,
+        "box": [
+          447.0,
+          192.0,
+          657.0,
+          360.0
+        ],
+        "zoom": 4.76,
+        "secondary": false
+      },
+      {
+        "element": "front_man_body",
+        "start": 11.456310679611658,
+        "end": 14.596116504854379,
+        "box": [
+          348.312,
+          216.35,
+          768.688,
+          552.65
+        ],
+        "zoom": 2.38,
+        "secondary": false
+      },
+      {
+        "element": "front_man_legs",
+        "start": 14.596116504854379,
+        "end": 16.97475728155341,
+        "box": [
+          399.5,
+          369.0,
+          699.5,
+          609.0
+        ],
+        "zoom": 3.33,
+        "secondary": false
+      },
+      {
+        "element": "standing_cook_face",
+        "start": 16.97475728155341,
+        "end": 19.543689320388356,
+        "box": [
+          318.5,
+          124.5,
+          528.5,
+          292.5
+        ],
+        "zoom": 4.76,
+        "secondary": false
+      },
+      {
+        "element": "standing_cook_body",
+        "start": 19.543689320388356,
+        "end": 22.68349514563108,
+        "box": [
+          293.3,
+          156.84,
+          623.7,
+          421.16
+        ],
+        "zoom": 3.03,
+        "secondary": false
+      },
+      {
+        "element": "standing_cook_legs",
+        "start": 22.68349514563108,
+        "end": 25.06213592233011,
+        "box": [
+          319.0,
+          256.0,
+          619.0,
+          496.0
+        ],
+        "zoom": 3.33,
+        "secondary": false
+      },
+      {
+        "element": "butcher_face",
+        "start": 25.06213592233011,
+        "end": 25.68058252427186,
+        "box": [
+          0.0,
+          54.5,
+          430.0,
+          398.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "butcher_body",
+        "start": 25.68058252427186,
+        "end": 26.632038834951473,
+        "box": [
+          0.0,
+          83.0,
+          430.0,
+          427.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_cook_face",
+        "start": 26.632038834951473,
+        "end": 27.250485436893214,
+        "box": [
+          94.5,
+          25.5,
+          524.5,
+          369.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_cook_body",
+        "start": 27.250485436893214,
+        "end": 28.201941747572832,
+        "box": [
+          99.0,
+          39.5,
+          529.0,
+          383.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_woman_face",
+        "start": 28.201941747572832,
+        "end": 28.820388349514577,
+        "box": [
+          539.5,
+          0.0,
+          969.5,
+          344.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_woman_body",
+        "start": 28.820388349514577,
+        "end": 29.771844660194194,
+        "box": [
+          538.0,
+          0.0,
+          968.0,
+          344.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_woman_legs",
+        "start": 29.771844660194194,
+        "end": 30.29514563106798,
+        "box": [
+          545.5,
+          36.5,
+          975.5,
+          380.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_hat_man_face",
+        "start": 30.29514563106798,
+        "end": 30.91359223300973,
+        "box": [
+          570.0,
+          0.0,
+          1000.0,
+          344.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_hat_man_body",
+        "start": 30.91359223300973,
+        "end": 31.865048543689344,
+        "box": [
+          570.0,
+          0.0,
+          1000.0,
+          344.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_beard_man_face",
+        "start": 31.865048543689344,
+        "end": 32.483495145631096,
+        "box": [
+          570.0,
+          0.0,
+          1000.0,
+          344.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_beard_man_body",
+        "start": 32.483495145631096,
+        "end": 33.43495145631069,
+        "box": [
+          570.0,
+          0.0,
+          1000.0,
+          344.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "right_cook_face",
+        "start": 33.43495145631069,
+        "end": 34.05339805825245,
+        "box": [
+          570.0,
+          0.0,
+          1000.0,
+          344.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "right_cook_body",
+        "start": 34.05339805825245,
+        "end": 35.004854368932065,
+        "box": [
+          570.0,
+          46.0,
+          1000.0,
+          390.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "right_cook_legs",
+        "start": 35.004854368932065,
+        "end": 35.52815533980585,
+        "box": [
+          570.0,
+          125.5,
+          1000.0,
+          469.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "objects",
+        "start": 35.52815533980585,
+        "end": 42.18834951456313,
+        "box": [
+          70.5,
+          0.0,
+          885.5,
+          652.0
+        ],
+        "zoom": 1.23,
+        "secondary": false
+      },
+      {
+        "element": "background",
+        "start": 42.18834951456313,
+        "end": 49.8,
+        "box": [
+          0,
+          0,
+          1000,
+          652
+        ],
+        "zoom": 1.0,
+        "secondary": false
+      }
+    ],
+    "brush_types": {
+      "fine": {
+        "label": "세필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "fine-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "medium": {
+        "label": "중필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "medium-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "large": {
+        "label": "대필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "large-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "flat": {
+        "label": "평붓",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "flat-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      }
+    },
+    "brush_frames": 96,
+    "viewport": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "ink_bleed": 0.45,
+    "signature": "approved portrait Tj v13",
+    "signature_duration": 2.5,
+    "pressure_brush": {
+      "atlas": "pressure-atlas.png",
+      "width": 192,
+      "height": 288,
+      "anchor": [
+        62.4,
+        253.2
+      ],
+      "levels": 4,
+      "angles": 24
+    },
+    "caption_top": 1374,
+    "material": "fiber-height-wet-roughness-shader",
+    "caption_font_size": 60,
+    "brush_motion": "path-direction-speed-pressure-live-3d",
+    "intro_brush": "large-calligraphy-separate-tuft",
+    "intro_brush_scale": 9.04,
+    "intro_ink_bleed_multiplier": 2,
+    "brush_camera_reference": {
+      "intro": 3.6,
+      "painting": 5.14
+    },
+    "signature_canvas": [
+      1080,
+      1920
+    ],
+    "signature_approved": true,
+    "wet_ink_on_contact": true
+  },
+  "player_music": {
+    "file": "../../../music/flow-playful-ready.m4a",
+    "title": "윷판의 웃음",
+    "source": "Google Flow Music original generation",
+    "hide_credit": true,
+    "effects_at": [
+      1,
+      1.35,
+      1.65,
+      1.93,
+      2.17,
+      2.38,
+      2.56,
+      2.73,
+      2.88,
+      3.02,
+      3.15,
+      3.27,
+      3.39,
+      3.5
+    ],
+    "separate_tracks": true,
+    "default_start": 5,
+    "default_offset": 0,
+    "intro_rim_file": "court-finish-v9.m4a",
+    "roll_file": "roll-v7.m4a",
+    "finish_instrument": "three-buk-inspired",
+    "gain_controls": true,
+    "finish_file": "court-finish-v9.m4a",
+    "finish_duration": 1.55,
+    "finish_at": 3.5,
+    "effects_scope": "intro-only"
+  },
+  "caption_style": "calm-myeongjo",
+  "caption_layout": {
+    "max_chars": 18,
+    "font_size": 54,
+    "top": 1374,
+    "one_line": true
+  },
+  "player_revision": "series-v15",
+  "player_only": false,
+  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "exports": {
+    "ko": "ep04-short-ko-v18-cover.mp4",
+    "en": "ep04-short-en-v18-cover.mp4",
+    "ja": "ep04-short-ja-v18-cover.mp4"
+  },
+  "cover_exports": {
+    "ko": "../episodes/ep04/art/covers-v18/ko.png",
+    "en": "../episodes/ep04/art/covers-v18/en.png",
+    "ja": "../episodes/ep04/art/covers-v18/ja.png"
+  }
+}

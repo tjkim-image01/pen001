@@ -1,0 +1,1327 @@
+[
+  {
+    "id": "ep02",
+    "number": 2,
+    "title": "네 사람이 둘러앉은 이유",
+    "hook": "조선의 보드게임",
+    "category": "놀이·음악",
+    "album": 2,
+    "side": "left",
+    "duration": 67.5,
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "narration": [
+      "조선 사람들은 쉬는 날, 무엇을 하며 놀았을까요? 네 사람이 낮은 판을 둘러싸고 앉았습니다. 오늘의 주인공은 윷놀이입니다.",
+      "윷을 던진 결과에 따라 말을 움직이고, 어느 길로 갈지 머리를 씁니다. 운만으로 끝나지 않는 놀이죠. 작은 도구 몇 개가 사람들을 한자리에 모았습니다.",
+      "처음 이 그림을 본 외국인이라면, 주사위 대신 쓰는 나무 조각과 판 위의 길이 궁금했을 겁니다. 사람들의 옷차림만큼, 함께 시간을 보내는 방식도 낯선 나라를 이해하는 단서였겠지요.",
+      "한복의 색과 손의 방향을 따라 그려 보세요. 판은 작아도 사람 사이의 거리는 가까워집니다. 다만 그림은 그 순간을 골라 보여 줍니다. 이 장면 하나로 조선의 모든 놀이 문화를 설명할 수는 없겠지요.",
+      "우리에게 익숙한 윷판이, 누군가에게는 처음 만나는 조선의 모습이었습니다."
+    ],
+    "voice_id": "S02",
+    "voice_text": "조선 사람들은 쉬는 날, 무엇을 하며 놀았을까요? 네 사람이 낮은 판을 둘러싸고 앉았습니다. 오늘의 주인공은 윷놀이입니다. 윷을 던진 결과에 따라 말을 움직이고, 어느 길로 갈지 머리를 씁니다. 운만으로 끝나지 않는 놀이죠. 작은 도구 몇 개가 사람들을 한자리에 모았습니다. 처음 이 그림을 본 외국인이라면, 주사위 대신 쓰는 나무 조각과 판 위의 길이 궁금했을 겁니다. 사람들의 옷차림만큼, 함께 시간을 보내는 방식도 낯선 나라를 이해하는 단서였겠지요. 한복의 색과 손의 방향을 따라 그려 보세요. 판은 작아도 사람 사이의 거리는 가까워집니다. 다만 그림은 그 순간을 골라 보여 줍니다. 이 장면 하나로 조선의 모든 놀이 문화를 설명할 수는 없겠지요. 우리에게 익숙한 윷판이, 누군가에게는 처음 만나는 조선의 모습이었습니다.",
+    "voice_file": "S02.wav",
+    "video": "../episodes/ep02/output/ep02-short-ko-v18-cover.mp4",
+    "poster": "../episodes/ep02/art/covers-v18/ko.png",
+    "original": "../episodes/ep02/art/original-clean.png",
+    "source_photo": "../../../research/album-2.jpg",
+    "sources": [
+      {
+        "title": "윷놀이: 규칙과 공동 놀이",
+        "url": "https://encykorea.aks.ac.kr/Article/E0042794"
+      },
+      {
+        "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+        "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+      },
+      {
+        "title": "기산풍속도첩 · 서울역사박물관",
+        "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+      }
+    ],
+    "thumbnail": "../episodes/ep02/art/thumb.jpg",
+    "status": "ready",
+    "revision": "figure-first-caption18-v3",
+    "caption_style": "calm-myeongjo",
+    "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+    "caption_layout": {
+      "max_chars": 18,
+      "font_size": 54,
+      "top": 1374,
+      "one_line": true
+    },
+    "player_only": false,
+    "player_revision": "portrait-intro-v14",
+    "player_duration": 66,
+    "editions": {
+      "ko": {
+        "title": "네 사람이 둘러앉은 이유",
+        "video": "../episodes/ep02/output/ep02-short-ko-v18-cover.mp4",
+        "narration": [
+          "조선 사람들은 쉬는 날, 무엇을 하며 놀았을까요? 네 사람이 낮은 판을 둘러싸고 앉았습니다. 오늘의 주인공은 윷놀이입니다.",
+          "윷을 던진 결과에 따라 말을 움직이고, 어느 길로 갈지 머리를 씁니다. 운만으로 끝나지 않는 놀이죠. 작은 도구 몇 개가 사람들을 한자리에 모았습니다.",
+          "처음 이 그림을 본 외국인이라면, 주사위 대신 쓰는 나무 조각과 판 위의 길이 궁금했을 겁니다. 사람들의 옷차림만큼, 함께 시간을 보내는 방식도 낯선 나라를 이해하는 단서였겠지요.",
+          "한복의 색과 손의 방향을 따라 그려 보세요. 판은 작아도 사람 사이의 거리는 가까워집니다. 다만 그림은 그 순간을 골라 보여 줍니다. 이 장면 하나로 조선의 모든 놀이 문화를 설명할 수는 없겠지요.",
+          "우리에게 익숙한 윷판이, 누군가에게는 처음 만나는 조선의 모습이었습니다."
+        ],
+        "ready": true,
+        "poster": "../episodes/ep02/art/covers-v18/ko.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "en": {
+        "title": "Why gather here?",
+        "video": "../episodes/ep02/output/ep02-short-en-v18-cover.mp4",
+        "narration": [
+          "Four people, one small board. What brought them together? This is yutnori, a Korean game played with four wooden sticks instead of dice. Players move their pieces around a board, choosing routes and trying to send every piece home. A lucky throw helps, but a smart choice matters too. Traditionally played around the Lunar New Year, the game brings families and neighbors together. Nineteenth-century visitors to Korea collected pictures of everyday life: work, clothing, and moments like this. Such a scene could introduce an unfamiliar country through something familiar: playing together. This work is attributed to Uncho. Watch the hands and the circle of players. From the TJ Kim Collection, a small game opens a window onto Korean life."
+        ],
+        "hook": "A Korean board game, seen through everyday life.",
+        "ready": true,
+        "poster": "../episodes/ep02/art/covers-v18/en.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "ja": {
+        "title": "四人が集まる理由",
+        "video": "../episodes/ep02/output/ep02-short-ja-v18-cover.mp4",
+        "narration": [
+          "すごろくのように見えますか。これは韓国のユンノリです。さいころの代わりに四本の木の棒を投げ、駒を進めます。近道を選んだり、仲間の駒を一緒に進めたり。運だけでなく、相談する楽しさもあります。旧正月ごろ、家族や近所の人が集まって親しまれてきました。十九世紀の外国人にとって、こうした風俗画は、朝鮮の暮らしを知る窓でもありました。衣服だけでなく、遊ぶ時間や、人との距離も見えてきます。この作品は、ウンチョの作と伝わります。四人の手元から、その場の空気を想像してみましょう。ティージェイキム・コレクションの所蔵品です。"
+        ],
+        "hook": "遊びの輪から、韓国の暮らしへ。",
+        "ready": true,
+        "poster": "../episodes/ep02/art/covers-v18/ja.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      }
+    },
+    "music_note": "음악: Flow Music 생성곡 〈윷판의 웃음〉. 북 효과음은 인트로에만 사용했습니다.",
+    "music_track": "flow-playful",
+    "music_note_i18n": {
+      "ko": "음악: Flow Music 생성곡 〈윷판의 웃음〉. 북 효과음은 인트로에만 사용했습니다.",
+      "en": "Music: Laughter at the Game. Original Flow Music generation; intro drum sounds edited from generated audio.",
+      "ja": "音楽：遊びの笑顔。Flow Music生成曲。ドラム効果音はイントロのみです。"
+    }
+  },
+  {
+    "id": "ep03",
+    "number": 3,
+    "title": "옷을 두드리던 시간",
+    "hook": "다림질 이전의 소리",
+    "category": "일상·살림",
+    "album": 3,
+    "side": "left",
+    "duration": 67.5,
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "narration": [
+      "옷을 반듯하게 만들려고, 두 사람이 방망이를 들었습니다.",
+      "흰 천을 돌 위에 놓고 두드리는 다듬이질입니다.",
+      "빨고 풀을 먹인 옷감의 주름을 펴고 표면을 다듬었지요.",
+      "손에 든 나무 방망이와 낮은 돌이 생활의 도구였습니다.",
+      "두 사람의 팔과 앉은 자세를 천천히 따라가 봅니다.",
+      "보기 좋은 옷 한 벌 뒤에, 반복되는 손일이 있습니다.",
+      "조선을 처음 본 사람은 흰옷을 어떻게 돌보는지도 궁금했겠지요.",
+      "그림은 옷차림과 그 뒤의 노동을 함께 보여 줍니다.",
+      "소리는 들리지 않아도, 두 사람이 맞추는 박자를 상상해 봅니다.",
+      "이 그림은 운초의 작품으로 전합니다.",
+      "티제이킴 컬렉션에서, 오래된 하루를 다시 만납니다."
+    ],
+    "voice_id": "S03",
+    "voice_text": "옷을 반듯하게 만들려고, 두 사람이 방망이를 들었습니다. 흰 천을 돌 위에 놓고 두드리는 다듬이질입니다. 빨고 풀을 먹인 옷감의 주름을 펴고 표면을 다듬었지요. 손에 든 나무 방망이와 낮은 돌이 생활의 도구였습니다. 두 사람의 팔과 앉은 자세를 천천히 따라가 봅니다. 보기 좋은 옷 한 벌 뒤에, 반복되는 손일이 있습니다. 조선을 처음 본 사람은 흰옷을 어떻게 돌보는지도 궁금했겠지요. 그림은 옷차림과 그 뒤의 노동을 함께 보여 줍니다. 소리는 들리지 않아도, 두 사람이 맞추는 박자를 상상해 봅니다. 이 그림은 운초의 작품으로 전합니다. 티제이킴 컬렉션에서, 오래된 하루를 다시 만납니다.",
+    "voice_file": "S03.wav",
+    "video": "../episodes/ep03/output/ep03-short-ko-v18-cover.mp4",
+    "poster": "../episodes/ep03/art/covers-v18/ko.png",
+    "original": "../episodes/ep03/art/original-clean.png",
+    "source_photo": "../../../research/album-3.jpg",
+    "sources": [
+      {
+        "title": "다듬이질: 옷감 정리와 도구",
+        "url": "https://www.scienceall.com/brd/board/749/L/menu/748?bbsSn=15834&brdCodeValue=&brdType=R&thisPage=1"
+      },
+      {
+        "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+        "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+      },
+      {
+        "title": "기산풍속도첩 · 서울역사박물관",
+        "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+      }
+    ],
+    "thumbnail": "../episodes/ep03/art/thumb.jpg",
+    "status": "ready",
+    "player_only": false,
+    "player_revision": "vector-v17",
+    "editions": {
+      "ko": {
+        "title": "옷을 두드리던 시간",
+        "hook": "다림질 이전의 소리",
+        "narration": [
+          "옷을 반듯하게 만들려고, 두 사람이 방망이를 들었습니다.",
+          "흰 천을 돌 위에 놓고 두드리는 다듬이질입니다.",
+          "빨고 풀을 먹인 옷감의 주름을 펴고 표면을 다듬었지요.",
+          "손에 든 나무 방망이와 낮은 돌이 생활의 도구였습니다.",
+          "두 사람의 팔과 앉은 자세를 천천히 따라가 봅니다.",
+          "보기 좋은 옷 한 벌 뒤에, 반복되는 손일이 있습니다.",
+          "조선을 처음 본 사람은 흰옷을 어떻게 돌보는지도 궁금했겠지요.",
+          "그림은 옷차림과 그 뒤의 노동을 함께 보여 줍니다.",
+          "소리는 들리지 않아도, 두 사람이 맞추는 박자를 상상해 봅니다.",
+          "이 그림은 운초의 작품으로 전합니다.",
+          "티제이킴 컬렉션에서, 오래된 하루를 다시 만납니다."
+        ],
+        "video": "../episodes/ep03/output/ep03-short-ko-v18-cover.mp4",
+        "ready": true,
+        "language": "ko",
+        "actor": "한준",
+        "poster": "../episodes/ep03/art/covers-v18/ko.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "en": {
+        "title": "Before the iron",
+        "hook": "The work behind a white garment",
+        "narration": [
+          "Before an electric iron, how did a garment become smooth?",
+          "These two women are beating cloth on a low stone.",
+          "The Korean practice is called dadeumijil.",
+          "Washed and starched fabric was pounded to smooth its surface.",
+          "Notice the wooden beaters, then the different angles of their arms.",
+          "A clean white garment could carry hours of unseen work.",
+          "A visitor might admire the clothing and wonder how people cared for it.",
+          "Here, the picture makes that hidden routine visible.",
+          "We cannot hear a rhythm, but their shared task lets us imagine one.",
+          "The work is attributed to Uncho.",
+          "From the TJ Kim Collection, look beyond the garment to the hands that made it ready."
+        ],
+        "video": "../episodes/ep03/output/ep03-short-en-v18-cover.mp4",
+        "ready": true,
+        "language": "en",
+        "actor": "아레스",
+        "poster": "../episodes/ep03/art/covers-v18/en.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "ja": {
+        "title": "布を打つ時間",
+        "hook": "白い衣服を支えた手仕事",
+        "narration": [
+          "アイロンの前に、布をどう整えたのでしょう。",
+          "二人が石の上の布を、木の棒で打っています。",
+          "韓国ではタドゥミジルと呼ぶ手仕事です。",
+          "洗って糊を付けた布を打ち、しわや表面を整えました。",
+          "砧という言葉を思い出す方もいるかもしれません。",
+          "似た道具から、韓国の衣生活をのぞいてみましょう。",
+          "腕の角度と、二人の座り方にも注目します。",
+          "外国人には、白い服の手入れも関心の入り口だったでしょう。",
+          "美しい衣服の後ろに、繰り返す労働があります。",
+          "この作品はウンチョの作と伝わります。",
+          "ティージェイキム・コレクションから、二人の手の時間をたどります。"
+        ],
+        "video": "../episodes/ep03/output/ep03-short-ja-v18-cover.mp4",
+        "ready": true,
+        "language": "ja",
+        "actor": "이노우에 다이치",
+        "poster": "../episodes/ep03/art/covers-v18/ja.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      }
+    },
+    "music_track": "flow-calm",
+    "music_note_i18n": {
+      "ko": "음악: Flow Music 생성곡 〈종이 위의 바람〉. 북 효과음은 인트로에만 사용했습니다.",
+      "en": "Music: Wind over Paper. Original Flow Music generation; intro drum sounds edited from generated audio.",
+      "ja": "音楽：紙の上の風。Flow Music生成曲。ドラム効果音はイントロのみです。"
+    },
+    "music_note": "음악: Flow Music 생성곡 〈종이 위의 바람〉. 북 효과음은 인트로에만 사용했습니다.",
+    "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+    "caption_style": "calm-myeongjo",
+    "caption_layout": {
+      "max_chars": 18,
+      "font_size": 54,
+      "top": 1374,
+      "one_line": true
+    }
+  },
+  {
+    "id": "ep04",
+    "number": 4,
+    "title": "길 위의 밥 한 끼",
+    "hook": "식당 문턱의 조선",
+    "category": "일·먹거리",
+    "album": 3,
+    "side": "right",
+    "duration": 67.5,
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "narration": [
+      "낯선 나라의 하루는, 밥을 파는 곳에서도 보입니다.",
+      "초가지붕 아래, 음식을 만들고 파는 사람들이 모였습니다.",
+      "그릇과 먹거리가 손님 가까이에 놓여 있습니다.",
+      "앞쪽의 사람은 넓은 쟁반을 머리에 이고 걷습니다.",
+      "만드는 손과 나르는 몸이 한 장면에 담겼지요.",
+      "이 가게의 음식 이름은 그림만으로 확정하기 어렵습니다.",
+      "외국 여행자라면, 무엇을 먹고 어디에 앉는지 궁금했겠지요.",
+      "낯선 지붕과 그릇 너머로, 누군가의 일터가 보입니다.",
+      "사람의 손에서 그릇으로, 다시 가게 안으로 눈길을 옮깁니다.",
+      "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+    ],
+    "voice_id": "S04",
+    "voice_text": "낯선 나라의 하루는, 밥을 파는 곳에서도 보입니다. 초가지붕 아래, 음식을 만들고 파는 사람들이 모였습니다. 그릇과 먹거리가 손님 가까이에 놓여 있습니다. 앞쪽의 사람은 넓은 쟁반을 머리에 이고 걷습니다. 만드는 손과 나르는 몸이 한 장면에 담겼지요. 이 가게의 음식 이름은 그림만으로 확정하기 어렵습니다. 외국 여행자라면, 무엇을 먹고 어디에 앉는지 궁금했겠지요. 낯선 지붕과 그릇 너머로, 누군가의 일터가 보입니다. 사람의 손에서 그릇으로, 다시 가게 안으로 눈길을 옮깁니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+    "voice_file": "S04.wav",
+    "video": "../episodes/ep04/output/ep04-short-ko-v18-cover.mp4",
+    "poster": "../episodes/ep04/art/covers-v18/ko.png",
+    "original": "../episodes/ep04/art/original-clean.png",
+    "source_photo": "../../../research/album-3.jpg",
+    "sources": [
+      {
+        "title": "주막: 음식·술·숙박의 일반 맥락. 이 그림의 개별 점포를 주막으로 확정하지 않음",
+        "url": "https://encykorea.aks.ac.kr/Article/E0053227"
+      },
+      {
+        "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+        "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+      },
+      {
+        "title": "기산풍속도첩 · 서울역사박물관",
+        "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+      }
+    ],
+    "thumbnail": "../episodes/ep04/art/thumb.jpg",
+    "status": "ready",
+    "player_only": false,
+    "player_revision": "vector-v17",
+    "editions": {
+      "ko": {
+        "title": "길 위의 밥 한 끼",
+        "hook": "식당 문턱의 조선",
+        "narration": [
+          "낯선 나라의 하루는, 밥을 파는 곳에서도 보입니다.",
+          "초가지붕 아래, 음식을 만들고 파는 사람들이 모였습니다.",
+          "그릇과 먹거리가 손님 가까이에 놓여 있습니다.",
+          "앞쪽의 사람은 넓은 쟁반을 머리에 이고 걷습니다.",
+          "만드는 손과 나르는 몸이 한 장면에 담겼지요.",
+          "이 가게의 음식 이름은 그림만으로 확정하기 어렵습니다.",
+          "외국 여행자라면, 무엇을 먹고 어디에 앉는지 궁금했겠지요.",
+          "낯선 지붕과 그릇 너머로, 누군가의 일터가 보입니다.",
+          "사람의 손에서 그릇으로, 다시 가게 안으로 눈길을 옮깁니다.",
+          "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+        ],
+        "video": "../episodes/ep04/output/ep04-short-ko-v18-cover.mp4",
+        "ready": true,
+        "language": "ko",
+        "actor": "한준",
+        "poster": "../episodes/ep04/art/covers-v18/ko.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "en": {
+        "title": "A meal along the road",
+        "hook": "A food shop becomes a workplace",
+        "narration": [
+          "A meal on the road can tell you a great deal about a place.",
+          "Under this thatched roof, people prepare and sell food.",
+          "Bowls and goods sit close to the customers.",
+          "In front, a carrier balances a broad tray on her head.",
+          "Follow the hands that prepare a meal and the body that carries it.",
+          "A visitor might ask what to order, where to sit, or how food reached the street.",
+          "The exact dishes are not clear enough to name from this picture alone.",
+          "Rather than a menu, the scene offers a view of people earning a living.",
+          "The work is attributed to Uncho.",
+          "From the TJ Kim Collection, an unfamiliar shop becomes a place of familiar human effort."
+        ],
+        "video": "../episodes/ep04/output/ep04-short-en-v18-cover.mp4",
+        "ready": true,
+        "language": "en",
+        "actor": "아레스",
+        "poster": "../episodes/ep04/art/covers-v18/en.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "ja": {
+        "title": "道の途中の食事",
+        "hook": "食べ物を運ぶ人、作る人",
+        "narration": [
+          "旅先では、食事の場所から暮らしが見えてきます。",
+          "屋台を思い浮かべるかもしれません。",
+          "この絵では、草ぶきの屋根の下で食べ物を商っています。",
+          "器が並び、前の人は頭に大きな盆を載せています。",
+          "作る手と、運ぶ体を順に見てみましょう。",
+          "料理の名前までは、この絵だけでは決められません。",
+          "外国人には、注文の仕方や座る場所も疑問だったでしょう。",
+          "見慣れない店も、働く人には毎日の場所です。",
+          "ウンチョ作と伝わる風俗画です。",
+          "ティージェイキム・コレクションから、食を支える手をたどります。"
+        ],
+        "video": "../episodes/ep04/output/ep04-short-ja-v18-cover.mp4",
+        "ready": true,
+        "language": "ja",
+        "actor": "이노우에 다이치",
+        "poster": "../episodes/ep04/art/covers-v18/ja.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      }
+    },
+    "music_track": "flow-playful",
+    "music_note_i18n": {
+      "ko": "음악: Flow Music 생성곡 〈윷판의 웃음〉. 북 효과음은 인트로에만 사용했습니다.",
+      "en": "Music: Laughter at the Game. Original Flow Music generation; intro drum sounds edited from generated audio.",
+      "ja": "音楽：遊びの笑顔。Flow Music生成曲。ドラム効果音はイントロのみです。"
+    },
+    "music_note": "음악: Flow Music 생성곡 〈윷판의 웃음〉. 북 효과음은 인트로에만 사용했습니다.",
+    "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+    "caption_style": "calm-myeongjo",
+    "caption_layout": {
+      "max_chars": 18,
+      "font_size": 54,
+      "top": 1374,
+      "one_line": true
+    }
+  },
+  {
+    "id": "ep05",
+    "number": 5,
+    "title": "비 오는 날의 조선",
+    "hook": "우산만 있었을까",
+    "category": "일상·살림",
+    "album": 4,
+    "side": "right",
+    "duration": 67.5,
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "narration": [
+      "비가 와도, 사람들은 길을 나섭니다.",
+      "누군가는 지붕 아래 쉬고, 누군가는 짐을 나릅니다.",
+      "넓은 모자와 덮개가 빗물을 피하는 방법이 됩니다.",
+      "오늘의 우산 행렬과는 다른 모습이지요.",
+      "먼저 사람들의 얼굴과 몸짓을 천천히 살펴봅니다.",
+      "옷차림은 멋뿐 아니라 날씨에 대응하는 도구였습니다.",
+      "처음 보는 외국인은, 낯선 모자의 모양부터 궁금했을 겁니다.",
+      "그 너머에는 비에도 계속되는 장사와 발걸음이 있습니다.",
+      "특별한 복식이 아니라, 살아가는 방법으로 그림을 읽어 봅니다.",
+      "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+    ],
+    "voice_id": "S05",
+    "voice_text": "비가 와도, 사람들은 길을 나섭니다. 누군가는 지붕 아래 쉬고, 누군가는 짐을 나릅니다. 넓은 모자와 덮개가 빗물을 피하는 방법이 됩니다. 오늘의 우산 행렬과는 다른 모습이지요. 먼저 사람들의 얼굴과 몸짓을 천천히 살펴봅니다. 옷차림은 멋뿐 아니라 날씨에 대응하는 도구였습니다. 처음 보는 외국인은, 낯선 모자의 모양부터 궁금했을 겁니다. 그 너머에는 비에도 계속되는 장사와 발걸음이 있습니다. 특별한 복식이 아니라, 살아가는 방법으로 그림을 읽어 봅니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+    "voice_file": "S05.wav",
+    "video": "../episodes/ep05/output/ep05-short-ko-v18-cover.mp4",
+    "poster": "../episodes/ep05/art/covers-v18/ko.png",
+    "original": "../episodes/ep05/art/original-clean.png",
+    "source_photo": "../../../research/album-4.jpg",
+    "sources": [
+      {
+        "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+        "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+      },
+      {
+        "title": "기산풍속도첩 · 서울역사박물관",
+        "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+      }
+    ],
+    "thumbnail": "../episodes/ep05/art/thumb.jpg",
+    "status": "ready",
+    "player_only": false,
+    "player_revision": "vector-v17",
+    "editions": {
+      "ko": {
+        "title": "비 오는 날의 조선",
+        "hook": "우산만 있었을까",
+        "narration": [
+          "비가 와도, 사람들은 길을 나섭니다.",
+          "누군가는 지붕 아래 쉬고, 누군가는 짐을 나릅니다.",
+          "넓은 모자와 덮개가 빗물을 피하는 방법이 됩니다.",
+          "오늘의 우산 행렬과는 다른 모습이지요.",
+          "먼저 사람들의 얼굴과 몸짓을 천천히 살펴봅니다.",
+          "옷차림은 멋뿐 아니라 날씨에 대응하는 도구였습니다.",
+          "처음 보는 외국인은, 낯선 모자의 모양부터 궁금했을 겁니다.",
+          "그 너머에는 비에도 계속되는 장사와 발걸음이 있습니다.",
+          "특별한 복식이 아니라, 살아가는 방법으로 그림을 읽어 봅니다.",
+          "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+        ],
+        "video": "../episodes/ep05/output/ep05-short-ko-v18-cover.mp4",
+        "ready": true,
+        "language": "ko",
+        "actor": "한준",
+        "poster": "../episodes/ep05/art/covers-v18/ko.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "en": {
+        "title": "A rainy Korean day",
+        "hook": "Clothing meets the weather",
+        "narration": [
+          "Rain changes a street, but it does not stop the day.",
+          "Some people shelter under a roof while others keep moving.",
+          "Look at the broad hats and the covers over a carried load.",
+          "These are responses to weather, as much as elements of dress.",
+          "If you expect a line of modern umbrellas, the shapes may surprise you.",
+          "A visitor might first notice an unusual hat.",
+          "Look again, and there are people working, resting, and getting somewhere.",
+          "The scene lets clothing become a practical part of ordinary life.",
+          "This painting is attributed to Uncho.",
+          "From the TJ Kim Collection, a rainy street brings distant lives a little closer."
+        ],
+        "video": "../episodes/ep05/output/ep05-short-en-v18-cover.mp4",
+        "ready": true,
+        "language": "en",
+        "actor": "아레스",
+        "poster": "../episodes/ep05/art/covers-v18/en.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "ja": {
+        "title": "雨の日の朝鮮",
+        "hook": "雨をしのぐ服と道具",
+        "narration": [
+          "雨の日、傘だけが頼りだったのでしょうか。",
+          "軒下にいる人と、雨の中を歩く人が見えます。",
+          "広いつばの帽子と、荷物の覆いを見てみましょう。",
+          "笠に似た形にも、それぞれの暮らしがあります。",
+          "服装は飾りだけでなく、天気に応じる道具でした。",
+          "外国人には、帽子の形がまず気になったかもしれません。",
+          "その先には、雨でも続く商いや荷運びがあります。",
+          "見慣れない服の人を、同じ雨の一日を生きる人として見ます。",
+          "この作品はウンチョの作と伝わります。",
+          "ティージェイキム・コレクションから、雨をしのぐ知恵をたどります。"
+        ],
+        "video": "../episodes/ep05/output/ep05-short-ja-v18-cover.mp4",
+        "ready": true,
+        "language": "ja",
+        "actor": "이노우에 다이치",
+        "poster": "../episodes/ep05/art/covers-v18/ja.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      }
+    },
+    "music_track": "flow-night",
+    "music_note_i18n": {
+      "ko": "음악: Flow Music 생성곡 〈먹빛의 밤〉. 북 효과음은 인트로에만 사용했습니다.",
+      "en": "Music: Night in Ink. Original Flow Music generation; intro drum sounds edited from generated audio.",
+      "ja": "音楽：墨色の夜。Flow Music生成曲。ドラム効果音はイントロのみです。"
+    },
+    "music_note": "음악: Flow Music 생성곡 〈먹빛의 밤〉. 북 효과음은 인트로에만 사용했습니다.",
+    "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+    "caption_style": "calm-myeongjo",
+    "caption_layout": {
+      "max_chars": 18,
+      "font_size": 54,
+      "top": 1374,
+      "one_line": true
+    }
+  },
+  {
+    "id": "ep06",
+    "number": 6,
+    "title": "손끝에서 흐르는 노래",
+    "hook": "그림 속 현악기",
+    "category": "놀이·음악",
+    "album": 5,
+    "side": "left",
+    "duration": 67.5,
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "narration": [
+      "이 조용한 그림에서, 어떤 소리가 흘렀을까요.",
+      "방 안에 앉은 두 사람 앞에, 긴 줄악기가 놓였습니다.",
+      "나무 몸통과 줄, 그 위에 놓인 손을 살펴봅니다.",
+      "그림은 조용하지만, 손끝은 연주를 떠올리게 합니다.",
+      "낯선 나라를 찾은 사람에게는 앉아서 타는 자세도 새로웠겠지요.",
+      "듣지 못한 소리를, 악기의 모양과 몸짓으로 짐작했을 겁니다.",
+      "옷차림만으로 두 사람의 신분을 정할 수는 없습니다.",
+      "함께 앉은 거리와 서로 향한 시선이 이 시간을 채웁니다.",
+      "곧은 창호선 너머로, 오래전 방 안의 음악을 상상합니다.",
+      "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+    ],
+    "voice_id": "S06",
+    "voice_text": "이 조용한 그림에서, 어떤 소리가 흘렀을까요. 방 안에 앉은 두 사람 앞에, 긴 줄악기가 놓였습니다. 나무 몸통과 줄, 그 위에 놓인 손을 살펴봅니다. 그림은 조용하지만, 손끝은 연주를 떠올리게 합니다. 낯선 나라를 찾은 사람에게는 앉아서 타는 자세도 새로웠겠지요. 듣지 못한 소리를, 악기의 모양과 몸짓으로 짐작했을 겁니다. 옷차림만으로 두 사람의 신분을 정할 수는 없습니다. 함께 앉은 거리와 서로 향한 시선이 이 시간을 채웁니다. 곧은 창호선 너머로, 오래전 방 안의 음악을 상상합니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+    "voice_file": "S06.wav",
+    "video": "../episodes/ep06/output/ep06-short-ko-v18-cover.mp4",
+    "poster": "../episodes/ep06/art/covers-v18/ko.png",
+    "original": "../episodes/ep06/art/original-clean.png",
+    "source_photo": "../../../research/album-5.jpg",
+    "sources": [
+      {
+        "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+        "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+      },
+      {
+        "title": "기산풍속도첩 · 서울역사박물관",
+        "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+      }
+    ],
+    "thumbnail": "../episodes/ep06/art/thumb.jpg",
+    "status": "ready",
+    "player_only": false,
+    "player_revision": "vector-v17",
+    "editions": {
+      "ko": {
+        "title": "손끝에서 흐르는 노래",
+        "hook": "그림 속 현악기",
+        "narration": [
+          "이 조용한 그림에서, 어떤 소리가 흘렀을까요.",
+          "방 안에 앉은 두 사람 앞에, 긴 줄악기가 놓였습니다.",
+          "나무 몸통과 줄, 그 위에 놓인 손을 살펴봅니다.",
+          "그림은 조용하지만, 손끝은 연주를 떠올리게 합니다.",
+          "낯선 나라를 찾은 사람에게는 앉아서 타는 자세도 새로웠겠지요.",
+          "듣지 못한 소리를, 악기의 모양과 몸짓으로 짐작했을 겁니다.",
+          "옷차림만으로 두 사람의 신분을 정할 수는 없습니다.",
+          "함께 앉은 거리와 서로 향한 시선이 이 시간을 채웁니다.",
+          "곧은 창호선 너머로, 오래전 방 안의 음악을 상상합니다.",
+          "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+        ],
+        "video": "../episodes/ep06/output/ep06-short-ko-v18-cover.mp4",
+        "ready": true,
+        "language": "ko",
+        "actor": "한준",
+        "poster": "../episodes/ep06/art/covers-v18/ko.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "en": {
+        "title": "Music without a stage",
+        "hook": "Listen to a silent painting",
+        "narration": [
+          "A concert does not always need a stage.",
+          "Two women sit close to a long wooden string instrument.",
+          "Follow its body, its strings, and the hands resting above them.",
+          "The picture is silent, yet the hands suggest music.",
+          "A newcomer might notice the low instrument and the seated position.",
+          "Without hearing a note, a visitor could still study how music was made.",
+          "Clothes alone cannot establish the players social position.",
+          "Instead, look at the distance between the two figures and the room around them.",
+          "This work is attributed to Uncho.",
+          "From the TJ Kim Collection, imagine a small musical moment inside an ordinary room."
+        ],
+        "video": "../episodes/ep06/output/ep06-short-en-v18-cover.mp4",
+        "ready": true,
+        "language": "en",
+        "actor": "아레스",
+        "poster": "../episodes/ep06/art/covers-v18/en.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "ja": {
+        "title": "指先に残る音楽",
+        "hook": "絵からどんな音が聞こえますか",
+        "narration": [
+          "長い弦楽器から、日本の箏を思い浮かべますか。",
+          "ここでは、韓国の部屋に座る二人と楽器を見てみます。",
+          "木の胴と弦、その上の手を目でたどります。",
+          "絵は静かですが、指先が演奏を想像させます。",
+          "似た形だけで、同じ楽器や同じ場面とは決めません。",
+          "外国人には、床に近い楽器と座り方も見所だったでしょう。",
+          "衣装だけでは、二人の身分は決められません。",
+          "近くに座る距離と、窓の線にも目を向けます。",
+          "ウンチョ作と伝わる、部屋の小さな音楽の時間です。",
+          "ティージェイキム・コレクションから、聞こえない音を想像します。"
+        ],
+        "video": "../episodes/ep06/output/ep06-short-ja-v18-cover.mp4",
+        "ready": true,
+        "language": "ja",
+        "actor": "이노우에 다이치",
+        "poster": "../episodes/ep06/art/covers-v18/ja.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      }
+    },
+    "music_track": "flow-calm",
+    "music_note_i18n": {
+      "ko": "음악: Flow Music 생성곡 〈종이 위의 바람〉. 북 효과음은 인트로에만 사용했습니다.",
+      "en": "Music: Wind over Paper. Original Flow Music generation; intro drum sounds edited from generated audio.",
+      "ja": "音楽：紙の上の風。Flow Music生成曲。ドラム効果音はイントロのみです。"
+    },
+    "music_note": "음악: Flow Music 생성곡 〈종이 위의 바람〉. 북 효과음은 인트로에만 사용했습니다.",
+    "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+    "caption_style": "calm-myeongjo",
+    "caption_layout": {
+      "max_chars": 18,
+      "font_size": 54,
+      "top": 1374,
+      "one_line": true
+    }
+  },
+  {
+    "id": "ep07",
+    "number": 7,
+    "title": "낮은 상에 모인 사람들",
+    "hook": "의자 없는 식탁",
+    "category": "일상·살림",
+    "album": 5,
+    "side": "right",
+    "duration": 67.5,
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "narration": [
+      "큰 식탁 대신, 사람들 사이에 작은 상이 놓였습니다.",
+      "바닥에 앉아 그릇을 대하는 세 사람을 살펴봅니다.",
+      "이렇게 작고 낮은 상을 소반이라고 부릅니다.",
+      "음식을 차리기도 하고, 차린 음식을 옮기기도 했지요.",
+      "치워 둘 수 있는 상은 방을 여러 용도로 쓰는 생활에 어울렸습니다.",
+      "상판과 손의 높이, 가까이 앉은 거리를 살펴봅니다.",
+      "외국인에게는 음식만큼 앉는 방식도 궁금했을 겁니다.",
+      "그림 속 한 장면이 모든 집의 식사 풍경은 아니지요.",
+      "작은 가구 하나가 사람의 자세를 어떻게 정하는지 보입니다.",
+      "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+    ],
+    "voice_id": "S07",
+    "voice_text": "큰 식탁 대신, 사람들 사이에 작은 상이 놓였습니다. 바닥에 앉아 그릇을 대하는 세 사람을 살펴봅니다. 이렇게 작고 낮은 상을 소반이라고 부릅니다. 음식을 차리기도 하고, 차린 음식을 옮기기도 했지요. 치워 둘 수 있는 상은 방을 여러 용도로 쓰는 생활에 어울렸습니다. 상판과 손의 높이, 가까이 앉은 거리를 살펴봅니다. 외국인에게는 음식만큼 앉는 방식도 궁금했을 겁니다. 그림 속 한 장면이 모든 집의 식사 풍경은 아니지요. 작은 가구 하나가 사람의 자세를 어떻게 정하는지 보입니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+    "voice_file": "S07.wav",
+    "video": "../episodes/ep07/output/ep07-short-ko-v18-cover.mp4",
+    "poster": "../episodes/ep07/art/covers-v18/ko.png",
+    "original": "../episodes/ep07/art/original-clean.png",
+    "source_photo": "../../../research/album-5.jpg",
+    "sources": [
+      {
+        "title": "소반: 차림·운반·좌식생활",
+        "url": "https://webzine.nfm.go.kr/2021/10/04/%EC%86%8C%EB%B0%98/"
+      },
+      {
+        "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+        "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+      },
+      {
+        "title": "기산풍속도첩 · 서울역사박물관",
+        "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+      }
+    ],
+    "thumbnail": "../episodes/ep07/art/thumb.jpg",
+    "status": "ready",
+    "player_only": false,
+    "player_revision": "vector-v17",
+    "editions": {
+      "ko": {
+        "title": "낮은 상에 모인 사람들",
+        "hook": "의자 없는 식탁",
+        "narration": [
+          "큰 식탁 대신, 사람들 사이에 작은 상이 놓였습니다.",
+          "바닥에 앉아 그릇을 대하는 세 사람을 살펴봅니다.",
+          "이렇게 작고 낮은 상을 소반이라고 부릅니다.",
+          "음식을 차리기도 하고, 차린 음식을 옮기기도 했지요.",
+          "치워 둘 수 있는 상은 방을 여러 용도로 쓰는 생활에 어울렸습니다.",
+          "상판과 손의 높이, 가까이 앉은 거리를 살펴봅니다.",
+          "외국인에게는 음식만큼 앉는 방식도 궁금했을 겁니다.",
+          "그림 속 한 장면이 모든 집의 식사 풍경은 아니지요.",
+          "작은 가구 하나가 사람의 자세를 어떻게 정하는지 보입니다.",
+          "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+        ],
+        "video": "../episodes/ep07/output/ep07-short-ko-v18-cover.mp4",
+        "ready": true,
+        "language": "ko",
+        "actor": "한준",
+        "poster": "../episodes/ep07/art/covers-v18/ko.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "en": {
+        "title": "A table close to home",
+        "hook": "A room with more than one use",
+        "narration": [
+          "Where are the dining chairs?",
+          "Here, a low table meets people seated on the floor.",
+          "This small Korean table is called a soban.",
+          "It could hold a meal and also carry the dishes into a room.",
+          "Moved away after use, it suited a room serving more than one purpose.",
+          "Look at the height of the bowls, the hands, and the seated bodies.",
+          "A visitor might wonder how to sit as much as what was being served.",
+          "This is one chosen scene, rather than a picture of every household.",
+          "The work is attributed to Uncho.",
+          "From the TJ Kim Collection, a small piece of furniture helps us read the shape of a day."
+        ],
+        "video": "../episodes/ep07/output/ep07-short-en-v18-cover.mp4",
+        "ready": true,
+        "language": "en",
+        "actor": "아레스",
+        "poster": "../episodes/ep07/art/covers-v18/en.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "ja": {
+        "title": "低い膳を囲む人々",
+        "hook": "小さな膳がつくる距離",
+        "narration": [
+          "低い膳を囲む姿は、なじみ深く見えるかもしれません。",
+          "この小さな韓国の膳は、ソバンと呼ばれます。",
+          "食事を載せ、そのまま部屋へ運ぶことにも使われました。",
+          "使った後に片付ければ、部屋の使い方も変わります。",
+          "日本の膳と同じと決めず、形と使い方を見てみましょう。",
+          "器の高さと、手の位置が近いことに気付きます。",
+          "外国人には、食べ物だけでなく座る方法も疑問だったでしょう。",
+          "この一場面だけで、すべての家を語ることはできません。",
+          "ウンチョ作と伝わる、小さな膳のある時間です。",
+          "ティージェイキム・コレクションから、人と家具の距離をたどります。"
+        ],
+        "video": "../episodes/ep07/output/ep07-short-ja-v18-cover.mp4",
+        "ready": true,
+        "language": "ja",
+        "actor": "이노우에 다이치",
+        "poster": "../episodes/ep07/art/covers-v18/ja.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      }
+    },
+    "music_track": "flow-main",
+    "music_note_i18n": {
+      "ko": "음악: Flow Music 생성곡 〈먹빛의 장단〉. 북 효과음은 인트로에만 사용했습니다.",
+      "en": "Music: Rhythm in Ink. Original Flow Music generation; intro drum sounds edited from generated audio.",
+      "ja": "音楽：墨色のリズム。Flow Music生成曲。ドラム効果音はイントロのみです。"
+    },
+    "music_note": "음악: Flow Music 생성곡 〈먹빛의 장단〉. 북 효과음은 인트로에만 사용했습니다.",
+    "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+    "caption_style": "calm-myeongjo",
+    "caption_layout": {
+      "max_chars": 18,
+      "font_size": 54,
+      "top": 1374,
+      "one_line": true
+    }
+  },
+  {
+    "id": "ep08",
+    "number": 8,
+    "title": "말 한 수에 담긴 하루",
+    "hook": "바둑과 다른 놀이",
+    "category": "놀이·음악",
+    "album": 6,
+    "side": "left",
+    "duration": 67.5,
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "narration": [
+      "판을 사이에 두고, 두 사람이 다음 수를 기다립니다.",
+      "동그란 돌을 놓는 바둑이 아니라, 말을 움직이는 장기입니다.",
+      "글자가 새겨진 말마다 움직이는 방법이 다릅니다.",
+      "상대의 수를 살피고, 내 길을 선택해야 하지요.",
+      "조금 숙인 고개와 판으로 모인 손에 집중이 보입니다.",
+      "체스에 익숙한 외국인이라면 닮은 점부터 찾았을 겁니다.",
+      "글자를 읽지 못해도, 서로의 수를 기다리는 모습은 알 수 있겠지요.",
+      "그림에는 승부의 결과보다 생각하는 시간이 남았습니다.",
+      "낯선 옷차림 너머로, 같은 놀이의 즐거움을 만나 봅니다.",
+      "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+    ],
+    "voice_id": "S08",
+    "voice_text": "판을 사이에 두고, 두 사람이 다음 수를 기다립니다. 동그란 돌을 놓는 바둑이 아니라, 말을 움직이는 장기입니다. 글자가 새겨진 말마다 움직이는 방법이 다릅니다. 상대의 수를 살피고, 내 길을 선택해야 하지요. 조금 숙인 고개와 판으로 모인 손에 집중이 보입니다. 체스에 익숙한 외국인이라면 닮은 점부터 찾았을 겁니다. 글자를 읽지 못해도, 서로의 수를 기다리는 모습은 알 수 있겠지요. 그림에는 승부의 결과보다 생각하는 시간이 남았습니다. 낯선 옷차림 너머로, 같은 놀이의 즐거움을 만나 봅니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+    "voice_file": "S08.wav",
+    "video": "../episodes/ep08/output/ep08-short-ko-v18-cover.mp4",
+    "poster": "../episodes/ep08/art/covers-v18/ko.png",
+    "original": "../episodes/ep08/art/original-clean.png",
+    "source_photo": "../../../research/album-6.jpg",
+    "sources": [
+      {
+        "title": "장기: 말의 종류와 진법 놀이",
+        "url": "https://encykorea.aks.ac.kr/Article/E0048325"
+      },
+      {
+        "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+        "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+      },
+      {
+        "title": "기산풍속도첩 · 서울역사박물관",
+        "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+      }
+    ],
+    "thumbnail": "../episodes/ep08/art/thumb.jpg",
+    "status": "ready",
+    "player_only": false,
+    "player_revision": "vector-v17",
+    "editions": {
+      "ko": {
+        "title": "말 한 수에 담긴 하루",
+        "hook": "바둑과 다른 놀이",
+        "narration": [
+          "판을 사이에 두고, 두 사람이 다음 수를 기다립니다.",
+          "동그란 돌을 놓는 바둑이 아니라, 말을 움직이는 장기입니다.",
+          "글자가 새겨진 말마다 움직이는 방법이 다릅니다.",
+          "상대의 수를 살피고, 내 길을 선택해야 하지요.",
+          "조금 숙인 고개와 판으로 모인 손에 집중이 보입니다.",
+          "체스에 익숙한 외국인이라면 닮은 점부터 찾았을 겁니다.",
+          "글자를 읽지 못해도, 서로의 수를 기다리는 모습은 알 수 있겠지요.",
+          "그림에는 승부의 결과보다 생각하는 시간이 남았습니다.",
+          "낯선 옷차림 너머로, 같은 놀이의 즐거움을 만나 봅니다.",
+          "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+        ],
+        "video": "../episodes/ep08/output/ep08-short-ko-v18-cover.mp4",
+        "ready": true,
+        "language": "ko",
+        "actor": "한준",
+        "poster": "../episodes/ep08/art/covers-v18/ko.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "en": {
+        "title": "A quiet contest",
+        "hook": "Janggi, beyond the familiar chessboard",
+        "narration": [
+          "A chess player might recognize this concentration.",
+          "But these lettered pieces belong to janggi, Korean chess.",
+          "Each kind of piece moves by its own rules.",
+          "The players must read the position and anticipate another move.",
+          "Notice the lowered heads and the hands reaching toward the board.",
+          "To a visitor, both the familiar contest and the unfamiliar pieces could be intriguing.",
+          "You need not read every character to recognize the waiting and the thought.",
+          "The picture preserves concentration rather than the final result.",
+          "The work is attributed to Uncho.",
+          "From the TJ Kim Collection, a quiet game lets strangers share a familiar human moment."
+        ],
+        "video": "../episodes/ep08/output/ep08-short-en-v18-cover.mp4",
+        "ready": true,
+        "language": "en",
+        "actor": "아레스",
+        "poster": "../episodes/ep08/art/covers-v18/en.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "ja": {
+        "title": "一手を待つ時間",
+        "hook": "将棋に似て、違う盤の上へ",
+        "narration": [
+          "将棋を指す人なら、この集中が分かるかもしれません。",
+          "これは韓国のチャンギです。",
+          "文字のある駒を動かしますが、日本の将棋と同じではありません。",
+          "駒の種類ごとに動き方があり、次の一手を考えます。",
+          "二人の伏せた顔と、盤へ伸びる手を見てみましょう。",
+          "似た遊びを知っていれば、違いへの興味も生まれます。",
+          "文字を読めなくても、相手を待つ時間は伝わります。",
+          "絵に残るのは、勝敗よりも考える姿です。",
+          "この作品はウンチョの作と伝わります。",
+          "ティージェイキム・コレクションから、一手を待つ時間を見つめます。"
+        ],
+        "video": "../episodes/ep08/output/ep08-short-ja-v18-cover.mp4",
+        "ready": true,
+        "language": "ja",
+        "actor": "이노우에 다이치",
+        "poster": "../episodes/ep08/art/covers-v18/ja.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      }
+    },
+    "music_track": "flow-night",
+    "music_note_i18n": {
+      "ko": "음악: Flow Music 생성곡 〈먹빛의 밤〉. 북 효과음은 인트로에만 사용했습니다.",
+      "en": "Music: Night in Ink. Original Flow Music generation; intro drum sounds edited from generated audio.",
+      "ja": "音楽：墨色の夜。Flow Music生成曲。ドラム効果音はイントロのみです。"
+    },
+    "music_note": "음악: Flow Music 생성곡 〈먹빛의 밤〉. 북 효과음은 인트로에만 사용했습니다.",
+    "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+    "caption_style": "calm-myeongjo",
+    "caption_layout": {
+      "max_chars": 18,
+      "font_size": 54,
+      "top": 1374,
+      "one_line": true
+    }
+  },
+  {
+    "id": "ep09",
+    "number": 9,
+    "title": "두 사람이 맞추는 박자",
+    "hook": "떡메 아래 먹거리",
+    "category": "일·먹거리",
+    "album": 6,
+    "side": "right",
+    "duration": 67.5,
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "narration": [
+      "큰 나무 메가 올라가고, 다른 손은 아래의 떡을 살핍니다.",
+      "익힌 곡물을 쳐서 떡을 만드는 장면입니다.",
+      "한 사람은 메를 내리고, 다른 사람은 떡을 뒤집고 다듬지요.",
+      "힘만큼 중요한 것은 서로 손을 넣고 빼는 박자입니다.",
+      "몸을 굽힌 등과 힘을 쓰는 팔을 차례로 살펴봅니다.",
+      "곁에서 돕는 사람과 개도 일터의 풍경에 들어와 있습니다.",
+      "외국인에게는 떡만큼 만드는 도구도 새로웠겠지요.",
+      "그림은 완성된 음식 너머로, 만드는 몸의 기술을 보여 줍니다.",
+      "힘찬 한 번의 동작 뒤에, 오래 맞춰 온 호흡을 상상합니다.",
+      "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+    ],
+    "voice_id": "S09",
+    "voice_text": "큰 나무 메가 올라가고, 다른 손은 아래의 떡을 살핍니다. 익힌 곡물을 쳐서 떡을 만드는 장면입니다. 한 사람은 메를 내리고, 다른 사람은 떡을 뒤집고 다듬지요. 힘만큼 중요한 것은 서로 손을 넣고 빼는 박자입니다. 몸을 굽힌 등과 힘을 쓰는 팔을 차례로 살펴봅니다. 곁에서 돕는 사람과 개도 일터의 풍경에 들어와 있습니다. 외국인에게는 떡만큼 만드는 도구도 새로웠겠지요. 그림은 완성된 음식 너머로, 만드는 몸의 기술을 보여 줍니다. 힘찬 한 번의 동작 뒤에, 오래 맞춰 온 호흡을 상상합니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+    "voice_file": "S09.wav",
+    "video": "../episodes/ep09/output/ep09-short-ko-v18-cover.mp4",
+    "poster": "../episodes/ep09/art/covers-v18/ko.png",
+    "original": "../episodes/ep09/art/original-clean.png",
+    "source_photo": "../../../research/album-6.jpg",
+    "sources": [
+      {
+        "title": "떡: 안반과 떡메를 사용하는 만드는 방법",
+        "url": "https://encykorea.aks.ac.kr/Article/E0017196"
+      },
+      {
+        "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+        "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+      },
+      {
+        "title": "기산풍속도첩 · 서울역사박물관",
+        "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+      }
+    ],
+    "thumbnail": "../episodes/ep09/art/thumb.jpg",
+    "status": "ready",
+    "player_only": false,
+    "player_revision": "vector-v17",
+    "editions": {
+      "ko": {
+        "title": "두 사람이 맞추는 박자",
+        "hook": "떡메 아래 먹거리",
+        "narration": [
+          "큰 나무 메가 올라가고, 다른 손은 아래의 떡을 살핍니다.",
+          "익힌 곡물을 쳐서 떡을 만드는 장면입니다.",
+          "한 사람은 메를 내리고, 다른 사람은 떡을 뒤집고 다듬지요.",
+          "힘만큼 중요한 것은 서로 손을 넣고 빼는 박자입니다.",
+          "몸을 굽힌 등과 힘을 쓰는 팔을 차례로 살펴봅니다.",
+          "곁에서 돕는 사람과 개도 일터의 풍경에 들어와 있습니다.",
+          "외국인에게는 떡만큼 만드는 도구도 새로웠겠지요.",
+          "그림은 완성된 음식 너머로, 만드는 몸의 기술을 보여 줍니다.",
+          "힘찬 한 번의 동작 뒤에, 오래 맞춰 온 호흡을 상상합니다.",
+          "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+        ],
+        "video": "../episodes/ep09/output/ep09-short-ko-v18-cover.mp4",
+        "ready": true,
+        "language": "ko",
+        "actor": "한준",
+        "poster": "../episodes/ep09/art/covers-v18/ko.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "en": {
+        "title": "Food takes teamwork",
+        "hook": "The rhythm behind a rice cake",
+        "narration": [
+          "A good meal can depend on a well timed movement.",
+          "Here, cooked grain is being pounded to make Korean rice cake.",
+          "One worker brings a wooden mallet down while another turns and shapes the mass.",
+          "Strength matters, but so does knowing when the other hand will move.",
+          "Trace the bent back, the lifted arms, and the long handles.",
+          "Another person and a passing dog make this a lived in workplace.",
+          "A visitor might wonder about both the food and the tools used to make it.",
+          "Look beyond the finished dish to the skill of working together.",
+          "The painting is attributed to Uncho.",
+          "From the TJ Kim Collection, the smallest pause between hands becomes part of the story."
+        ],
+        "video": "../episodes/ep09/output/ep09-short-en-v18-cover.mp4",
+        "ready": true,
+        "language": "en",
+        "actor": "아레스",
+        "poster": "../episodes/ep09/art/covers-v18/en.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "ja": {
+        "title": "息を合わせる手仕事",
+        "hook": "餅つきに似た、その先へ",
+        "narration": [
+          "餅つきを思い浮かべる場面でしょうか。",
+          "韓国のトックを作る、打つ仕事が描かれています。",
+          "一人は木の道具を振り下ろし、もう一人は生地を返します。",
+          "力だけでなく、相手の手を見て動くことが大切です。",
+          "かがんだ背中と、上がった腕を順にたどります。",
+          "横で働く人や、通りかかる犬も絵に残りました。",
+          "見慣れた作業に似ていても、道具の形をよく見てみます。",
+          "外国人には、食べ物と作り方の両方が発見だったでしょう。",
+          "この作品はウンチョの作と伝わります。",
+          "ティージェイキム・コレクションから、息を合わせる技を見つめます。"
+        ],
+        "video": "../episodes/ep09/output/ep09-short-ja-v18-cover.mp4",
+        "ready": true,
+        "language": "ja",
+        "actor": "이노우에 다이치",
+        "poster": "../episodes/ep09/art/covers-v18/ja.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      }
+    },
+    "music_track": "flow-march",
+    "music_note_i18n": {
+      "ko": "음악: Flow Music 생성곡 〈붓끝의 행진〉. 북 효과음은 인트로에만 사용했습니다.",
+      "en": "Music: March of the Brush. Original Flow Music generation; intro drum sounds edited from generated audio.",
+      "ja": "音楽：筆先の行進。Flow Music生成曲。ドラム効果音はイントロのみです。"
+    },
+    "music_note": "음악: Flow Music 생성곡 〈붓끝의 행진〉. 북 효과음은 인트로에만 사용했습니다.",
+    "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+    "caption_style": "calm-myeongjo",
+    "caption_layout": {
+      "max_chars": 18,
+      "font_size": 54,
+      "top": 1374,
+      "one_line": true
+    }
+  },
+  {
+    "id": "ep10",
+    "number": 10,
+    "title": "골목에 온 단맛",
+    "hook": "들고 다니는 가게",
+    "category": "일·먹거리",
+    "album": 7,
+    "side": "left",
+    "duration": 67.5,
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "narration": [
+      "가게가 손님을 찾아, 골목으로 들어왔습니다.",
+      "넓은 판을 든 엿장수 앞에, 사람들이 앉아 있습니다.",
+      "몸에 지닌 판이 작은 진열장이 됩니다.",
+      "손님들의 손과 시선은 먹거리 쪽으로 향합니다.",
+      "서서 일하는 사람과 앉아 쉬는 사람 사이에 거래가 생깁니다.",
+      "그림에 남은 판과 몸짓을 따라 장사의 방식을 살펴봅니다.",
+      "외국인에게는 무엇을 파는지, 어떻게 나르는지 모두 정보였겠지요.",
+      "그림 속 장수에게는 구경거리가 아니라 하루의 벌이였습니다.",
+      "옛 단맛과 함께, 그것을 지고 다닌 몸의 수고도 떠올립니다.",
+      "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+    ],
+    "voice_id": "S10",
+    "voice_text": "가게가 손님을 찾아, 골목으로 들어왔습니다. 넓은 판을 든 엿장수 앞에, 사람들이 앉아 있습니다. 몸에 지닌 판이 작은 진열장이 됩니다. 손님들의 손과 시선은 먹거리 쪽으로 향합니다. 서서 일하는 사람과 앉아 쉬는 사람 사이에 거래가 생깁니다. 그림에 남은 판과 몸짓을 따라 장사의 방식을 살펴봅니다. 외국인에게는 무엇을 파는지, 어떻게 나르는지 모두 정보였겠지요. 그림 속 장수에게는 구경거리가 아니라 하루의 벌이였습니다. 옛 단맛과 함께, 그것을 지고 다닌 몸의 수고도 떠올립니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+    "voice_file": "S10.wav",
+    "video": "../episodes/ep10/output/ep10-short-ko-v18-cover.mp4",
+    "poster": "../episodes/ep10/art/covers-v18/ko.png",
+    "original": "../episodes/ep10/art/original-clean.png",
+    "source_photo": "../../../research/album-7.jpg",
+    "sources": [
+      {
+        "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+        "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+      },
+      {
+        "title": "기산풍속도첩 · 서울역사박물관",
+        "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+      }
+    ],
+    "thumbnail": "../episodes/ep10/art/thumb.jpg",
+    "status": "ready",
+    "player_only": false,
+    "player_revision": "vector-v17",
+    "editions": {
+      "ko": {
+        "title": "골목에 온 단맛",
+        "hook": "들고 다니는 가게",
+        "narration": [
+          "가게가 손님을 찾아, 골목으로 들어왔습니다.",
+          "넓은 판을 든 엿장수 앞에, 사람들이 앉아 있습니다.",
+          "몸에 지닌 판이 작은 진열장이 됩니다.",
+          "손님들의 손과 시선은 먹거리 쪽으로 향합니다.",
+          "서서 일하는 사람과 앉아 쉬는 사람 사이에 거래가 생깁니다.",
+          "그림에 남은 판과 몸짓을 따라 장사의 방식을 살펴봅니다.",
+          "외국인에게는 무엇을 파는지, 어떻게 나르는지 모두 정보였겠지요.",
+          "그림 속 장수에게는 구경거리가 아니라 하루의 벌이였습니다.",
+          "옛 단맛과 함께, 그것을 지고 다닌 몸의 수고도 떠올립니다.",
+          "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+        ],
+        "video": "../episodes/ep10/output/ep10-short-ko-v18-cover.mp4",
+        "ready": true,
+        "language": "ko",
+        "actor": "한준",
+        "poster": "../episodes/ep10/art/covers-v18/ko.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "en": {
+        "title": "A shop that walks",
+        "hook": "A sweet sellers working day",
+        "narration": [
+          "What if the shop came to you?",
+          "A Korean sweet seller stands before people resting along a street.",
+          "The broad tray carried on the body acts as a small display counter.",
+          "Follow the customers eyes and the hands reaching toward the goods.",
+          "A brief exchange joins someone at work with someone taking a rest.",
+          "A visitor might ask what was sold and how a person carried the whole shop.",
+          "The scene describes a way goods reached people.",
+          "For the seller, it was a working day as well as a curious sight to others.",
+          "This work is attributed to Uncho.",
+          "From the TJ Kim Collection, imagine the sweetness and the effort of carrying it through the streets."
+        ],
+        "video": "../episodes/ep10/output/ep10-short-en-v18-cover.mp4",
+        "ready": true,
+        "language": "en",
+        "actor": "아레스",
+        "poster": "../episodes/ep10/art/covers-v18/en.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "ja": {
+        "title": "路地に来た甘さ",
+        "hook": "店のほうから人を訪ねる",
+        "narration": [
+          "店のほうから、人を訪ねてきました。",
+          "韓国の飴、ヨッを売る人が、盆を持って立っています。",
+          "振り売りに似た姿でも、運ぶ物と道具に注目します。",
+          "体に載せた広い盆が、小さな店先になります。",
+          "座る人の手と視線が、品物へ向かっています。",
+          "休む人と働く人の間に、路地の商いが生まれます。",
+          "外国人には、売り物だけでなく運び方も情報だったでしょう。",
+          "珍しい眺めの向こうに、売る人の一日の稼ぎがあります。",
+          "ウンチョ作と伝わる風俗画です。",
+          "ティージェイキム・コレクションから、甘さを運ぶ体を見てみます。"
+        ],
+        "video": "../episodes/ep10/output/ep10-short-ja-v18-cover.mp4",
+        "ready": true,
+        "language": "ja",
+        "actor": "이노우에 다이치",
+        "poster": "../episodes/ep10/art/covers-v18/ja.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      }
+    },
+    "music_track": "flow-playful",
+    "music_note_i18n": {
+      "ko": "음악: Flow Music 생성곡 〈윷판의 웃음〉. 북 효과음은 인트로에만 사용했습니다.",
+      "en": "Music: Laughter at the Game. Original Flow Music generation; intro drum sounds edited from generated audio.",
+      "ja": "音楽：遊びの笑顔。Flow Music生成曲。ドラム効果音はイントロのみです。"
+    },
+    "music_note": "음악: Flow Music 생성곡 〈윷판의 웃음〉. 북 효과음은 인트로에만 사용했습니다.",
+    "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+    "caption_style": "calm-myeongjo",
+    "caption_layout": {
+      "max_chars": 18,
+      "font_size": 54,
+      "top": 1374,
+      "one_line": true
+    }
+  },
+  {
+    "id": "ep11",
+    "number": 11,
+    "title": "물가에 모인 하루",
+    "hook": "세탁기 이전의 풍경",
+    "category": "일상·살림",
+    "album": 7,
+    "side": "right",
+    "duration": 67.5,
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "narration": [
+      "흰 천이 물가의 돌 위로 길게 펼쳐졌습니다.",
+      "한 손은 천을 잡고, 다른 손은 빨랫방망이를 들었습니다.",
+      "적시고 두드리고 헹구며, 옷을 깨끗하게 하는 일입니다.",
+      "물가까지 오가는 발걸음과 손의 힘이 필요했지요.",
+      "뒤쪽에서도 일을 하는 사람들의 모습이 보입니다.",
+      "한 사람만의 공간이 아니었던 빨래터를 떠올립니다.",
+      "외국인은 흰옷과 그 옷을 돌보는 방식을 함께 보았겠지요.",
+      "아름다운 물가만 보면, 반복되는 노동은 놓치기 쉽습니다.",
+      "손과 굽힌 허리를 다시 보며, 깨끗한 하루의 수고를 읽습니다.",
+      "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+    ],
+    "voice_id": "S11",
+    "voice_text": "흰 천이 물가의 돌 위로 길게 펼쳐졌습니다. 한 손은 천을 잡고, 다른 손은 빨랫방망이를 들었습니다. 적시고 두드리고 헹구며, 옷을 깨끗하게 하는 일입니다. 물가까지 오가는 발걸음과 손의 힘이 필요했지요. 뒤쪽에서도 일을 하는 사람들의 모습이 보입니다. 한 사람만의 공간이 아니었던 빨래터를 떠올립니다. 외국인은 흰옷과 그 옷을 돌보는 방식을 함께 보았겠지요. 아름다운 물가만 보면, 반복되는 노동은 놓치기 쉽습니다. 손과 굽힌 허리를 다시 보며, 깨끗한 하루의 수고를 읽습니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+    "voice_file": "S11.wav",
+    "video": "../episodes/ep11/output/ep11-short-ko-v18-cover.mp4",
+    "poster": "../episodes/ep11/art/covers-v18/ko.png",
+    "original": "../episodes/ep11/art/original-clean.png",
+    "source_photo": "../../../research/album-7.jpg",
+    "sources": [
+      {
+        "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+        "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+      },
+      {
+        "title": "기산풍속도첩 · 서울역사박물관",
+        "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+      }
+    ],
+    "thumbnail": "../episodes/ep11/art/thumb.jpg",
+    "status": "ready",
+    "player_only": false,
+    "player_revision": "vector-v17",
+    "editions": {
+      "ko": {
+        "title": "물가에 모인 하루",
+        "hook": "세탁기 이전의 풍경",
+        "narration": [
+          "흰 천이 물가의 돌 위로 길게 펼쳐졌습니다.",
+          "한 손은 천을 잡고, 다른 손은 빨랫방망이를 들었습니다.",
+          "적시고 두드리고 헹구며, 옷을 깨끗하게 하는 일입니다.",
+          "물가까지 오가는 발걸음과 손의 힘이 필요했지요.",
+          "뒤쪽에서도 일을 하는 사람들의 모습이 보입니다.",
+          "한 사람만의 공간이 아니었던 빨래터를 떠올립니다.",
+          "외국인은 흰옷과 그 옷을 돌보는 방식을 함께 보았겠지요.",
+          "아름다운 물가만 보면, 반복되는 노동은 놓치기 쉽습니다.",
+          "손과 굽힌 허리를 다시 보며, 깨끗한 하루의 수고를 읽습니다.",
+          "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
+        ],
+        "video": "../episodes/ep11/output/ep11-short-ko-v18-cover.mp4",
+        "ready": true,
+        "language": "ko",
+        "actor": "한준",
+        "poster": "../episodes/ep11/art/covers-v18/ko.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "en": {
+        "title": "The work of clean",
+        "hook": "Look beyond a pretty riverside",
+        "narration": [
+          "Clean clothes once meant a journey as well as a chore.",
+          "A woman holds a length of white cloth beside the water.",
+          "In her other hand is a wooden laundry beater.",
+          "Wetting, beating, and rinsing called for repeated work.",
+          "Look at the hand gripping the fabric, then the bend of her back.",
+          "Others work farther away, making this a shared place rather than a solitary scene.",
+          "A visitor might connect the white clothing with the effort needed to keep it clean.",
+          "The pretty riverside can draw our eyes away from that physical effort.",
+          "The painting is attributed to Uncho.",
+          "From the TJ Kim Collection, an ordinary task helps us see the people behind a clean garment."
+        ],
+        "video": "../episodes/ep11/output/ep11-short-en-v18-cover.mp4",
+        "ready": true,
+        "language": "en",
+        "actor": "아레스",
+        "poster": "../episodes/ep11/art/covers-v18/en.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      },
+      "ja": {
+        "title": "水辺に集まる一日",
+        "hook": "洗濯機の前の手と水",
+        "narration": [
+          "川辺の洗濯に、どこかなじみを感じますか。",
+          "白い布を持つ手と、上げた洗濯棒を見てみましょう。",
+          "ぬらし、打ち、すすぐ動きが衣服を支えました。",
+          "水辺へ通う足と、何度も動く手が必要でした。",
+          "向こうでも人が働き、洗い場を一緒に使っています。",
+          "同じように見える作業でも、道具や姿勢を細かく見ます。",
+          "外国人には、白い衣服の後ろの仕事が見えたかもしれません。",
+          "美しい水辺だけを見ると、労働の重さを忘れがちです。",
+          "この作品はウンチョの作と伝わります。",
+          "ティージェイキム・コレクションから、きれいな一日を作る手を見ます。"
+        ],
+        "video": "../episodes/ep11/output/ep11-short-ja-v18-cover.mp4",
+        "ready": true,
+        "language": "ja",
+        "actor": "이노우에 다이치",
+        "poster": "../episodes/ep11/art/covers-v18/ja.png",
+        "duration": 67.5,
+        "cover_seconds": 1.5,
+        "revision": "localized-cover-v18"
+      }
+    },
+    "music_track": "flow-calm",
+    "music_note_i18n": {
+      "ko": "음악: Flow Music 생성곡 〈종이 위의 바람〉. 북 효과음은 인트로에만 사용했습니다.",
+      "en": "Music: Wind over Paper. Original Flow Music generation; intro drum sounds edited from generated audio.",
+      "ja": "音楽：紙の上の風。Flow Music生成曲。ドラム効果音はイントロのみです。"
+    },
+    "music_note": "음악: Flow Music 생성곡 〈종이 위의 바람〉. 북 효과음은 인트로에만 사용했습니다.",
+    "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+    "caption_style": "calm-myeongjo",
+    "caption_layout": {
+      "max_chars": 18,
+      "font_size": 54,
+      "top": 1374,
+      "one_line": true
+    }
+  }
+]

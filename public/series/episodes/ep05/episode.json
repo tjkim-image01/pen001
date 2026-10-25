@@ -1,0 +1,476 @@
+{
+  "id": "ep05",
+  "number": 5,
+  "title": "비 오는 날의 조선",
+  "hook": "우산만 있었을까",
+  "category": "일상·살림",
+  "album": 4,
+  "side": "right",
+  "duration": 66,
+  "byline": "운초 전칭 · TJ KIM 컬렉션",
+  "narration": [
+    "비가 오면 조선 사람들은 어떻게 길을 나섰을까요? 가느다란 빗줄기 아래, 저마다 다른 차림으로 걸음을 옮깁니다.",
+    "넓은 모자는 얼굴 쪽으로 떨어지는 비를 막고, 머리에 인 짐 위에는 덮개를 씌웠습니다. 기와지붕 아래 머무는 사람과 비를 맞으며 움직이는 사람이 함께 보입니다.",
+    "먼저 지붕선을 그리고, 모자의 넓은 챙을 둥글게 이어 봅니다. 오늘날의 검은 우산 행렬과는 다른, 비를 견디는 모습이 드러납니다. 옷차림은 멋만이 아니라 날씨에 대응하는 방법이기도 했습니다.",
+    "외국인이 이 장면을 보았다면 낯선 모자부터 눈에 들어왔을 수 있습니다. 그러나 조금 더 들여다보면, 비가 와도 장사를 하고 짐을 나르던 일상이 보입니다.",
+    "한 장의 그림은 조선 사람을 특별한 옷의 주인공으로만 남기지 않습니다. 날씨와 형편에 맞춰 하루를 살아가던 사람으로 다시 만나게 합니다."
+  ],
+  "voice_id": "S05",
+  "voice_text": "비가 오면 조선 사람들은 어떻게 길을 나섰을까요? 가느다란 빗줄기 아래, 저마다 다른 차림으로 걸음을 옮깁니다. 넓은 모자는 얼굴 쪽으로 떨어지는 비를 막고, 머리에 인 짐 위에는 덮개를 씌웠습니다. 기와지붕 아래 머무는 사람과 비를 맞으며 움직이는 사람이 함께 보입니다. 먼저 지붕선을 그리고, 모자의 넓은 챙을 둥글게 이어 봅니다. 오늘날의 검은 우산 행렬과는 다른, 비를 견디는 모습이 드러납니다. 옷차림은 멋만이 아니라 날씨에 대응하는 방법이기도 했습니다. 외국인이 이 장면을 보았다면 낯선 모자부터 눈에 들어왔을 수 있습니다. 그러나 조금 더 들여다보면, 비가 와도 장사를 하고 짐을 나르던 일상이 보입니다. 한 장의 그림은 조선 사람을 특별한 옷의 주인공으로만 남기지 않습니다. 날씨와 형편에 맞춰 하루를 살아가던 사람으로 다시 만나게 합니다.",
+  "voice_file": "S05.wav",
+  "video": "../episodes/ep05/output/ep05-short-60s.mp4",
+  "poster": "../episodes/ep05/art/poster.jpg",
+  "original": "../episodes/ep05/art/original-clean.png",
+  "source_photo": "../../../research/album-4.jpg",
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "status": "ready",
+  "player_director": {
+    "intro_duration": 6,
+    "shots": [
+      {
+        "element": "front_carrier_face",
+        "start": 0.8,
+        "end": 3.519424460431649,
+        "box": [
+          447.0,
+          392.0,
+          657.0,
+          560.0
+        ],
+        "zoom": 4.76,
+        "secondary": false
+      },
+      {
+        "element": "front_carrier_body",
+        "start": 3.519424460431649,
+        "end": 6.843165467625887,
+        "box": [
+          380.65,
+          397.92,
+          693.35,
+          648.08
+        ],
+        "zoom": 3.2,
+        "secondary": false
+      },
+      {
+        "element": "front_carrier_legs",
+        "start": 6.843165467625887,
+        "end": 9.36115107913667,
+        "box": [
+          379.0,
+          412.0,
+          679.0,
+          652.0
+        ],
+        "zoom": 3.33,
+        "secondary": false
+      },
+      {
+        "element": "front_seated_face",
+        "start": 9.36115107913667,
+        "end": 12.08057553956832,
+        "box": [
+          593.5,
+          316.2,
+          825.5,
+          501.8
+        ],
+        "zoom": 4.31,
+        "secondary": false
+      },
+      {
+        "element": "front_seated_body",
+        "start": 12.08057553956832,
+        "end": 15.404316546762562,
+        "box": [
+          465.788,
+          318.06,
+          883.212,
+          652.0
+        ],
+        "zoom": 2.4,
+        "secondary": false
+      },
+      {
+        "element": "front_seated_legs",
+        "start": 15.404316546762562,
+        "end": 17.922302158273347,
+        "box": [
+          547.5,
+          412.0,
+          847.5,
+          652.0
+        ],
+        "zoom": 3.33,
+        "secondary": false
+      },
+      {
+        "element": "front_right_face",
+        "start": 17.922302158273347,
+        "end": 20.641726618704997,
+        "box": [
+          742.156,
+          258.625,
+          986.844,
+          454.375
+        ],
+        "zoom": 4.09,
+        "secondary": false
+      },
+      {
+        "element": "front_right_body",
+        "start": 20.641726618704997,
+        "end": 23.965467625899233,
+        "box": [
+          498.5,
+          250.8,
+          1000.0,
+          652.0
+        ],
+        "zoom": 1.99,
+        "secondary": false
+      },
+      {
+        "element": "front_right_legs",
+        "start": 23.965467625899233,
+        "end": 26.483453237410014,
+        "box": [
+          692.0,
+          412.0,
+          992.0,
+          652.0
+        ],
+        "zoom": 3.33,
+        "secondary": false
+      },
+      {
+        "element": "door_sitting_face",
+        "start": 26.483453237410014,
+        "end": 27.13812949640282,
+        "box": [
+          8.0,
+          128.0,
+          438.0,
+          472.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "door_sitting_body",
+        "start": 27.13812949640282,
+        "end": 28.14532374100713,
+        "box": [
+          27.5,
+          181.0,
+          457.5,
+          525.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "door_sitting_legs",
+        "start": 28.14532374100713,
+        "end": 28.6992805755395,
+        "box": [
+          27.5,
+          233.5,
+          457.5,
+          577.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "door_standing_face",
+        "start": 28.6992805755395,
+        "end": 29.3539568345323,
+        "box": [
+          109.5,
+          45.5,
+          539.5,
+          389.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "door_standing_body",
+        "start": 29.3539568345323,
+        "end": 30.36115107913661,
+        "box": [
+          142.5005,
+          133.5,
+          572.5005,
+          477.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "door_standing_legs",
+        "start": 30.36115107913661,
+        "end": 30.915107913668987,
+        "box": [
+          114.0,
+          218.0,
+          544.0,
+          562.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_small_face",
+        "start": 30.915107913668987,
+        "end": 31.56978417266179,
+        "box": [
+          508.0,
+          113.0,
+          938.0,
+          457.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_small_body",
+        "start": 31.56978417266179,
+        "end": 32.576978417266105,
+        "box": [
+          512.0,
+          138.0,
+          942.0,
+          482.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_small_legs",
+        "start": 32.576978417266105,
+        "end": 33.13093525179849,
+        "box": [
+          517.0,
+          165.5,
+          947.0,
+          509.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_cloaked_body",
+        "start": 33.13093525179849,
+        "end": 34.13812949640282,
+        "box": [
+          570.0,
+          95.0,
+          1000.0,
+          439.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_cloaked_legs",
+        "start": 34.13812949640282,
+        "end": 34.69208633093519,
+        "box": [
+          570.0,
+          159.5,
+          1000.0,
+          503.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "objects",
+        "start": 34.69208633093519,
+        "end": 41.74244604316541,
+        "box": [
+          415.8,
+          194.94,
+          802.2,
+          504.06
+        ],
+        "zoom": 2.59,
+        "secondary": false
+      },
+      {
+        "element": "background",
+        "start": 41.74244604316541,
+        "end": 49.8,
+        "box": [
+          0,
+          0,
+          1000,
+          652
+        ],
+        "zoom": 1.0,
+        "secondary": false
+      }
+    ],
+    "brush_types": {
+      "fine": {
+        "label": "세필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "fine-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "medium": {
+        "label": "중필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "medium-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "large": {
+        "label": "대필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "large-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "flat": {
+        "label": "평붓",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "flat-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      }
+    },
+    "brush_frames": 96,
+    "viewport": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "ink_bleed": 0.45,
+    "signature": "approved portrait Tj v13",
+    "signature_duration": 2.5,
+    "pressure_brush": {
+      "atlas": "pressure-atlas.png",
+      "width": 192,
+      "height": 288,
+      "anchor": [
+        62.4,
+        253.2
+      ],
+      "levels": 4,
+      "angles": 24
+    },
+    "caption_top": 1374,
+    "material": "fiber-height-wet-roughness-shader",
+    "caption_font_size": 60,
+    "brush_motion": "path-direction-speed-pressure-live-3d",
+    "intro_brush": "large-calligraphy-separate-tuft",
+    "intro_brush_scale": 9.04,
+    "intro_ink_bleed_multiplier": 2,
+    "brush_camera_reference": {
+      "intro": 3.6,
+      "painting": 5.14
+    },
+    "signature_canvas": [
+      1080,
+      1920
+    ],
+    "signature_approved": true,
+    "wet_ink_on_contact": true
+  },
+  "player_music": {
+    "file": "../../../music/flow-night-ready.m4a",
+    "title": "먹빛의 밤",
+    "source": "Google Flow Music original generation",
+    "hide_credit": true,
+    "effects_at": [
+      1,
+      1.35,
+      1.65,
+      1.93,
+      2.17,
+      2.38,
+      2.56,
+      2.73,
+      2.88,
+      3.02,
+      3.15,
+      3.27,
+      3.39,
+      3.5
+    ],
+    "separate_tracks": true,
+    "default_start": 5,
+    "default_offset": 0,
+    "intro_rim_file": "court-finish-v9.m4a",
+    "roll_file": "roll-v7.m4a",
+    "finish_instrument": "three-buk-inspired",
+    "gain_controls": true,
+    "finish_file": "court-finish-v9.m4a",
+    "finish_duration": 1.55,
+    "finish_at": 3.5,
+    "effects_scope": "intro-only"
+  },
+  "caption_style": "calm-myeongjo",
+  "caption_layout": {
+    "max_chars": 18,
+    "font_size": 54,
+    "top": 1374,
+    "one_line": true
+  },
+  "player_revision": "series-v15",
+  "player_only": false,
+  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "exports": {
+    "ko": "ep05-short-ko-v18-cover.mp4",
+    "en": "ep05-short-en-v18-cover.mp4",
+    "ja": "ep05-short-ja-v18-cover.mp4"
+  },
+  "cover_exports": {
+    "ko": "../episodes/ep05/art/covers-v18/ko.png",
+    "en": "../episodes/ep05/art/covers-v18/en.png",
+    "ja": "../episodes/ep05/art/covers-v18/ja.png"
+  }
+}

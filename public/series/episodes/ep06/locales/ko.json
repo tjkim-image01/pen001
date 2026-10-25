@@ -1,0 +1,141 @@
+{
+  "episode": "ep06",
+  "language": "ko",
+  "provider": "Typecast",
+  "actor": "한준",
+  "narration": "이 조용한 그림에서, 어떤 소리가 흘렀을까요. 방 안에 앉은 두 사람 앞에, 긴 줄악기가 놓였습니다. 나무 몸통과 줄, 그 위에 놓인 손을 살펴봅니다. 그림은 조용하지만, 손끝은 연주를 떠올리게 합니다. 낯선 나라를 찾은 사람에게는 앉아서 타는 자세도 새로웠겠지요. 듣지 못한 소리를, 악기의 모양과 몸짓으로 짐작했을 겁니다. 옷차림만으로 두 사람의 신분을 정할 수는 없습니다. 함께 앉은 거리와 서로 향한 시선이 이 시간을 채웁니다. 곧은 창호선 너머로, 오래전 방 안의 음악을 상상합니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+  "blocks": [
+    {
+      "text": "이 조용한 그림에서, 어떤 소리가 흘렀을까요.",
+      "caption": "어떤 소리가 흘렀을까요?"
+    },
+    {
+      "text": "방 안에 앉은 두 사람 앞에, 긴 줄악기가 놓였습니다.",
+      "caption": "긴 줄악기가 놓였습니다."
+    },
+    {
+      "text": "나무 몸통과 줄, 그 위에 놓인 손을 살펴봅니다.",
+      "caption": "악기 위의 손을 살펴봅니다."
+    },
+    {
+      "text": "그림은 조용하지만, 손끝은 연주를 떠올리게 합니다.",
+      "caption": "손끝에서 연주를 떠올립니다."
+    },
+    {
+      "text": "낯선 나라를 찾은 사람에게는 앉아서 타는 자세도 새로웠겠지요.",
+      "caption": "앉아서 타는 자세도 새롭겠죠."
+    },
+    {
+      "text": "듣지 못한 소리를, 악기의 모양과 몸짓으로 짐작했을 겁니다.",
+      "caption": "몸짓으로 소리를 짐작합니다."
+    },
+    {
+      "text": "옷차림만으로 두 사람의 신분을 정할 수는 없습니다.",
+      "caption": "옷만으로 신분은 못 정합니다."
+    },
+    {
+      "text": "함께 앉은 거리와 서로 향한 시선이 이 시간을 채웁니다.",
+      "caption": "함께 앉은 거리를 바라봅니다."
+    },
+    {
+      "text": "곧은 창호선 너머로, 오래전 방 안의 음악을 상상합니다.",
+      "caption": "오래전 방 안의 음악을 상상해요."
+    },
+    {
+      "text": "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+      "caption": "TJ KIM 컬렉션 소장품입니다."
+    }
+  ],
+  "voice": "locales/ko/voice-director.m4a",
+  "settings": {
+    "title": "손끝에서 흐르는 노래",
+    "hook": "그림 속 현악기",
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "생활의 도구와 노동, 외국인의 시선을 그림 관찰로 해석",
+  "captions": [
+    {
+      "start": 2.2,
+      "end": 6.32258,
+      "text": "어떤 소리가 흘렀을까요?",
+      "words": []
+    },
+    {
+      "start": 6.88258,
+      "end": 11.3689,
+      "text": "긴 줄악기가 놓였습니다.",
+      "words": []
+    },
+    {
+      "start": 11.9289,
+      "end": 16.34665,
+      "text": "악기 위의 손을 살펴봅니다.",
+      "words": []
+    },
+    {
+      "start": 16.90665,
+      "end": 21.06202,
+      "text": "손끝에서 연주를 떠올립니다.",
+      "words": []
+    },
+    {
+      "start": 21.62202,
+      "end": 26.65777,
+      "text": "앉아서 타는 자세도 새롭겠죠.",
+      "words": []
+    },
+    {
+      "start": 27.21777,
+      "end": 32.23558,
+      "text": "몸짓으로 소리를 짐작합니다.",
+      "words": []
+    },
+    {
+      "start": 32.79558,
+      "end": 36.80958,
+      "text": "옷만으로 신분은 못 정합니다.",
+      "words": []
+    },
+    {
+      "start": 37.36958,
+      "end": 41.77456,
+      "text": "함께 앉은 거리를 바라봅니다.",
+      "words": []
+    },
+    {
+      "start": 42.33456,
+      "end": 46.66817,
+      "text": "오래전 방 안의 음악을 상상해요.",
+      "words": []
+    },
+    {
+      "start": 47.22817,
+      "end": 50.9116,
+      "text": "TJ KIM 컬렉션 소장품입니다.",
+      "words": []
+    }
+  ],
+  "translations": {},
+  "timing": {
+    "intro": 6,
+    "narration_start": 8.2,
+    "raw_duration": 31.85,
+    "tempo": 0.88,
+    "inter_block_pause": 1.4,
+    "narration_end": 56.91160416666666,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions"
+  },
+  "asr_script_similarity": 0.9488372093023256,
+  "raw_sha256": "3aa7c44c24f74cf27e65ae52c4b330201a76836dad8b61ec85f9db57b4c241d4"
+}

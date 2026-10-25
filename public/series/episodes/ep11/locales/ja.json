@@ -1,0 +1,162 @@
+{
+  "episode": "ep11",
+  "language": "ja",
+  "provider": "Typecast",
+  "actor": "이노우에 다이치",
+  "narration": "川辺の洗濯に、どこかなじみを感じますか。 白い布を持つ手と、上げた洗濯棒を見てみましょう。 ぬらし、打ち、すすぐ動きが衣服を支えました。 水辺へ通う足と、何度も動く手が必要でした。 向こうでも人が働き、洗い場を一緒に使っています。 同じように見える作業でも、道具や姿勢を細かく見ます。 外国人には、白い衣服の後ろの仕事が見えたかもしれません。 美しい水辺だけを見ると、労働の重さを忘れがちです。 この作品はウンチョの作と伝わります。 ティージェイキム・コレクションから、きれいな一日を作る手を見ます。",
+  "blocks": [
+    {
+      "text": "川辺の洗濯に、どこかなじみを感じますか。",
+      "caption": "川辺の洗濯になじみがありますか。"
+    },
+    {
+      "text": "白い布を持つ手と、上げた洗濯棒を見てみましょう。",
+      "caption": "布を持つ手を見てみます。"
+    },
+    {
+      "text": "ぬらし、打ち、すすぐ動きが衣服を支えました。",
+      "caption": "ぬらして打ってすすぎます。"
+    },
+    {
+      "text": "水辺へ通う足と、何度も動く手が必要でした。",
+      "caption": "足と手の働きが必要でした。"
+    },
+    {
+      "text": "向こうでも人が働き、洗い場を一緒に使っています。",
+      "caption": "向こうでも人が働いています。"
+    },
+    {
+      "text": "同じように見える作業でも、道具や姿勢を細かく見ます。",
+      "caption": "道具と姿勢を細かく見ます。"
+    },
+    {
+      "text": "外国人には、白い衣服の後ろの仕事が見えたかもしれません。",
+      "caption": "白い服の後ろに仕事があります。"
+    },
+    {
+      "text": "美しい水辺だけを見ると、労働の重さを忘れがちです。",
+      "caption": "美しさの奥の労働も見ます。"
+    },
+    {
+      "text": "この作品はウンチョの作と伝わります。",
+      "caption": "ウンチョ作と伝わります。"
+    },
+    {
+      "text": "ティージェイキム・コレクションから、きれいな一日を作る手を見ます。",
+      "caption": "TJ KIMの所蔵品です。"
+    }
+  ],
+  "voice": "locales/ja/voice-director.m4a",
+  "settings": {
+    "title": "水辺に集まる一日",
+    "hook": "洗濯機の前の手と水",
+    "byline": "伝・ウンチョ作 · TJ KIM",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "日本でなじみのある道具や遊びとの比較から違いを観察する。起源や同一性は断定しない。",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 6.92206,
+      "end": 10.97191,
+      "text": "川辺の洗濯になじみがありますか。",
+      "words": []
+    },
+    {
+      "start": 11.15461,
+      "end": 17.12388,
+      "text": "布を持つ手を見てみます。",
+      "words": []
+    },
+    {
+      "start": 17.30658,
+      "end": 21.79456,
+      "text": "ぬらして打ってすすぎます。",
+      "words": []
+    },
+    {
+      "start": 21.97727,
+      "end": 26.74582,
+      "text": "足と手の働きが必要でした。",
+      "words": []
+    },
+    {
+      "start": 26.92852,
+      "end": 32.04424,
+      "text": "向こうでも人が働いています。",
+      "words": []
+    },
+    {
+      "start": 32.22694,
+      "end": 37.60767,
+      "text": "道具と姿勢を細かく見ます。",
+      "words": []
+    },
+    {
+      "start": 37.79038,
+      "end": 43.68511,
+      "text": "白い服の後ろに仕事があります。",
+      "words": []
+    },
+    {
+      "start": 43.86783,
+      "end": 49.3975,
+      "text": "美しさの奥の労働も見ます。",
+      "words": []
+    },
+    {
+      "start": 49.58021,
+      "end": 53.44359,
+      "text": "ウンチョ作と伝わります。",
+      "words": []
+    },
+    {
+      "start": 53.62631,
+      "end": 58.81187,
+      "text": "TJ KIMの所蔵品です。",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "TJ KIM コレクション所蔵",
+    "풍속화 속 한국  /  10": "風俗画に見る韓国  /  10",
+    "그린 그림에서 소장 이미지로": "所蔵画像へ重なる",
+    "소장 이미지 · AI 정리 편집본": "所蔵画像・AI整画像",
+    "인물 1 · 얼굴과 머리": "人物1・顔と髪",
+    "인물 1 · 몸과 손": "人物1・体と手",
+    "인물 1 · 다리·아랫옷": "人物1・脚と衣服",
+    "인물 2 · 얼굴과 머리": "人物2・顔と髪",
+    "인물 2 · 몸과 손": "人物2・体と手",
+    "인물 2 · 다리·아랫옷": "人物2・脚と衣服",
+    "인물 3 · 얼굴과 머리": "人物3・顔と髪",
+    "인물 3 · 몸과 손": "人物3・体と手",
+    "인물 3 · 다리·아랫옷": "人物3・脚と衣服",
+    "물건 · 생활의 도구": "暮らしの道具",
+    "배경 · 이곳의 하루": "暮らしの背景"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 13.084542,
+    "raw_duration": 42.95,
+    "tempo": 0.88,
+    "inter_block_pause": 0.46590909090909033,
+    "narration_end": 64.144708,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 13.085958,
+    "korean_first_audible": 13.084542,
+    "sync_tempo": 1.02
+  },
+  "asr_script_similarity": 0.880184331797235,
+  "raw_sha256": "b4bbcfb9e8ea76e4388d1dbeb9b93affbc16859493ac1a0db367afd01fc89740"
+}

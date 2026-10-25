@@ -1,0 +1,141 @@
+{
+  "episode": "ep10",
+  "language": "ko",
+  "provider": "Typecast",
+  "actor": "한준",
+  "narration": "가게가 손님을 찾아, 골목으로 들어왔습니다. 넓은 판을 든 엿장수 앞에, 사람들이 앉아 있습니다. 몸에 지닌 판이 작은 진열장이 됩니다. 손님들의 손과 시선은 먹거리 쪽으로 향합니다. 서서 일하는 사람과 앉아 쉬는 사람 사이에 거래가 생깁니다. 그림에 남은 판과 몸짓을 따라 장사의 방식을 살펴봅니다. 외국인에게는 무엇을 파는지, 어떻게 나르는지 모두 정보였겠지요. 그림 속 장수에게는 구경거리가 아니라 하루의 벌이였습니다. 옛 단맛과 함께, 그것을 지고 다닌 몸의 수고도 떠올립니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+  "blocks": [
+    {
+      "text": "가게가 손님을 찾아, 골목으로 들어왔습니다.",
+      "caption": "가게가 손님을 찾아왔습니다."
+    },
+    {
+      "text": "넓은 판을 든 엿장수 앞에, 사람들이 앉아 있습니다.",
+      "caption": "넓은 판을 든 엿장수입니다."
+    },
+    {
+      "text": "몸에 지닌 판이 작은 진열장이 됩니다.",
+      "caption": "판이 작은 진열장이 됩니다."
+    },
+    {
+      "text": "손님들의 손과 시선은 먹거리 쪽으로 향합니다.",
+      "caption": "손과 시선이 먹거리로 향합니다."
+    },
+    {
+      "text": "서서 일하는 사람과 앉아 쉬는 사람 사이에 거래가 생깁니다.",
+      "caption": "골목에서 작은 거래가 생깁니다."
+    },
+    {
+      "text": "그림에 남은 판과 몸짓을 따라 장사의 방식을 살펴봅니다.",
+      "caption": "장사의 방식을 살펴봅니다."
+    },
+    {
+      "text": "외국인에게는 무엇을 파는지, 어떻게 나르는지 모두 정보였겠지요.",
+      "caption": "파는 방식도 새 정보였겠지요."
+    },
+    {
+      "text": "그림 속 장수에게는 구경거리가 아니라 하루의 벌이였습니다.",
+      "caption": "장수에게는 하루의 벌이였겠죠."
+    },
+    {
+      "text": "옛 단맛과 함께, 그것을 지고 다닌 몸의 수고도 떠올립니다.",
+      "caption": "단맛 뒤의 수고도 떠올립니다."
+    },
+    {
+      "text": "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+      "caption": "TJ KIM 컬렉션 소장품입니다."
+    }
+  ],
+  "voice": "locales/ko/voice-director.m4a",
+  "settings": {
+    "title": "골목에 온 단맛",
+    "hook": "들고 다니는 가게",
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "생활의 도구와 노동, 외국인의 시선을 그림 관찰로 해석",
+  "captions": [
+    {
+      "start": 2.2,
+      "end": 5.86194,
+      "text": "가게가 손님을 찾아왔습니다.",
+      "words": []
+    },
+    {
+      "start": 6.42194,
+      "end": 10.66729,
+      "text": "넓은 판을 든 엿장수입니다.",
+      "words": []
+    },
+    {
+      "start": 11.22729,
+      "end": 14.5109,
+      "text": "판이 작은 진열장이 됩니다.",
+      "words": []
+    },
+    {
+      "start": 15.0709,
+      "end": 18.972,
+      "text": "손과 시선이 먹거리로 향합니다.",
+      "words": []
+    },
+    {
+      "start": 19.532,
+      "end": 24.26906,
+      "text": "골목에서 작은 거래가 생깁니다.",
+      "words": []
+    },
+    {
+      "start": 24.82906,
+      "end": 29.6976,
+      "text": "장사의 방식을 살펴봅니다.",
+      "words": []
+    },
+    {
+      "start": 30.2576,
+      "end": 35.67402,
+      "text": "파는 방식도 새 정보였겠지요.",
+      "words": []
+    },
+    {
+      "start": 36.23402,
+      "end": 40.77956,
+      "text": "장수에게는 하루의 벌이였겠죠.",
+      "words": []
+    },
+    {
+      "start": 41.33956,
+      "end": 46.09602,
+      "text": "단맛 뒤의 수고도 떠올립니다.",
+      "words": []
+    },
+    {
+      "start": 46.65602,
+      "end": 50.45104,
+      "text": "TJ KIM 컬렉션 소장품입니다.",
+      "words": []
+    }
+  ],
+  "translations": {},
+  "timing": {
+    "intro": 6,
+    "narration_start": 8.2,
+    "raw_duration": 31.45,
+    "tempo": 0.88,
+    "inter_block_pause": 1.4,
+    "narration_end": 56.45104166666666,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions"
+  },
+  "asr_script_similarity": 0.9090909090909091,
+  "raw_sha256": "e0acbf1cfc335a83990e61d2385de567233f4fd17990d16b47a066cb9347dd2b"
+}

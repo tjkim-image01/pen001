@@ -1,0 +1,162 @@
+{
+  "episode": "ep10",
+  "language": "ja",
+  "provider": "Typecast",
+  "actor": "이노우에 다이치",
+  "narration": "店のほうから、人を訪ねてきました。 韓国の飴、ヨッを売る人が、盆を持って立っています。 振り売りに似た姿でも、運ぶ物と道具に注目します。 体に載せた広い盆が、小さな店先になります。 座る人の手と視線が、品物へ向かっています。 休む人と働く人の間に、路地の商いが生まれます。 外国人には、売り物だけでなく運び方も情報だったでしょう。 珍しい眺めの向こうに、売る人の一日の稼ぎがあります。 ウンチョ作と伝わる風俗画です。 ティージェイキム・コレクションから、甘さを運ぶ体を見てみます。",
+  "blocks": [
+    {
+      "text": "店のほうから、人を訪ねてきました。",
+      "caption": "店のほうから訪ねてきます。"
+    },
+    {
+      "text": "韓国の飴、ヨッを売る人が、盆を持って立っています。",
+      "caption": "ヨッという飴を売っています。"
+    },
+    {
+      "text": "振り売りに似た姿でも、運ぶ物と道具に注目します。",
+      "caption": "物と道具に注目します。"
+    },
+    {
+      "text": "体に載せた広い盆が、小さな店先になります。",
+      "caption": "広い盆が店先になります。"
+    },
+    {
+      "text": "座る人の手と視線が、品物へ向かっています。",
+      "caption": "手と視線が品物へ向かいます。"
+    },
+    {
+      "text": "休む人と働く人の間に、路地の商いが生まれます。",
+      "caption": "路地に商いが生まれます。"
+    },
+    {
+      "text": "外国人には、売り物だけでなく運び方も情報だったでしょう。",
+      "caption": "運び方も新しい情報です。"
+    },
+    {
+      "text": "珍しい眺めの向こうに、売る人の一日の稼ぎがあります。",
+      "caption": "向こうには一日の稼ぎがあります。"
+    },
+    {
+      "text": "ウンチョ作と伝わる風俗画です。",
+      "caption": "ウンチョ作と伝わります。"
+    },
+    {
+      "text": "ティージェイキム・コレクションから、甘さを運ぶ体を見てみます。",
+      "caption": "TJ KIMの所蔵品です。"
+    }
+  ],
+  "voice": "locales/ja/voice-director.m4a",
+  "settings": {
+    "title": "路地に来た甘さ",
+    "hook": "店のほうから人を訪ねる",
+    "byline": "伝・ウンチョ作 · TJ KIM",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "日本でなじみのある道具や遊びとの比較から違いを観察する。起源や同一性は断定しない。",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 6.51638,
+      "end": 10.13099,
+      "text": "店のほうから訪ねてきます。",
+      "words": []
+    },
+    {
+      "start": 10.2617,
+      "end": 15.91409,
+      "text": "ヨッという飴を売っています。",
+      "words": []
+    },
+    {
+      "start": 16.04481,
+      "end": 21.72722,
+      "text": "物と道具に注目します。",
+      "words": []
+    },
+    {
+      "start": 21.85795,
+      "end": 27.13366,
+      "text": "広い盆が店先になります。",
+      "words": []
+    },
+    {
+      "start": 27.26438,
+      "end": 31.83076,
+      "text": "手と視線が品物へ向かいます。",
+      "words": []
+    },
+    {
+      "start": 31.96148,
+      "end": 37.45118,
+      "text": "路地に商いが生まれます。",
+      "words": []
+    },
+    {
+      "start": 37.5819,
+      "end": 43.5378,
+      "text": "運び方も新しい情報です。",
+      "words": []
+    },
+    {
+      "start": 43.66853,
+      "end": 49.52128,
+      "text": "向こうには一日の稼ぎがあります。",
+      "words": []
+    },
+    {
+      "start": 49.652,
+      "end": 52.96133,
+      "text": "ウンチョ作と伝わります。",
+      "words": []
+    },
+    {
+      "start": 53.09206,
+      "end": 58.38836,
+      "text": "TJ KIMの所蔵品です。",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "TJ KIM コレクション所蔵",
+    "풍속화 속 한국  /  09": "風俗画に見る韓国  /  09",
+    "그린 그림에서 소장 이미지로": "所蔵画像へ重なる",
+    "소장 이미지 · AI 정리 편집본": "所蔵画像・AI整画像",
+    "인물 1 · 얼굴과 머리": "人物1・顔と髪",
+    "인물 1 · 몸과 손": "人物1・体と手",
+    "인물 1 · 다리·아랫옷": "人物1・脚と衣服",
+    "인물 2 · 얼굴과 머리": "人物2・顔と髪",
+    "인물 2 · 몸과 손": "人物2・体と手",
+    "인물 2 · 다리·아랫옷": "人物2・脚と衣服",
+    "인물 3 · 얼굴과 머리": "人物3・顔と髪",
+    "인물 3 · 몸과 손": "人物3・体と手",
+    "인물 3 · 다리·아랫옷": "人物3・脚と衣服",
+    "물건 · 생활의 도구": "暮らしの道具",
+    "배경 · 이곳의 하루": "暮らしの背景"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 12.624937,
+    "raw_duration": 44.0,
+    "tempo": 0.88,
+    "inter_block_pause": 0.3333333333333333,
+    "narration_end": 64.081375,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 12.628,
+    "korean_first_audible": 12.624937,
+    "sync_tempo": 1.02
+  },
+  "asr_script_similarity": 0.850356294536817,
+  "raw_sha256": "406821d35eb028b92be97ce280127b23e91d37da8789ca5fe269869dc7cf1ddf"
+}

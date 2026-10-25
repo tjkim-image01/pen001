@@ -1,0 +1,162 @@
+{
+  "episode": "ep11",
+  "language": "en",
+  "provider": "Typecast",
+  "actor": "아레스",
+  "narration": "Clean clothes once meant a journey as well as a chore. A woman holds a length of white cloth beside the water. In her other hand is a wooden laundry beater. Wetting, beating, and rinsing called for repeated work. Look at the hand gripping the fabric, then the bend of her back. Others work farther away, making this a shared place rather than a solitary scene. A visitor might connect the white clothing with the effort needed to keep it clean. The pretty riverside can draw our eyes away from that physical effort. The painting is attributed to Uncho. From the TJ Kim Collection, an ordinary task helps us see the people behind a clean garment.",
+  "blocks": [
+    {
+      "text": "Clean clothes once meant a journey as well as a chore.",
+      "caption": "Clean takes work."
+    },
+    {
+      "text": "A woman holds a length of white cloth beside the water.",
+      "caption": "Cloth meets water."
+    },
+    {
+      "text": "In her other hand is a wooden laundry beater.",
+      "caption": "A beater rises."
+    },
+    {
+      "text": "Wetting, beating, and rinsing called for repeated work.",
+      "caption": "The work repeats."
+    },
+    {
+      "text": "Look at the hand gripping the fabric, then the bend of her back.",
+      "caption": "See hand and back."
+    },
+    {
+      "text": "Others work farther away, making this a shared place rather than a solitary scene.",
+      "caption": "Others work here."
+    },
+    {
+      "text": "A visitor might connect the white clothing with the effort needed to keep it clean.",
+      "caption": "White takes work."
+    },
+    {
+      "text": "The pretty riverside can draw our eyes away from that physical effort.",
+      "caption": "See beyond beauty."
+    },
+    {
+      "text": "The painting is attributed to Uncho.",
+      "caption": "Perhaps by Uncho."
+    },
+    {
+      "text": "From the TJ Kim Collection, an ordinary task helps us see the people behind a clean garment.",
+      "caption": "TJ KIM keeps it."
+    }
+  ],
+  "voice": "locales/en/voice-director.m4a",
+  "settings": {
+    "title": "The work of clean",
+    "hook": "Look beyond a pretty riverside",
+    "byline": "Attributed to Uncho · TJ KIM Collection",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "Objects and routines introduced for an English-speaking newcomer; analogies are interpretive.",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 6.95666,
+      "end": 11.66041,
+      "text": "Clean takes work.",
+      "words": []
+    },
+    {
+      "start": 11.66041,
+      "end": 16.38354,
+      "text": "Cloth meets water.",
+      "words": []
+    },
+    {
+      "start": 16.38354,
+      "end": 19.77526,
+      "text": "A beater rises.",
+      "words": []
+    },
+    {
+      "start": 19.77526,
+      "end": 24.04334,
+      "text": "The work repeats.",
+      "words": []
+    },
+    {
+      "start": 24.04334,
+      "end": 28.70265,
+      "text": "See hand and back.",
+      "words": []
+    },
+    {
+      "start": 28.70265,
+      "end": 35.56825,
+      "text": "Others work here.",
+      "words": []
+    },
+    {
+      "start": 35.56825,
+      "end": 40.78977,
+      "text": "White takes work.",
+      "words": []
+    },
+    {
+      "start": 40.78977,
+      "end": 45.88977,
+      "text": "See beyond beauty.",
+      "words": []
+    },
+    {
+      "start": 45.88977,
+      "end": 48.95077,
+      "text": "Perhaps by Uncho.",
+      "words": []
+    },
+    {
+      "start": 48.95077,
+      "end": 57.99606,
+      "text": "TJ KIM keeps it.",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "From the TJ KIM Collection",
+    "풍속화 속 한국  /  10": "KOREAN LIFE IN PAINTINGS  /  10",
+    "그린 그림에서 소장 이미지로": "Painting to collection image",
+    "소장 이미지 · AI 정리 편집본": "Collection image · AI cleanup",
+    "인물 1 · 얼굴과 머리": "Figure 1 · Face and hair",
+    "인물 1 · 몸과 손": "Figure 1 · Body and hands",
+    "인물 1 · 다리·아랫옷": "Figure 1 · Legs and clothing",
+    "인물 2 · 얼굴과 머리": "Figure 2 · Face and hair",
+    "인물 2 · 몸과 손": "Figure 2 · Body and hands",
+    "인물 2 · 다리·아랫옷": "Figure 2 · Legs and clothing",
+    "인물 3 · 얼굴과 머리": "Figure 3 · Face and hair",
+    "인물 3 · 몸과 손": "Figure 3 · Body and hands",
+    "인물 3 · 다리·아랫옷": "Figure 3 · Legs and clothing",
+    "물건 · 생활의 도구": "Objects of daily life",
+    "배경 · 이곳의 하루": "The setting"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 13.084542,
+    "raw_duration": 54.05,
+    "tempo": 1.019811320754717,
+    "inter_block_pause": 7.894919286223335e-16,
+    "narration_end": 63.967104,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 13.086333,
+    "korean_first_audible": 13.084542,
+    "sync_tempo": 1.04
+  },
+  "asr_script_similarity": 0.9941634241245136,
+  "raw_sha256": "14e3903e6e92f29483a2e89a8a3b24722c59aa0e418f85175e245aeb87439cf1"
+}

@@ -1,0 +1,173 @@
+{
+  "episode": "ep03",
+  "language": "en",
+  "provider": "Typecast",
+  "actor": "아레스",
+  "narration": "Before an electric iron, how did a garment become smooth? These two women are beating cloth on a low stone. The Korean practice is called dadeumijil. Washed and starched fabric was pounded to smooth its surface. Notice the wooden beaters, then the different angles of their arms. A clean white garment could carry hours of unseen work. A visitor might admire the clothing and wonder how people cared for it. Here, the picture makes that hidden routine visible. We cannot hear a rhythm, but their shared task lets us imagine one. The work is attributed to Uncho. From the TJ Kim Collection, look beyond the garment to the hands that made it ready.",
+  "blocks": [
+    {
+      "text": "Before an electric iron, how did a garment become smooth?",
+      "caption": "Before the iron."
+    },
+    {
+      "text": "These two women are beating cloth on a low stone.",
+      "caption": "Cloth meets stone."
+    },
+    {
+      "text": "The Korean practice is called dadeumijil.",
+      "caption": "Meet dadeumijil."
+    },
+    {
+      "text": "Washed and starched fabric was pounded to smooth its surface.",
+      "caption": "Cloth is smoothed."
+    },
+    {
+      "text": "Notice the wooden beaters, then the different angles of their arms.",
+      "caption": "Watch their arms."
+    },
+    {
+      "text": "A clean white garment could carry hours of unseen work.",
+      "caption": "Clean takes work."
+    },
+    {
+      "text": "A visitor might admire the clothing and wonder how people cared for it.",
+      "caption": "How to keep white?"
+    },
+    {
+      "text": "Here, the picture makes that hidden routine visible.",
+      "caption": "Daily work shows."
+    },
+    {
+      "text": "We cannot hear a rhythm, but their shared task lets us imagine one.",
+      "caption": "Hear a rhythm?"
+    },
+    {
+      "text": "The work is attributed to Uncho.",
+      "caption": "Perhaps by Uncho."
+    },
+    {
+      "text": "From the TJ Kim Collection, look beyond the garment to the hands that made it ready.",
+      "caption": "TJ KIM keeps it."
+    }
+  ],
+  "voice": "locales/en/voice-director.m4a",
+  "settings": {
+    "title": "Before the iron",
+    "hook": "The work behind a white garment",
+    "byline": "Attributed to Uncho · TJ KIM Collection",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "다듬이질: 옷감 정리와 도구",
+      "url": "https://www.scienceall.com/brd/board/749/L/menu/748?bbsSn=15834&brdCodeValue=&brdType=R&thisPage=1"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "Objects and routines introduced for an English-speaking newcomer; analogies are interpretive.",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 3.72931,
+      "end": 8.62877,
+      "text": "Before the iron.",
+      "words": []
+    },
+    {
+      "start": 8.62877,
+      "end": 13.07116,
+      "text": "Cloth meets stone.",
+      "words": []
+    },
+    {
+      "start": 13.07116,
+      "end": 16.81662,
+      "text": "Meet dadeumijil.",
+      "words": []
+    },
+    {
+      "start": 16.81662,
+      "end": 21.82779,
+      "text": "Cloth is smoothed.",
+      "words": []
+    },
+    {
+      "start": 21.82779,
+      "end": 27.45089,
+      "text": "Watch their arms.",
+      "words": []
+    },
+    {
+      "start": 27.45089,
+      "end": 31.79391,
+      "text": "Clean takes work.",
+      "words": []
+    },
+    {
+      "start": 31.79391,
+      "end": 37.35387,
+      "text": "How to keep white?",
+      "words": []
+    },
+    {
+      "start": 37.35387,
+      "end": 41.25537,
+      "text": "Daily work shows.",
+      "words": []
+    },
+    {
+      "start": 41.25537,
+      "end": 46.66018,
+      "text": "Hear a rhythm?",
+      "words": []
+    },
+    {
+      "start": 46.66018,
+      "end": 49.308,
+      "text": "Perhaps by Uncho.",
+      "words": []
+    },
+    {
+      "start": 49.308,
+      "end": 56.66643,
+      "text": "TJ KIM keeps it.",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "From the TJ KIM Collection",
+    "풍속화 속 한국  /  02": "KOREAN LIFE IN PAINTINGS  /  02",
+    "그린 그림에서 소장 이미지로": "Painting to collection image",
+    "소장 이미지 · AI 정리 편집본": "Collection image · AI cleanup",
+    "인물 1 · 얼굴과 머리": "Figure 1 · Face and hair",
+    "인물 1 · 몸과 손": "Figure 1 · Body and hands",
+    "인물 1 · 다리·아랫옷": "Figure 1 · Legs and clothing",
+    "인물 2 · 얼굴과 머리": "Figure 2 · Face and hair",
+    "인물 2 · 몸과 손": "Figure 2 · Body and hands",
+    "인물 2 · 다리·아랫옷": "Figure 2 · Legs and clothing",
+    "물건 · 생활의 도구": "Objects of daily life",
+    "배경 · 이곳의 하루": "The setting"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 9.870437,
+    "raw_duration": 52.35,
+    "tempo": 0.9877358490566038,
+    "inter_block_pause": 0,
+    "narration_end": 62.389437,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 9.861729,
+    "korean_first_audible": 9.870437,
+    "sync_tempo": 1
+  },
+  "asr_script_similarity": 0.9980694980694981,
+  "raw_sha256": "a9fd438dbb3f2e62a19c9266e8b6a2074a3af506ae8c93c5b8ccac5e82a6fdc3"
+}

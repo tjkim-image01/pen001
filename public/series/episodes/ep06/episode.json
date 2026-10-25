@@ -1,0 +1,294 @@
+{
+  "id": "ep06",
+  "number": 6,
+  "title": "손끝에서 흐르는 노래",
+  "hook": "그림 속 현악기",
+  "category": "놀이·음악",
+  "album": 5,
+  "side": "left",
+  "duration": 66,
+  "byline": "운초 전칭 · TJ KIM 컬렉션",
+  "narration": [
+    "이 그림에서는 어떤 소리가 흘렀을까요? 두 여인이 방 안에 앉아 있고, 한 사람의 무릎 앞에는 긴 줄악기가 놓였습니다.",
+    "악기 몸통을 가로지르는 줄과 그 위에 놓인 손을 따라 그립니다. 오른손은 줄을 뜯고, 다른 손은 줄을 짚으며 소리를 다루는 모습을 떠올리게 하지요. 그림은 조용하지만 손끝은 연주를 이어 갑니다.",
+    "조선의 옛 음악을 처음 접한 외국인에게는 음색뿐 아니라 악기를 바닥 가까이에 두고 앉는 자세도 새로운 볼거리였을 겁니다. 종이 위에서는 들리지 않는 소리를, 악기의 형태와 몸짓으로 짐작해야 했겠지요.",
+    "그렇다고 옷차림과 악기만 보고 연주자의 신분이나 이 자리의 성격을 단정할 수는 없습니다. 그림에 남은 것은 두 사람과 악기, 그리고 서로 가까이 앉은 한 순간입니다.",
+    "창호의 곧은 선과 옷자락의 부드러운 선을 잇다 보면, 오래전 방 안의 작은 음악 시간이 우리 앞에 놓입니다."
+  ],
+  "voice_id": "S06",
+  "voice_text": "이 그림에서는 어떤 소리가 흘렀을까요? 두 여인이 방 안에 앉아 있고, 한 사람의 무릎 앞에는 긴 줄악기가 놓였습니다. 악기 몸통을 가로지르는 줄과 그 위에 놓인 손을 따라 그립니다. 오른손은 줄을 뜯고, 다른 손은 줄을 짚으며 소리를 다루는 모습을 떠올리게 하지요. 그림은 조용하지만 손끝은 연주를 이어 갑니다. 조선의 옛 음악을 처음 접한 외국인에게는 음색뿐 아니라 악기를 바닥 가까이에 두고 앉는 자세도 새로운 볼거리였을 겁니다. 종이 위에서는 들리지 않는 소리를, 악기의 형태와 몸짓으로 짐작해야 했겠지요. 그렇다고 옷차림과 악기만 보고 연주자의 신분이나 이 자리의 성격을 단정할 수는 없습니다. 그림에 남은 것은 두 사람과 악기, 그리고 서로 가까이 앉은 한 순간입니다. 창호의 곧은 선과 옷자락의 부드러운 선을 잇다 보면, 오래전 방 안의 작은 음악 시간이 우리 앞에 놓입니다.",
+  "voice_file": "S06.wav",
+  "video": "../episodes/ep06/output/ep06-short-60s.mp4",
+  "poster": "../episodes/ep06/art/poster.jpg",
+  "original": "../episodes/ep06/art/original-clean.png",
+  "source_photo": "../../../research/album-5.jpg",
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "status": "ready",
+  "player_director": {
+    "intro_duration": 6,
+    "shots": [
+      {
+        "element": "left_woman_face",
+        "start": 0.8,
+        "end": 4.934375000000001,
+        "box": [
+          329.5,
+          96.5,
+          539.5,
+          264.5
+        ],
+        "zoom": 4.76,
+        "secondary": false
+      },
+      {
+        "element": "left_woman_body",
+        "start": 4.934375000000001,
+        "end": 9.987500000000006,
+        "box": [
+          77.55,
+          94.64,
+          673.45,
+          571.36
+        ],
+        "zoom": 1.68,
+        "secondary": false
+      },
+      {
+        "element": "left_woman_legs",
+        "start": 9.987500000000006,
+        "end": 13.815625000000013,
+        "box": [
+          158.9,
+          269.22,
+          592.1,
+          615.78
+        ],
+        "zoom": 2.31,
+        "secondary": false
+      },
+      {
+        "element": "right_woman_face",
+        "start": 13.815625000000013,
+        "end": 17.950000000000017,
+        "box": [
+          582.75,
+          161.2,
+          797.25,
+          332.8
+        ],
+        "zoom": 4.66,
+        "secondary": false
+      },
+      {
+        "element": "right_woman_body",
+        "start": 17.950000000000017,
+        "end": 23.00312500000001,
+        "box": [
+          461.2,
+          164.16,
+          950.8,
+          555.84
+        ],
+        "zoom": 2.04,
+        "secondary": false
+      },
+      {
+        "element": "right_woman_legs",
+        "start": 23.00312500000001,
+        "end": 26.831250000000015,
+        "box": [
+          461.2,
+          241.66,
+          950.8,
+          633.34
+        ],
+        "zoom": 2.04,
+        "secondary": false
+      },
+      {
+        "element": "objects",
+        "start": 26.831250000000015,
+        "end": 37.550000000000004,
+        "box": [
+          141.0,
+          0.0,
+          956.0,
+          652.0
+        ],
+        "zoom": 1.23,
+        "secondary": false
+      },
+      {
+        "element": "background",
+        "start": 37.550000000000004,
+        "end": 49.8,
+        "box": [
+          0,
+          0,
+          1000,
+          652
+        ],
+        "zoom": 1.0,
+        "secondary": false
+      }
+    ],
+    "brush_types": {
+      "fine": {
+        "label": "세필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "fine-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "medium": {
+        "label": "중필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "medium-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "large": {
+        "label": "대필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "large-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "flat": {
+        "label": "평붓",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "flat-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      }
+    },
+    "brush_frames": 96,
+    "viewport": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "ink_bleed": 0.45,
+    "signature": "approved portrait Tj v13",
+    "signature_duration": 2.5,
+    "pressure_brush": {
+      "atlas": "pressure-atlas.png",
+      "width": 192,
+      "height": 288,
+      "anchor": [
+        62.4,
+        253.2
+      ],
+      "levels": 4,
+      "angles": 24
+    },
+    "caption_top": 1374,
+    "material": "fiber-height-wet-roughness-shader",
+    "caption_font_size": 60,
+    "brush_motion": "path-direction-speed-pressure-live-3d",
+    "intro_brush": "large-calligraphy-separate-tuft",
+    "intro_brush_scale": 9.04,
+    "intro_ink_bleed_multiplier": 2,
+    "brush_camera_reference": {
+      "intro": 3.6,
+      "painting": 5.14
+    },
+    "signature_canvas": [
+      1080,
+      1920
+    ],
+    "signature_approved": true,
+    "wet_ink_on_contact": true
+  },
+  "player_music": {
+    "file": "../../../music/flow-calm-ready.m4a",
+    "title": "종이 위의 바람",
+    "source": "Google Flow Music original generation",
+    "hide_credit": true,
+    "effects_at": [
+      1,
+      1.35,
+      1.65,
+      1.93,
+      2.17,
+      2.38,
+      2.56,
+      2.73,
+      2.88,
+      3.02,
+      3.15,
+      3.27,
+      3.39,
+      3.5
+    ],
+    "separate_tracks": true,
+    "default_start": 5,
+    "default_offset": 0,
+    "intro_rim_file": "court-finish-v9.m4a",
+    "roll_file": "roll-v7.m4a",
+    "finish_instrument": "three-buk-inspired",
+    "gain_controls": true,
+    "finish_file": "court-finish-v9.m4a",
+    "finish_duration": 1.55,
+    "finish_at": 3.5,
+    "effects_scope": "intro-only"
+  },
+  "caption_style": "calm-myeongjo",
+  "caption_layout": {
+    "max_chars": 18,
+    "font_size": 54,
+    "top": 1374,
+    "one_line": true
+  },
+  "player_revision": "series-v15",
+  "player_only": false,
+  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "exports": {
+    "ko": "ep06-short-ko-v18-cover.mp4",
+    "en": "ep06-short-en-v18-cover.mp4",
+    "ja": "ep06-short-ja-v18-cover.mp4"
+  },
+  "cover_exports": {
+    "ko": "../episodes/ep06/art/covers-v18/ko.png",
+    "en": "../episodes/ep06/art/covers-v18/en.png",
+    "ja": "../episodes/ep06/art/covers-v18/ja.png"
+  }
+}

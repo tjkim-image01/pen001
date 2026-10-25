@@ -1,0 +1,145 @@
+{
+  "episode": "ep08",
+  "language": "ko",
+  "provider": "Typecast",
+  "actor": "한준",
+  "narration": "판을 사이에 두고, 두 사람이 다음 수를 기다립니다. 동그란 돌을 놓는 바둑이 아니라, 말을 움직이는 장기입니다. 글자가 새겨진 말마다 움직이는 방법이 다릅니다. 상대의 수를 살피고, 내 길을 선택해야 하지요. 조금 숙인 고개와 판으로 모인 손에 집중이 보입니다. 체스에 익숙한 외국인이라면 닮은 점부터 찾았을 겁니다. 글자를 읽지 못해도, 서로의 수를 기다리는 모습은 알 수 있겠지요. 그림에는 승부의 결과보다 생각하는 시간이 남았습니다. 낯선 옷차림 너머로, 같은 놀이의 즐거움을 만나 봅니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+  "blocks": [
+    {
+      "text": "판을 사이에 두고, 두 사람이 다음 수를 기다립니다.",
+      "caption": "두 사람이 다음 수를 기다립니다."
+    },
+    {
+      "text": "동그란 돌을 놓는 바둑이 아니라, 말을 움직이는 장기입니다.",
+      "caption": "말을 움직이는 장기입니다."
+    },
+    {
+      "text": "글자가 새겨진 말마다 움직이는 방법이 다릅니다.",
+      "caption": "말마다 움직임이 다릅니다."
+    },
+    {
+      "text": "상대의 수를 살피고, 내 길을 선택해야 하지요.",
+      "caption": "상대의 다음 수를 헤아립니다."
+    },
+    {
+      "text": "조금 숙인 고개와 판으로 모인 손에 집중이 보입니다.",
+      "caption": "고개와 손에 집중이 보입니다."
+    },
+    {
+      "text": "체스에 익숙한 외국인이라면 닮은 점부터 찾았을 겁니다.",
+      "caption": "체스와 비교했을지도 모릅니다."
+    },
+    {
+      "text": "글자를 읽지 못해도, 서로의 수를 기다리는 모습은 알 수 있겠지요.",
+      "caption": "기다리는 마음은 알 수 있겠죠."
+    },
+    {
+      "text": "그림에는 승부의 결과보다 생각하는 시간이 남았습니다.",
+      "caption": "그림에 생각하는 시간이 남았죠."
+    },
+    {
+      "text": "낯선 옷차림 너머로, 같은 놀이의 즐거움을 만나 봅니다.",
+      "caption": "놀이의 즐거움으로 가까워집니다."
+    },
+    {
+      "text": "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+      "caption": "TJ KIM 컬렉션 소장품입니다."
+    }
+  ],
+  "voice": "locales/ko/voice-director.m4a",
+  "settings": {
+    "title": "말 한 수에 담긴 하루",
+    "hook": "바둑과 다른 놀이",
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "장기: 말의 종류와 진법 놀이",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048325"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "생활의 도구와 노동, 외국인의 시선을 그림 관찰로 해석",
+  "captions": [
+    {
+      "start": 2.2,
+      "end": 6.21138,
+      "text": "두 사람이 다음 수를 기다립니다.",
+      "words": []
+    },
+    {
+      "start": 6.77137,
+      "end": 11.34681,
+      "text": "말을 움직이는 장기입니다.",
+      "words": []
+    },
+    {
+      "start": 11.90681,
+      "end": 15.83188,
+      "text": "말마다 움직임이 다릅니다.",
+      "words": []
+    },
+    {
+      "start": 16.39187,
+      "end": 20.20512,
+      "text": "상대의 다음 수를 헤아립니다.",
+      "words": []
+    },
+    {
+      "start": 20.76512,
+      "end": 24.93356,
+      "text": "고개와 손에 집중이 보입니다.",
+      "words": []
+    },
+    {
+      "start": 25.49356,
+      "end": 29.88502,
+      "text": "체스와 비교했을지도 모릅니다.",
+      "words": []
+    },
+    {
+      "start": 30.44502,
+      "end": 35.54152,
+      "text": "기다리는 마음은 알 수 있겠죠.",
+      "words": []
+    },
+    {
+      "start": 36.10152,
+      "end": 40.54263,
+      "text": "그림에 생각하는 시간이 남았죠.",
+      "words": []
+    },
+    {
+      "start": 41.10262,
+      "end": 45.57458,
+      "text": "놀이의 즐거움으로 가까워집니다.",
+      "words": []
+    },
+    {
+      "start": 46.13458,
+      "end": 49.93896,
+      "text": "TJ KIM 컬렉션 소장품입니다.",
+      "words": []
+    }
+  ],
+  "translations": {},
+  "timing": {
+    "intro": 6,
+    "narration_start": 8.2,
+    "raw_duration": 31.0,
+    "tempo": 0.88,
+    "inter_block_pause": 1.4,
+    "narration_end": 55.93895833333333,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions"
+  },
+  "asr_script_similarity": 0.9333333333333333,
+  "raw_sha256": "75588c46bfcba892dad119d048b171f4a94cbf2e5e6337cee322a7f4e5a2fc4f"
+}

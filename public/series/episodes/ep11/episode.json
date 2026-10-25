@@ -1,0 +1,333 @@
+{
+  "id": "ep11",
+  "number": 11,
+  "title": "물가에 모인 하루",
+  "hook": "세탁기 이전의 풍경",
+  "category": "일상·살림",
+  "album": 7,
+  "side": "right",
+  "duration": 66,
+  "byline": "운초 전칭 · TJ KIM 컬렉션",
+  "narration": [
+    "흰 천 한 장이 물가의 돌 위로 길게 펼쳐졌습니다. 붉은 저고리를 입은 여인은 한 손으로 천을 잡고, 다른 손에는 빨랫방망이를 들었습니다.",
+    "빨래를 물에 적시고 두드리고 헹구는 일. 세탁기와 집 안의 수도가 흔하지 않던 시절, 옷을 깨끗하게 하는 데에는 물가까지 오가는 발걸음과 손의 힘이 필요했습니다.",
+    "먼저 물과 돌의 경계를 그리고, 천이 젖어 늘어진 모양을 따라갑니다. 뒤쪽에서도 사람들이 일을 하고 있어, 빨래터가 한 사람만의 공간은 아니었음을 보여 줍니다.",
+    "외국인에게 이 풍경은 조선의 흰옷과 여성의 일상을 함께 설명하는 장면이었을 수 있습니다. 그러나 아름다운 물가와 고운 옷만 보면, 반복되는 노동의 무게를 놓치기 쉽습니다.",
+    "우리는 이제 옷의 색보다 손과 허리의 자세를 한 번 더 봅니다. 한 장의 풍속화에, 깨끗한 하루를 만들던 시간이 남아 있습니다."
+  ],
+  "voice_id": "S11",
+  "voice_text": "흰 천 한 장이 물가의 돌 위로 길게 펼쳐졌습니다. 붉은 저고리를 입은 여인은 한 손으로 천을 잡고, 다른 손에는 빨랫방망이를 들었습니다. 빨래를 물에 적시고 두드리고 헹구는 일. 세탁기와 집 안의 수도가 흔하지 않던 시절, 옷을 깨끗하게 하는 데에는 물가까지 오가는 발걸음과 손의 힘이 필요했습니다. 먼저 물과 돌의 경계를 그리고, 천이 젖어 늘어진 모양을 따라갑니다. 뒤쪽에서도 사람들이 일을 하고 있어, 빨래터가 한 사람만의 공간은 아니었음을 보여 줍니다. 외국인에게 이 풍경은 조선의 흰옷과 여성의 일상을 함께 설명하는 장면이었을 수 있습니다. 그러나 아름다운 물가와 고운 옷만 보면, 반복되는 노동의 무게를 놓치기 쉽습니다. 우리는 이제 옷의 색보다 손과 허리의 자세를 한 번 더 봅니다. 한 장의 풍속화에, 깨끗한 하루를 만들던 시간이 남아 있습니다.",
+  "voice_file": "S11.wav",
+  "video": "../episodes/ep11/output/ep11-short-60s.mp4",
+  "poster": "../episodes/ep11/art/poster.jpg",
+  "original": "../episodes/ep11/art/original-clean.png",
+  "source_photo": "../../../research/album-7.jpg",
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "status": "ready",
+  "player_director": {
+    "intro_duration": 6,
+    "shots": [
+      {
+        "element": "front_woman_face",
+        "start": 0.8,
+        "end": 5.541935483870957,
+        "box": [
+          562.0,
+          179.0,
+          772.0,
+          347.0
+        ],
+        "zoom": 4.76,
+        "secondary": false
+      },
+      {
+        "element": "front_woman_body",
+        "start": 5.541935483870957,
+        "end": 11.33763440860213,
+        "box": [
+          499.388,
+          188.41,
+          869.612,
+          484.59
+        ],
+        "zoom": 2.7,
+        "secondary": false
+      },
+      {
+        "element": "front_woman_legs",
+        "start": 11.33763440860213,
+        "end": 15.728315412186355,
+        "box": [
+          541.5,
+          276.5,
+          841.5,
+          516.5
+        ],
+        "zoom": 3.33,
+        "secondary": false
+      },
+      {
+        "element": "rear_left_face",
+        "start": 15.728315412186355,
+        "end": 16.869892473118256,
+        "box": [
+          135.5,
+          46.5,
+          565.5,
+          390.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_left_body",
+        "start": 16.869892473118256,
+        "end": 18.626164874551943,
+        "box": [
+          143.5,
+          67.5,
+          573.5,
+          411.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_left_legs",
+        "start": 18.626164874551943,
+        "end": 19.59211469534047,
+        "box": [
+          143.5,
+          91.0,
+          573.5,
+          435.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_right_face",
+        "start": 19.59211469534047,
+        "end": 20.733691756272368,
+        "box": [
+          225.5,
+          17.0,
+          655.5,
+          361.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_right_body",
+        "start": 20.733691756272368,
+        "end": 22.489964157706055,
+        "box": [
+          227.0,
+          41.0,
+          657.0,
+          385.0
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "rear_right_legs",
+        "start": 22.489964157706055,
+        "end": 23.455913978494586,
+        "box": [
+          266.0,
+          71.5,
+          696.0,
+          415.5
+        ],
+        "zoom": 2.33,
+        "secondary": true
+      },
+      {
+        "element": "objects",
+        "start": 23.455913978494586,
+        "end": 35.74982078853041,
+        "box": [
+          258.1,
+          46.98,
+          976.9,
+          622.02
+        ],
+        "zoom": 1.39,
+        "secondary": false
+      },
+      {
+        "element": "background",
+        "start": 35.74982078853041,
+        "end": 49.8,
+        "box": [
+          0,
+          0,
+          1000,
+          652
+        ],
+        "zoom": 1.0,
+        "secondary": false
+      }
+    ],
+    "brush_types": {
+      "fine": {
+        "label": "세필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "fine-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "medium": {
+        "label": "중필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "medium-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "large": {
+        "label": "대필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "large-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "flat": {
+        "label": "평붓",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "flat-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      }
+    },
+    "brush_frames": 96,
+    "viewport": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "ink_bleed": 0.45,
+    "signature": "approved portrait Tj v13",
+    "signature_duration": 2.5,
+    "pressure_brush": {
+      "atlas": "pressure-atlas.png",
+      "width": 192,
+      "height": 288,
+      "anchor": [
+        62.4,
+        253.2
+      ],
+      "levels": 4,
+      "angles": 24
+    },
+    "caption_top": 1374,
+    "material": "fiber-height-wet-roughness-shader",
+    "caption_font_size": 60,
+    "brush_motion": "path-direction-speed-pressure-live-3d",
+    "intro_brush": "large-calligraphy-separate-tuft",
+    "intro_brush_scale": 9.04,
+    "intro_ink_bleed_multiplier": 2,
+    "brush_camera_reference": {
+      "intro": 3.6,
+      "painting": 5.14
+    },
+    "signature_canvas": [
+      1080,
+      1920
+    ],
+    "signature_approved": true,
+    "wet_ink_on_contact": true
+  },
+  "player_music": {
+    "file": "../../../music/flow-calm-ready.m4a",
+    "title": "종이 위의 바람",
+    "source": "Google Flow Music original generation",
+    "hide_credit": true,
+    "effects_at": [
+      1,
+      1.35,
+      1.65,
+      1.93,
+      2.17,
+      2.38,
+      2.56,
+      2.73,
+      2.88,
+      3.02,
+      3.15,
+      3.27,
+      3.39,
+      3.5
+    ],
+    "separate_tracks": true,
+    "default_start": 5,
+    "default_offset": 0,
+    "intro_rim_file": "court-finish-v9.m4a",
+    "roll_file": "roll-v7.m4a",
+    "finish_instrument": "three-buk-inspired",
+    "gain_controls": true,
+    "finish_file": "court-finish-v9.m4a",
+    "finish_duration": 1.55,
+    "finish_at": 3.5,
+    "effects_scope": "intro-only"
+  },
+  "caption_style": "calm-myeongjo",
+  "caption_layout": {
+    "max_chars": 18,
+    "font_size": 54,
+    "top": 1374,
+    "one_line": true
+  },
+  "player_revision": "series-v15",
+  "player_only": false,
+  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "exports": {
+    "ko": "ep11-short-ko-v18-cover.mp4",
+    "en": "ep11-short-en-v18-cover.mp4",
+    "ja": "ep11-short-ja-v18-cover.mp4"
+  },
+  "cover_exports": {
+    "ko": "../episodes/ep11/art/covers-v18/ko.png",
+    "en": "../episodes/ep11/art/covers-v18/en.png",
+    "ja": "../episodes/ep11/art/covers-v18/ja.png"
+  }
+}

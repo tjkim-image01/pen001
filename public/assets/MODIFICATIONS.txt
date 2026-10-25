@@ -1,0 +1,14 @@
+PEN001 archive fonts, 2026-10-26
+
+ArchiveSans-Regular.woff2 derives from NAVER NanumSquareRoundR.ttf.
+It is subset to the archive text and its internal family/PostScript names are
+changed to PENArchiveSans / PENArchiveSans-Regular. See ArchiveSans-OFL.txt.
+
+ArchiveJapanese.woff2 derives from NotoSerifCJKjp-Regular.otf.
+It is subset to the archive text and its internal family/PostScript names are
+changed to PENArchiveJapanese / PENArchiveJapanese-Regular.
+See ArchiveJapanese-LICENSE.txt.
+
+NanumBrushScript-Regular.ttf is the unmodified Google Fonts distribution.
+Source: https://github.com/google/fonts/tree/main/ofl/nanumbrushscript
+See NanumBrushScript-OFL.txt.

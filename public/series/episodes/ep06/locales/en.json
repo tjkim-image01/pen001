@@ -1,0 +1,159 @@
+{
+  "episode": "ep06",
+  "language": "en",
+  "provider": "Typecast",
+  "actor": "아레스",
+  "narration": "A concert does not always need a stage. Two women sit close to a long wooden string instrument. Follow its body, its strings, and the hands resting above them. The picture is silent, yet the hands suggest music. A newcomer might notice the low instrument and the seated position. Without hearing a note, a visitor could still study how music was made. Clothes alone cannot establish the players social position. Instead, look at the distance between the two figures and the room around them. This work is attributed to Uncho. From the TJ Kim Collection, imagine a small musical moment inside an ordinary room.",
+  "blocks": [
+    {
+      "text": "A concert does not always need a stage.",
+      "caption": "We need no stage."
+    },
+    {
+      "text": "Two women sit close to a long wooden string instrument.",
+      "caption": "Two people listen."
+    },
+    {
+      "text": "Follow its body, its strings, and the hands resting above them.",
+      "caption": "Trace the strings."
+    },
+    {
+      "text": "The picture is silent, yet the hands suggest music.",
+      "caption": "Hands make music."
+    },
+    {
+      "text": "A newcomer might notice the low instrument and the seated position.",
+      "caption": "A new way to sit."
+    },
+    {
+      "text": "Without hearing a note, a visitor could still study how music was made.",
+      "caption": "We watch music."
+    },
+    {
+      "text": "Clothes alone cannot establish the players social position.",
+      "caption": "Dress cannot tell."
+    },
+    {
+      "text": "Instead, look at the distance between the two figures and the room around them.",
+      "caption": "Look at the room."
+    },
+    {
+      "text": "This work is attributed to Uncho.",
+      "caption": "Perhaps by Uncho."
+    },
+    {
+      "text": "From the TJ Kim Collection, imagine a small musical moment inside an ordinary room.",
+      "caption": "TJ KIM keeps it."
+    }
+  ],
+  "voice": "locales/en/voice-director.m4a",
+  "settings": {
+    "title": "Music without a stage",
+    "hook": "Listen to a silent painting",
+    "byline": "Attributed to Uncho · TJ KIM Collection",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "Objects and routines introduced for an English-speaking newcomer; analogies are interpretive.",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 3.59529,
+      "end": 7.07944,
+      "text": "We need no stage.",
+      "words": []
+    },
+    {
+      "start": 7.07944,
+      "end": 12.08956,
+      "text": "Two people listen.",
+      "words": []
+    },
+    {
+      "start": 12.08956,
+      "end": 17.4555,
+      "text": "Trace the strings.",
+      "words": []
+    },
+    {
+      "start": 17.4555,
+      "end": 22.58246,
+      "text": "Hands make music.",
+      "words": []
+    },
+    {
+      "start": 22.58246,
+      "end": 28.29364,
+      "text": "A new way to sit.",
+      "words": []
+    },
+    {
+      "start": 28.29364,
+      "end": 34.51037,
+      "text": "We watch music.",
+      "words": []
+    },
+    {
+      "start": 34.51037,
+      "end": 39.57487,
+      "text": "Dress cannot tell.",
+      "words": []
+    },
+    {
+      "start": 39.57487,
+      "end": 45.80023,
+      "text": "Look at the room.",
+      "words": []
+    },
+    {
+      "start": 45.80023,
+      "end": 48.98092,
+      "text": "Perhaps by Uncho.",
+      "words": []
+    },
+    {
+      "start": 48.98092,
+      "end": 56.52327,
+      "text": "TJ KIM keeps it.",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "From the TJ KIM Collection",
+    "풍속화 속 한국  /  05": "KOREAN LIFE IN PAINTINGS  /  05",
+    "그린 그림에서 소장 이미지로": "Painting to collection image",
+    "소장 이미지 · AI 정리 편집본": "Collection image · AI cleanup",
+    "인물 1 · 얼굴과 머리": "Figure 1 · Face and hair",
+    "인물 1 · 몸과 손": "Figure 1 · Body and hands",
+    "인물 1 · 다리·아랫옷": "Figure 1 · Legs and clothing",
+    "인물 2 · 얼굴과 머리": "Figure 2 · Face and hair",
+    "인물 2 · 몸과 손": "Figure 2 · Body and hands",
+    "인물 2 · 다리·아랫옷": "Figure 2 · Legs and clothing",
+    "물건 · 생활의 도구": "Objects of daily life",
+    "배경 · 이곳의 하루": "The setting"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 9.7725,
+    "raw_duration": 48.25,
+    "tempo": 0.910377358490566,
+    "inter_block_pause": 0,
+    "narration_end": 62.317896,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 9.769104,
+    "korean_first_audible": 9.7725,
+    "sync_tempo": 1
+  },
+  "asr_script_similarity": 0.9938900203665988,
+  "raw_sha256": "e4c5a8d7a51bc14e648c0274679819384c7feea9bb8c0897669eb196f060b7d5"
+}

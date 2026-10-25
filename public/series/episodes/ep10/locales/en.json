@@ -1,0 +1,162 @@
+{
+  "episode": "ep10",
+  "language": "en",
+  "provider": "Typecast",
+  "actor": "아레스",
+  "narration": "What if the shop came to you? A Korean sweet seller stands before people resting along a street. The broad tray carried on the body acts as a small display counter. Follow the customers eyes and the hands reaching toward the goods. A brief exchange joins someone at work with someone taking a rest. A visitor might ask what was sold and how a person carried the whole shop. The scene describes a way goods reached people. For the seller, it was a working day as well as a curious sight to others. This work is attributed to Uncho. From the TJ Kim Collection, imagine the sweetness and the effort of carrying it through the streets.",
+  "blocks": [
+    {
+      "text": "What if the shop came to you?",
+      "caption": "A shop finds you."
+    },
+    {
+      "text": "A Korean sweet seller stands before people resting along a street.",
+      "caption": "Sweets are sold."
+    },
+    {
+      "text": "The broad tray carried on the body acts as a small display counter.",
+      "caption": "A tray is a shop."
+    },
+    {
+      "text": "Follow the customers eyes and the hands reaching toward the goods.",
+      "caption": "Watch their hands."
+    },
+    {
+      "text": "A brief exchange joins someone at work with someone taking a rest.",
+      "caption": "Two paths meet."
+    },
+    {
+      "text": "A visitor might ask what was sold and how a person carried the whole shop.",
+      "caption": "Can a shop move?"
+    },
+    {
+      "text": "The scene describes a way goods reached people.",
+      "caption": "Goods meet people."
+    },
+    {
+      "text": "For the seller, it was a working day as well as a curious sight to others.",
+      "caption": "This is a workday."
+    },
+    {
+      "text": "This work is attributed to Uncho.",
+      "caption": "Perhaps by Uncho."
+    },
+    {
+      "text": "From the TJ Kim Collection, imagine the sweetness and the effort of carrying it through the streets.",
+      "caption": "TJ KIM keeps it."
+    }
+  ],
+  "voice": "locales/en/voice-director.m4a",
+  "settings": {
+    "title": "A shop that walks",
+    "hook": "A sweet sellers working day",
+    "byline": "Attributed to Uncho · TJ KIM Collection",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "Objects and routines introduced for an English-speaking newcomer; analogies are interpretive.",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 4.14621,
+      "end": 6.44888,
+      "text": "A shop finds you.",
+      "words": []
+    },
+    {
+      "start": 6.44888,
+      "end": 12.15192,
+      "text": "Sweets are sold.",
+      "words": []
+    },
+    {
+      "start": 12.15192,
+      "end": 17.42588,
+      "text": "A tray is a shop.",
+      "words": []
+    },
+    {
+      "start": 17.42588,
+      "end": 22.34179,
+      "text": "Watch their hands.",
+      "words": []
+    },
+    {
+      "start": 22.34179,
+      "end": 28.55563,
+      "text": "Two paths meet.",
+      "words": []
+    },
+    {
+      "start": 28.55563,
+      "end": 35.03821,
+      "text": "Can a shop move?",
+      "words": []
+    },
+    {
+      "start": 35.03821,
+      "end": 39.36648,
+      "text": "Goods meet people.",
+      "words": []
+    },
+    {
+      "start": 39.36648,
+      "end": 46.33067,
+      "text": "This is a workday.",
+      "words": []
+    },
+    {
+      "start": 46.33067,
+      "end": 49.62421,
+      "text": "Perhaps by Uncho.",
+      "words": []
+    },
+    {
+      "start": 49.62421,
+      "end": 57.07277,
+      "text": "TJ KIM keeps it.",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "From the TJ KIM Collection",
+    "풍속화 속 한국  /  09": "KOREAN LIFE IN PAINTINGS  /  09",
+    "그린 그림에서 소장 이미지로": "Painting to collection image",
+    "소장 이미지 · AI 정리 편집본": "Collection image · AI cleanup",
+    "인물 1 · 얼굴과 머리": "Figure 1 · Face and hair",
+    "인물 1 · 몸과 손": "Figure 1 · Body and hands",
+    "인물 1 · 다리·아랫옷": "Figure 1 · Legs and clothing",
+    "인물 2 · 얼굴과 머리": "Figure 2 · Face and hair",
+    "인물 2 · 몸과 손": "Figure 2 · Body and hands",
+    "인물 2 · 다리·아랫옷": "Figure 2 · Legs and clothing",
+    "인물 3 · 얼굴과 머리": "Figure 3 · Face and hair",
+    "인물 3 · 몸과 손": "Figure 3 · Body and hands",
+    "인물 3 · 다리·아랫옷": "Figure 3 · Legs and clothing",
+    "물건 · 생활의 도구": "Objects of daily life",
+    "배경 · 이곳의 하루": "The setting"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 12.624937,
+    "raw_duration": 50.9,
+    "tempo": 0.960377358490566,
+    "inter_block_pause": 0,
+    "narration_end": 63.0225,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 12.616167,
+    "korean_first_audible": 12.624937,
+    "sync_tempo": 1
+  },
+  "asr_script_similarity": 1.0,
+  "raw_sha256": "6115f77b121091d4708ebf04fe1289a7298ba248baafdd42f2ac5aec80709ce0"
+}

@@ -1,0 +1,141 @@
+{
+  "episode": "ep11",
+  "language": "ko",
+  "provider": "Typecast",
+  "actor": "한준",
+  "narration": "흰 천이 물가의 돌 위로 길게 펼쳐졌습니다. 한 손은 천을 잡고, 다른 손은 빨랫방망이를 들었습니다. 적시고 두드리고 헹구며, 옷을 깨끗하게 하는 일입니다. 물가까지 오가는 발걸음과 손의 힘이 필요했지요. 뒤쪽에서도 일을 하는 사람들의 모습이 보입니다. 한 사람만의 공간이 아니었던 빨래터를 떠올립니다. 외국인은 흰옷과 그 옷을 돌보는 방식을 함께 보았겠지요. 아름다운 물가만 보면, 반복되는 노동은 놓치기 쉽습니다. 손과 굽힌 허리를 다시 보며, 깨끗한 하루의 수고를 읽습니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+  "blocks": [
+    {
+      "text": "흰 천이 물가의 돌 위로 길게 펼쳐졌습니다.",
+      "caption": "흰 천이 돌 위에 펼쳐졌습니다."
+    },
+    {
+      "text": "한 손은 천을 잡고, 다른 손은 빨랫방망이를 들었습니다.",
+      "caption": "한 손에 빨랫방망이를 들었죠."
+    },
+    {
+      "text": "적시고 두드리고 헹구며, 옷을 깨끗하게 하는 일입니다.",
+      "caption": "적시고 두드리고 헹굽니다."
+    },
+    {
+      "text": "물가까지 오가는 발걸음과 손의 힘이 필요했지요.",
+      "caption": "발걸음과 손의 힘이 필요했죠."
+    },
+    {
+      "text": "뒤쪽에서도 일을 하는 사람들의 모습이 보입니다.",
+      "caption": "뒤쪽에도 일하는 사람이 있죠."
+    },
+    {
+      "text": "한 사람만의 공간이 아니었던 빨래터를 떠올립니다.",
+      "caption": "함께 쓰던 빨래터를 떠올립니다."
+    },
+    {
+      "text": "외국인은 흰옷과 그 옷을 돌보는 방식을 함께 보았겠지요.",
+      "caption": "흰옷과 손일을 함께 봅니다."
+    },
+    {
+      "text": "아름다운 물가만 보면, 반복되는 노동은 놓치기 쉽습니다.",
+      "caption": "고운 풍경 뒤의 노동도 봅니다."
+    },
+    {
+      "text": "손과 굽힌 허리를 다시 보며, 깨끗한 하루의 수고를 읽습니다.",
+      "caption": "깨끗한 하루의 수고를 읽습니다."
+    },
+    {
+      "text": "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+      "caption": "TJ KIM 컬렉션 소장품입니다."
+    }
+  ],
+  "voice": "locales/ko/voice-director.m4a",
+  "settings": {
+    "title": "물가에 모인 하루",
+    "hook": "세탁기 이전의 풍경",
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "생활의 도구와 노동, 외국인의 시선을 그림 관찰로 해석",
+  "captions": [
+    {
+      "start": 2.2,
+      "end": 6.36738,
+      "text": "흰 천이 돌 위에 펼쳐졌습니다.",
+      "words": []
+    },
+    {
+      "start": 6.92738,
+      "end": 11.58402,
+      "text": "한 손에 빨랫방망이를 들었죠.",
+      "words": []
+    },
+    {
+      "start": 12.14402,
+      "end": 16.43698,
+      "text": "적시고 두드리고 헹굽니다.",
+      "words": []
+    },
+    {
+      "start": 16.99698,
+      "end": 20.93475,
+      "text": "발걸음과 손의 힘이 필요했죠.",
+      "words": []
+    },
+    {
+      "start": 21.49475,
+      "end": 25.16492,
+      "text": "뒤쪽에도 일하는 사람이 있죠.",
+      "words": []
+    },
+    {
+      "start": 25.72492,
+      "end": 29.75108,
+      "text": "함께 쓰던 빨래터를 떠올립니다.",
+      "words": []
+    },
+    {
+      "start": 30.31108,
+      "end": 35.29925,
+      "text": "흰옷과 손일을 함께 봅니다.",
+      "words": []
+    },
+    {
+      "start": 35.85925,
+      "end": 40.72675,
+      "text": "고운 풍경 뒤의 노동도 봅니다.",
+      "words": []
+    },
+    {
+      "start": 41.28675,
+      "end": 46.29879,
+      "text": "깨끗한 하루의 수고를 읽습니다.",
+      "words": []
+    },
+    {
+      "start": 46.85879,
+      "end": 50.63081,
+      "text": "TJ KIM 컬렉션 소장품입니다.",
+      "words": []
+    }
+  ],
+  "translations": {},
+  "timing": {
+    "intro": 6,
+    "narration_start": 8.2,
+    "raw_duration": 31.6,
+    "tempo": 0.88,
+    "inter_block_pause": 1.4,
+    "narration_end": 56.63081250000001,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions"
+  },
+  "asr_script_similarity": 0.936768149882904,
+  "raw_sha256": "b1524da37194e3c18809af8cabf5ebdde7847d2ee78e7292053682cef02338c6"
+}

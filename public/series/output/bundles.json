@@ -1,0 +1,32 @@
+{
+  "ko": {
+    "url": "https://github.com/tjkim-image01/pen001/releases/download/v18/TJ_KIM_FOLK_SHORTS_KO_10_v18.zip",
+    "bytes": 157401354,
+    "size_mb": 157,
+    "sha256": "4fa905cc6e39a60a70e2b2d88c24e874adf9ba383eba7f74a2892edc78db15c4",
+    "episodes": 10,
+    "language": "ko",
+    "revision": "localized-cover-v18",
+    "source_fingerprint": "ad2cab7b46e8a493bc32cdc4c57f05734bc0d67a9493e1c6ae53f68a03dcbdfb"
+  },
+  "en": {
+    "url": "https://github.com/tjkim-image01/pen001/releases/download/v18/TJ_KIM_FOLK_SHORTS_EN_10_v18.zip",
+    "bytes": 156860358,
+    "size_mb": 157,
+    "sha256": "889fd7279a2e41e91d69d579422200bd953637d868d28d4d522ab593c1b1c5e6",
+    "episodes": 10,
+    "language": "en",
+    "revision": "localized-cover-v18",
+    "source_fingerprint": "c794214a36489e0b0da4575267bce08e38bd3e9f5f89f026c6476bb9e19b0d1e"
+  },
+  "ja": {
+    "url": "https://github.com/tjkim-image01/pen001/releases/download/v18/TJ_KIM_FOLK_SHORTS_JA_10_v18.zip",
+    "bytes": 158515909,
+    "size_mb": 159,
+    "sha256": "2d53bc5dee47db1a4282bf42620c6dc4077879f7d804551c5b851dd483cebc92",
+    "episodes": 10,
+    "language": "ja",
+    "revision": "localized-cover-v18",
+    "source_fingerprint": "2d69b8f9c205c236df40efad263c6ba479142a238851ca16edcc3013121842b5"
+  }
+}

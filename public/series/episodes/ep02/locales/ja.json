@@ -1,0 +1,149 @@
+{
+  "sources": [
+    "https://encykorea.aks.ac.kr/Article/E0042794",
+    "https://www.britishmuseum.org/collection/term/BIOG11475"
+  ],
+  "attribution": "Uncho (attributed); no documented direct-pupil relationship asserted.",
+  "caption_policy": "One calm line, max 18 Unicode characters including spaces and punctuation; captions condense narration.",
+  "language": "ja",
+  "provider": "Typecast",
+  "actor": "이노우에 다이치",
+  "narration": "すごろくのように見えますか。これは韓国のユンノリです。さいころの代わりに四本の木の棒を投げ、駒を進めます。近道を選んだり、仲間の駒を一緒に進めたり。運だけでなく、相談する楽しさもあります。旧正月ごろ、家族や近所の人が集まって親しまれてきました。十九世紀の外国人にとって、こうした風俗画は、朝鮮の暮らしを知る窓でもありました。衣服だけでなく、遊ぶ時間や、人との距離も見えてきます。この作品は、ウンチョの作と伝わります。四人の手元から、その場の空気を想像してみましょう。ティージェイキム・コレクションの所蔵品です。",
+  "voice": "locales/ja/voice-director.m4a",
+  "settings": {
+    "title": "四人が集まる理由",
+    "byline": "伝・ウンチョ作 · TJ KIM",
+    "captionEdits": {}
+  },
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "TJ KIM コレクション所蔵",
+    "풍속화 속 한국  /  01": "風俗画に見る韓国  /  01",
+    "그린 그림에서 소장 이미지로": "所蔵画像へ重なる",
+    "소장 이미지 · AI 정리 편집본": "所蔵画像・AI整画像",
+    "앞쪽 남성 · 얼굴과 머리": "筆先をたどる",
+    "앞쪽 남성 · 몸과 손": "筆先をたどる",
+    "앞쪽 남성 · 다리·아랫옷": "筆先をたどる",
+    "뒤쪽 여인 · 얼굴과 머리": "筆先をたどる",
+    "뒤쪽 여인 · 몸과 손": "筆先をたどる",
+    "뒤쪽 여인 · 다리·아랫옷": "筆先をたどる",
+    "뒤쪽 남성 · 얼굴과 머리": "筆先をたどる",
+    "뒤쪽 남성 · 몸과 손": "筆先をたどる",
+    "뒤쪽 남성 · 다리·아랫옷": "筆先をたどる",
+    "앞쪽 여인 · 얼굴과 머리": "筆先をたどる",
+    "앞쪽 여인 · 몸과 손": "筆先をたどる",
+    "앞쪽 여인 · 다리·아랫옷": "筆先をたどる",
+    "물건 · 놀이판과 윷": "筆先をたどる",
+    "배경 · 마루와 난간, 식물": "筆先をたどる"
+  },
+  "captions": [
+    {
+      "start": 2.1,
+      "end": 4.50862,
+      "text": "すごろくに見えますか。",
+      "words": []
+    },
+    {
+      "start": 4.50862,
+      "end": 7.14499,
+      "text": "韓国のユンノリです。",
+      "words": []
+    },
+    {
+      "start": 7.82681,
+      "end": 10.53135,
+      "text": "四本の棒を投げます。",
+      "words": []
+    },
+    {
+      "start": 10.53135,
+      "end": 12.82681,
+      "text": "出た形で駒を進めます。",
+      "words": []
+    },
+    {
+      "start": 12.82681,
+      "end": 14.96317,
+      "text": "近道を選びます。",
+      "words": []
+    },
+    {
+      "start": 14.96317,
+      "end": 17.46317,
+      "text": "仲間の駒も一緒に進みます。",
+      "words": []
+    },
+    {
+      "start": 17.46317,
+      "end": 21.2359,
+      "text": "相談する楽しさもあります。",
+      "words": []
+    },
+    {
+      "start": 21.2359,
+      "end": 24.50863,
+      "text": "旧正月には人が集まります。",
+      "words": []
+    },
+    {
+      "start": 24.50863,
+      "end": 27.37226,
+      "text": "一緒に遊んできました。",
+      "words": []
+    },
+    {
+      "start": 28.12226,
+      "end": 31.78135,
+      "text": "外国人も暮らしに注目しました。",
+      "words": []
+    },
+    {
+      "start": 31.78135,
+      "end": 35.94044,
+      "text": "風俗画が窓になりました。",
+      "words": []
+    },
+    {
+      "start": 36.78135,
+      "end": 38.94044,
+      "text": "衣服だけが見所でしょうか。",
+      "words": []
+    },
+    {
+      "start": 38.94044,
+      "end": 41.59953,
+      "text": "人との距離も見えてきます。",
+      "words": []
+    },
+    {
+      "start": 42.53135,
+      "end": 45.66772,
+      "text": "ウンチョ作と伝わります。",
+      "words": []
+    },
+    {
+      "start": 46.4859,
+      "end": 50.09953,
+      "text": "手元から空気を想像します。",
+      "words": []
+    },
+    {
+      "start": 50.80408,
+      "end": 53.37226,
+      "text": "TJ KIMの所蔵品です。",
+      "words": []
+    }
+  ],
+  "timing": {
+    "intro": 6,
+    "narration_start": 8.227896,
+    "raw_duration": 45.5,
+    "tempo": 0.88,
+    "alignment": "local Whisper small word times; canonical Japanese captions condensed to calm complete sentences; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 8.228292,
+    "korean_first_audible": 8.227896,
+    "sync_tempo": 1,
+    "narration_end": 59.575354
+  }
+}

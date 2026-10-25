@@ -1,0 +1,161 @@
+{
+  "sources": [
+    "https://encykorea.aks.ac.kr/Article/E0042794",
+    "https://www.britishmuseum.org/collection/term/BIOG11475"
+  ],
+  "attribution": "Uncho (attributed); no documented direct-pupil relationship asserted.",
+  "caption_policy": "One calm line, max 18 Unicode characters including spaces and punctuation; captions condense narration.",
+  "language": "en",
+  "provider": "Typecast",
+  "actor": "아레스",
+  "narration": "Four people, one small board. What brought them together? This is yutnori, a Korean game played with four wooden sticks instead of dice. Players move their pieces around a board, choosing routes and trying to send every piece home. A lucky throw helps, but a smart choice matters too. Traditionally played around the Lunar New Year, the game brings families and neighbors together. Nineteenth-century visitors to Korea collected pictures of everyday life: work, clothing, and moments like this. Such a scene could introduce an unfamiliar country through something familiar: playing together. This work is attributed to Uncho. Watch the hands and the circle of players. From the TJ Kim Collection, a small game opens a window onto Korean life.",
+  "voice": "locales/en/voice-director.m4a",
+  "settings": {
+    "title": "Why gather here?",
+    "byline": "Attributed to Uncho · TJ KIM Collection",
+    "captionEdits": {}
+  },
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "From the TJ KIM Collection",
+    "풍속화 속 한국  /  01": "KOREAN LIFE IN PAINTINGS  /  01",
+    "그린 그림에서 소장 이미지로": "Painting to collection image",
+    "소장 이미지 · AI 정리 편집본": "Collection image · AI cleanup",
+    "앞쪽 남성 · 얼굴과 머리": "Following the brush",
+    "앞쪽 남성 · 몸과 손": "Following the brush",
+    "앞쪽 남성 · 다리·아랫옷": "Following the brush",
+    "뒤쪽 여인 · 얼굴과 머리": "Following the brush",
+    "뒤쪽 여인 · 몸과 손": "Following the brush",
+    "뒤쪽 여인 · 다리·아랫옷": "Following the brush",
+    "뒤쪽 남성 · 얼굴과 머리": "Following the brush",
+    "뒤쪽 남성 · 몸과 손": "Following the brush",
+    "뒤쪽 남성 · 다리·아랫옷": "Following the brush",
+    "앞쪽 여인 · 얼굴과 머리": "Following the brush",
+    "앞쪽 여인 · 몸과 손": "Following the brush",
+    "앞쪽 여인 · 다리·아랫옷": "Following the brush",
+    "물건 · 놀이판과 윷": "Following the brush",
+    "배경 · 마루와 난간, 식물": "Following the brush"
+  },
+  "captions": [
+    {
+      "start": 2.1,
+      "end": 5.01856,
+      "text": "A game for four.",
+      "words": []
+    },
+    {
+      "start": 5.29741,
+      "end": 6.72048,
+      "text": "Why gather here?",
+      "words": []
+    },
+    {
+      "start": 7.05702,
+      "end": 9.4801,
+      "text": "Meet yutnori.",
+      "words": []
+    },
+    {
+      "start": 9.4801,
+      "end": 12.55702,
+      "text": "Four sticks fly.",
+      "words": []
+    },
+    {
+      "start": 12.74933,
+      "end": 15.53779,
+      "text": "Pieces can race.",
+      "words": []
+    },
+    {
+      "start": 15.53779,
+      "end": 19.46087,
+      "text": "Choose your path.",
+      "words": []
+    },
+    {
+      "start": 20.14356,
+      "end": 24.46087,
+      "text": "Luck meets skill.",
+      "words": []
+    },
+    {
+      "start": 24.91279,
+      "end": 28.09548,
+      "text": "New Year arrives.",
+      "words": []
+    },
+    {
+      "start": 28.48972,
+      "end": 31.31664,
+      "text": "A game unites us.",
+      "words": []
+    },
+    {
+      "start": 31.63395,
+      "end": 34.25895,
+      "text": "Visitors looked.",
+      "words": []
+    },
+    {
+      "start": 34.25895,
+      "end": 36.73972,
+      "text": "Daily life spoke.",
+      "words": []
+    },
+    {
+      "start": 36.73972,
+      "end": 39.66279,
+      "text": "They saw us play.",
+      "words": []
+    },
+    {
+      "start": 40.08587,
+      "end": 43.51856,
+      "text": "A place feels new.",
+      "words": []
+    },
+    {
+      "start": 43.51856,
+      "end": 46.24933,
+      "text": "Games feel close.",
+      "words": []
+    },
+    {
+      "start": 46.44164,
+      "end": 48.82625,
+      "text": "Perhaps by Uncho.",
+      "words": []
+    },
+    {
+      "start": 49.32625,
+      "end": 52.21087,
+      "text": "Watch their hands.",
+      "words": []
+    },
+    {
+      "start": 52.53779,
+      "end": 54.70125,
+      "text": "TJ KIM presents.",
+      "words": []
+    },
+    {
+      "start": 54.70125,
+      "end": 57.9801,
+      "text": "Korea comes close.",
+      "words": []
+    }
+  ],
+  "timing": {
+    "intro": 6,
+    "narration_start": 8.227896,
+    "raw_duration": 58.4,
+    "tempo": 1,
+    "alignment": "local Whisper small word times; concise rewritten one-line captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 8.229021,
+    "korean_first_audible": 8.227896,
+    "sync_tempo": 1.04,
+    "narration_end": 64.066542
+  },
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf"
+}

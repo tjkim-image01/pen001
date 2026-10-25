@@ -1,0 +1,145 @@
+{
+  "episode": "ep04",
+  "language": "ko",
+  "provider": "Typecast",
+  "actor": "한준",
+  "narration": "낯선 나라의 하루는, 밥을 파는 곳에서도 보입니다. 초가지붕 아래, 음식을 만들고 파는 사람들이 모였습니다. 그릇과 먹거리가 손님 가까이에 놓여 있습니다. 앞쪽의 사람은 넓은 쟁반을 머리에 이고 걷습니다. 만드는 손과 나르는 몸이 한 장면에 담겼지요. 이 가게의 음식 이름은 그림만으로 확정하기 어렵습니다. 외국 여행자라면, 무엇을 먹고 어디에 앉는지 궁금했겠지요. 낯선 지붕과 그릇 너머로, 누군가의 일터가 보입니다. 사람의 손에서 그릇으로, 다시 가게 안으로 눈길을 옮깁니다. 운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+  "blocks": [
+    {
+      "text": "낯선 나라의 하루는, 밥을 파는 곳에서도 보입니다.",
+      "caption": "밥을 파는 곳을 들여다봅니다."
+    },
+    {
+      "text": "초가지붕 아래, 음식을 만들고 파는 사람들이 모였습니다.",
+      "caption": "음식을 만들고 파는 곳입니다."
+    },
+    {
+      "text": "그릇과 먹거리가 손님 가까이에 놓여 있습니다.",
+      "caption": "그릇이 손님을 기다립니다."
+    },
+    {
+      "text": "앞쪽의 사람은 넓은 쟁반을 머리에 이고 걷습니다.",
+      "caption": "머리에 쟁반을 이었습니다."
+    },
+    {
+      "text": "만드는 손과 나르는 몸이 한 장면에 담겼지요.",
+      "caption": "만들고 나르는 일이 보입니다."
+    },
+    {
+      "text": "이 가게의 음식 이름은 그림만으로 확정하기 어렵습니다.",
+      "caption": "음식 이름은 단정 못 합니다."
+    },
+    {
+      "text": "외국 여행자라면, 무엇을 먹고 어디에 앉는지 궁금했겠지요.",
+      "caption": "먹는 방식도 궁금했겠지요."
+    },
+    {
+      "text": "낯선 지붕과 그릇 너머로, 누군가의 일터가 보입니다.",
+      "caption": "낯선 풍경도 누군가의 일터죠."
+    },
+    {
+      "text": "사람의 손에서 그릇으로, 다시 가게 안으로 눈길을 옮깁니다.",
+      "caption": "손에서 가게로 눈길을 옮깁니다."
+    },
+    {
+      "text": "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다.",
+      "caption": "TJ KIM 컬렉션 소장품입니다."
+    }
+  ],
+  "voice": "locales/ko/voice-director.m4a",
+  "settings": {
+    "title": "길 위의 밥 한 끼",
+    "hook": "식당 문턱의 조선",
+    "byline": "운초 전칭 · TJ KIM 컬렉션",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "주막: 음식·술·숙박의 일반 맥락. 이 그림의 개별 점포를 주막으로 확정하지 않음",
+      "url": "https://encykorea.aks.ac.kr/Article/E0053227"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "생활의 도구와 노동, 외국인의 시선을 그림 관찰로 해석",
+  "captions": [
+    {
+      "start": 2.2,
+      "end": 6.49598,
+      "text": "밥을 파는 곳을 들여다봅니다.",
+      "words": []
+    },
+    {
+      "start": 7.05598,
+      "end": 11.88254,
+      "text": "음식을 만들고 파는 곳입니다.",
+      "words": []
+    },
+    {
+      "start": 12.44254,
+      "end": 16.20917,
+      "text": "그릇이 손님을 기다립니다.",
+      "words": []
+    },
+    {
+      "start": 16.76917,
+      "end": 21.11131,
+      "text": "머리에 쟁반을 이었습니다.",
+      "words": []
+    },
+    {
+      "start": 21.67131,
+      "end": 25.83687,
+      "text": "만들고 나르는 일이 보입니다.",
+      "words": []
+    },
+    {
+      "start": 26.39688,
+      "end": 30.71281,
+      "text": "음식 이름은 단정 못 합니다.",
+      "words": []
+    },
+    {
+      "start": 31.27281,
+      "end": 35.98417,
+      "text": "먹는 방식도 궁금했겠지요.",
+      "words": []
+    },
+    {
+      "start": 36.54417,
+      "end": 41.01104,
+      "text": "낯선 풍경도 누군가의 일터죠.",
+      "words": []
+    },
+    {
+      "start": 41.57104,
+      "end": 46.19744,
+      "text": "손에서 가게로 눈길을 옮깁니다.",
+      "words": []
+    },
+    {
+      "start": 46.75744,
+      "end": 50.41667,
+      "text": "TJ KIM 컬렉션 소장품입니다.",
+      "words": []
+    }
+  ],
+  "translations": {},
+  "timing": {
+    "intro": 6,
+    "narration_start": 8.2,
+    "raw_duration": 31.4,
+    "tempo": 0.88,
+    "inter_block_pause": 1.4,
+    "narration_end": 56.41666666666668,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions"
+  },
+  "asr_script_similarity": 0.919908466819222,
+  "raw_sha256": "a2b6a0930a1c8e47bad0819e43cb686bbd760951ad44fcfa24691d66ced9e6f4"
+}

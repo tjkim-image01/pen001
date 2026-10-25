@@ -1,0 +1,173 @@
+{
+  "episode": "ep05",
+  "language": "en",
+  "provider": "Typecast",
+  "actor": "아레스",
+  "narration": "Rain changes a street, but it does not stop the day. Some people shelter under a roof while others keep moving. Look at the broad hats and the covers over a carried load. These are responses to weather, as much as elements of dress. If you expect a line of modern umbrellas, the shapes may surprise you. A visitor might first notice an unusual hat. Look again, and there are people working, resting, and getting somewhere. The scene lets clothing become a practical part of ordinary life. This painting is attributed to Uncho. From the TJ Kim Collection, a rainy street brings distant lives a little closer.",
+  "blocks": [
+    {
+      "text": "Rain changes a street, but it does not stop the day.",
+      "caption": "Rain falls today."
+    },
+    {
+      "text": "Some people shelter under a roof while others keep moving.",
+      "caption": "Some find shelter."
+    },
+    {
+      "text": "Look at the broad hats and the covers over a carried load.",
+      "caption": "Hats face rain."
+    },
+    {
+      "text": "These are responses to weather, as much as elements of dress.",
+      "caption": "Dress has a task."
+    },
+    {
+      "text": "If you expect a line of modern umbrellas, the shapes may surprise you.",
+      "caption": "The shapes differ."
+    },
+    {
+      "text": "A visitor might first notice an unusual hat.",
+      "caption": "Hats draw eyes."
+    },
+    {
+      "text": "Look again, and there are people working, resting, and getting somewhere.",
+      "caption": "Life keeps moving."
+    },
+    {
+      "text": "The scene lets clothing become a practical part of ordinary life.",
+      "caption": "Clothes have jobs."
+    },
+    {
+      "text": "This painting is attributed to Uncho.",
+      "caption": "Perhaps by Uncho."
+    },
+    {
+      "text": "From the TJ Kim Collection, a rainy street brings distant lives a little closer.",
+      "caption": "TJ KIM keeps it."
+    }
+  ],
+  "voice": "locales/en/voice-director.m4a",
+  "settings": {
+    "title": "A rainy Korean day",
+    "hook": "Clothing meets the weather",
+    "byline": "Attributed to Uncho · TJ KIM Collection",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "Objects and routines introduced for an English-speaking newcomer; analogies are interpretive.",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 6.13731,
+      "end": 11.36076,
+      "text": "Rain falls today.",
+      "words": []
+    },
+    {
+      "start": 11.36076,
+      "end": 16.09724,
+      "text": "Some find shelter.",
+      "words": []
+    },
+    {
+      "start": 16.09724,
+      "end": 20.56963,
+      "text": "Hats face rain.",
+      "words": []
+    },
+    {
+      "start": 20.56963,
+      "end": 25.53611,
+      "text": "Dress has a task.",
+      "words": []
+    },
+    {
+      "start": 25.53611,
+      "end": 32.34301,
+      "text": "The shapes differ.",
+      "words": []
+    },
+    {
+      "start": 32.34301,
+      "end": 36.61812,
+      "text": "Hats draw eyes.",
+      "words": []
+    },
+    {
+      "start": 36.61812,
+      "end": 43.34084,
+      "text": "Life keeps moving.",
+      "words": []
+    },
+    {
+      "start": 43.34084,
+      "end": 48.48594,
+      "text": "Clothes have jobs.",
+      "words": []
+    },
+    {
+      "start": 48.48594,
+      "end": 52.04474,
+      "text": "Perhaps by Uncho.",
+      "words": []
+    },
+    {
+      "start": 52.04474,
+      "end": 58.16859,
+      "text": "TJ KIM keeps it.",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "From the TJ KIM Collection",
+    "풍속화 속 한국  /  04": "KOREAN LIFE IN PAINTINGS  /  04",
+    "그린 그림에서 소장 이미지로": "Painting to collection image",
+    "소장 이미지 · AI 정리 편집본": "Collection image · AI cleanup",
+    "인물 1 · 얼굴과 머리": "Figure 1 · Face and hair",
+    "인물 1 · 몸과 손": "Figure 1 · Body and hands",
+    "인물 1 · 다리·아랫옷": "Figure 1 · Legs and clothing",
+    "인물 2 · 얼굴과 머리": "Figure 2 · Face and hair",
+    "인물 2 · 몸과 손": "Figure 2 · Body and hands",
+    "인물 2 · 다리·아랫옷": "Figure 2 · Legs and clothing",
+    "인물 3 · 얼굴과 머리": "Figure 3 · Face and hair",
+    "인물 3 · 몸과 손": "Figure 3 · Body and hands",
+    "인물 3 · 다리·아랫옷": "Figure 3 · Legs and clothing",
+    "인물 4 · 얼굴과 머리": "Figure 4 · Face and hair",
+    "인물 4 · 몸과 손": "Figure 4 · Body and hands",
+    "인물 4 · 다리·아랫옷": "Figure 4 · Legs and clothing",
+    "인물 5 · 얼굴과 머리": "Figure 5 · Face and hair",
+    "인물 5 · 몸과 손": "Figure 5 · Body and hands",
+    "인물 5 · 다리·아랫옷": "Figure 5 · Legs and clothing",
+    "인물 6 · 얼굴과 머리": "Figure 6 · Face and hair",
+    "인물 6 · 몸과 손": "Figure 6 · Body and hands",
+    "인물 6 · 다리·아랫옷": "Figure 6 · Legs and clothing",
+    "인물 7 · 몸과 손": "Figure 7 · Body and hands",
+    "인물 7 · 다리·아랫옷": "Figure 7 · Legs and clothing",
+    "물건 · 생활의 도구": "Objects of daily life",
+    "배경 · 이곳의 하루": "The setting"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 12.23725,
+    "raw_duration": 55.6,
+    "tempo": 1.049056603773585,
+    "inter_block_pause": 0,
+    "narration_end": 64.171521,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 12.238979,
+    "korean_first_audible": 12.23725,
+    "sync_tempo": 1.02
+  },
+  "asr_script_similarity": 0.9927760577915377,
+  "raw_sha256": "a589ca2a45fe55ded8de614fcafef8930d9537dc8bbb53acb264e733c959a6be"
+}

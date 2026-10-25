@@ -1,0 +1,337 @@
+{
+  "id": "ep07",
+  "number": 7,
+  "title": "낮은 상에 모인 사람들",
+  "hook": "의자 없는 식탁",
+  "category": "일상·살림",
+  "album": 5,
+  "side": "right",
+  "duration": 66,
+  "byline": "운초 전칭 · TJ KIM 컬렉션",
+  "narration": [
+    "식탁도 의자도 크게 보이지 않습니다. 대신 사람들 사이에 작고 낮은 상이 놓였습니다. 바닥에 앉아 음식을 대하는 장면입니다.",
+    "소반은 음식을 놓는 가구이면서, 차린 음식을 다른 방으로 옮기는 데도 쓰였습니다. 쓰지 않을 때 치워 둘 수 있는 작은 상은, 방을 여러 용도로 쓰는 생활과 잘 어울렸지요.",
+    "상판의 둥근 선을 먼저 그리고, 그 주변에 놓인 그릇과 손을 더합니다. 누가 무엇을 먹는지보다, 사람과 상의 높이가 어떻게 맞는지 살펴보세요.",
+    "외국인에게는 음식의 맛만큼 앉는 방식과 상을 차리는 모습도 낯설었을 수 있습니다. 한 장의 풍속화가 방 안의 생활을 설명하는 그림 사전이 되는 셈입니다.",
+    "그림 속 단란한 모임이 모든 집안의 식사 풍경을 대표하는 것은 아닙니다. 다만 작은 상 하나가 사람들의 자세와 거리를 어떻게 정했는지는, 오늘도 눈앞에서 확인할 수 있습니다."
+  ],
+  "voice_id": "S07",
+  "voice_text": "식탁도 의자도 크게 보이지 않습니다. 대신 사람들 사이에 작고 낮은 상이 놓였습니다. 바닥에 앉아 음식을 대하는 장면입니다. 소반은 음식을 놓는 가구이면서, 차린 음식을 다른 방으로 옮기는 데도 쓰였습니다. 쓰지 않을 때 치워 둘 수 있는 작은 상은, 방을 여러 용도로 쓰는 생활과 잘 어울렸지요. 상판의 둥근 선을 먼저 그리고, 그 주변에 놓인 그릇과 손을 더합니다. 누가 무엇을 먹는지보다, 사람과 상의 높이가 어떻게 맞는지 살펴보세요. 외국인에게는 음식의 맛만큼 앉는 방식과 상을 차리는 모습도 낯설었을 수 있습니다. 한 장의 풍속화가 방 안의 생활을 설명하는 그림 사전이 되는 셈입니다. 그림 속 단란한 모임이 모든 집안의 식사 풍경을 대표하는 것은 아닙니다. 다만 작은 상 하나가 사람들의 자세와 거리를 어떻게 정했는지는, 오늘도 눈앞에서 확인할 수 있습니다.",
+  "voice_file": "S07.wav",
+  "video": "../episodes/ep07/output/ep07-short-60s.mp4",
+  "poster": "../episodes/ep07/art/poster.jpg",
+  "original": "../episodes/ep07/art/original-clean.png",
+  "source_photo": "../../../research/album-5.jpg",
+  "sources": [
+    {
+      "title": "소반: 차림·운반·좌식생활",
+      "url": "https://webzine.nfm.go.kr/2021/10/04/%EC%86%8C%EB%B0%98/"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "status": "ready",
+  "player_director": {
+    "intro_duration": 6,
+    "shots": [
+      {
+        "element": "left_young_face",
+        "start": 0.8,
+        "end": 4.066666666666666,
+        "box": [
+          201.0,
+          243.5,
+          411.0,
+          411.5
+        ],
+        "zoom": 4.76,
+        "secondary": false
+      },
+      {
+        "element": "left_young_body",
+        "start": 4.066666666666666,
+        "end": 8.059259259259264,
+        "box": [
+          52.738,
+          254.29,
+          523.263,
+          630.71
+        ],
+        "zoom": 2.13,
+        "secondary": false
+      },
+      {
+        "element": "left_young_legs",
+        "start": 8.059259259259264,
+        "end": 11.083950617283957,
+        "box": [
+          108.0,
+          364.0,
+          468.0,
+          652.0
+        ],
+        "zoom": 2.78,
+        "secondary": false
+      },
+      {
+        "element": "rear_woman_face",
+        "start": 11.083950617283957,
+        "end": 14.350617283950621,
+        "box": [
+          420.5,
+          98.5,
+          630.5,
+          266.5
+        ],
+        "zoom": 4.76,
+        "secondary": false
+      },
+      {
+        "element": "rear_woman_body",
+        "start": 14.350617283950621,
+        "end": 18.343209876543206,
+        "box": [
+          263.25,
+          99.4,
+          764.75,
+          500.6
+        ],
+        "zoom": 1.99,
+        "secondary": false
+      },
+      {
+        "element": "rear_woman_legs",
+        "start": 18.343209876543206,
+        "end": 21.367901234567896,
+        "box": [
+          302.0,
+          287.5,
+          602.0,
+          527.5
+        ],
+        "zoom": 3.33,
+        "secondary": false
+      },
+      {
+        "element": "right_man_face",
+        "start": 21.367901234567896,
+        "end": 24.63456790123456,
+        "box": [
+          596.438,
+          110.95,
+          846.562,
+          311.05
+        ],
+        "zoom": 4.0,
+        "secondary": false
+      },
+      {
+        "element": "right_man_body",
+        "start": 24.63456790123456,
+        "end": 28.627160493827144,
+        "box": [
+          379.025,
+          104.11,
+          1000.0,
+          600.89
+        ],
+        "zoom": 1.61,
+        "secondary": false
+      },
+      {
+        "element": "right_man_legs",
+        "start": 28.627160493827144,
+        "end": 31.651851851851834,
+        "box": [
+          626.3,
+          364.74,
+          970.7,
+          640.26
+        ],
+        "zoom": 2.9,
+        "secondary": false
+      },
+      {
+        "element": "objects",
+        "start": 31.651851851851834,
+        "end": 40.12098765432098,
+        "box": [
+          372.938,
+          294.05,
+          749.062,
+          594.95
+        ],
+        "zoom": 2.66,
+        "secondary": false
+      },
+      {
+        "element": "background",
+        "start": 40.12098765432098,
+        "end": 49.8,
+        "box": [
+          0,
+          0,
+          1000,
+          652
+        ],
+        "zoom": 1.0,
+        "secondary": false
+      }
+    ],
+    "brush_types": {
+      "fine": {
+        "label": "세필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "fine-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "medium": {
+        "label": "중필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "medium-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "large": {
+        "label": "대필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "large-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "flat": {
+        "label": "평붓",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "flat-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      }
+    },
+    "brush_frames": 96,
+    "viewport": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "ink_bleed": 0.45,
+    "signature": "approved portrait Tj v13",
+    "signature_duration": 2.5,
+    "pressure_brush": {
+      "atlas": "pressure-atlas.png",
+      "width": 192,
+      "height": 288,
+      "anchor": [
+        62.4,
+        253.2
+      ],
+      "levels": 4,
+      "angles": 24
+    },
+    "caption_top": 1374,
+    "material": "fiber-height-wet-roughness-shader",
+    "caption_font_size": 60,
+    "brush_motion": "path-direction-speed-pressure-live-3d",
+    "intro_brush": "large-calligraphy-separate-tuft",
+    "intro_brush_scale": 9.04,
+    "intro_ink_bleed_multiplier": 2,
+    "brush_camera_reference": {
+      "intro": 3.6,
+      "painting": 5.14
+    },
+    "signature_canvas": [
+      1080,
+      1920
+    ],
+    "signature_approved": true,
+    "wet_ink_on_contact": true
+  },
+  "player_music": {
+    "file": "../../../music/flow-main-ready.m4a",
+    "title": "먹빛의 장단",
+    "source": "Google Flow Music original generation",
+    "hide_credit": true,
+    "effects_at": [
+      1,
+      1.35,
+      1.65,
+      1.93,
+      2.17,
+      2.38,
+      2.56,
+      2.73,
+      2.88,
+      3.02,
+      3.15,
+      3.27,
+      3.39,
+      3.5
+    ],
+    "separate_tracks": true,
+    "default_start": 5,
+    "default_offset": 0,
+    "intro_rim_file": "court-finish-v9.m4a",
+    "roll_file": "roll-v7.m4a",
+    "finish_instrument": "three-buk-inspired",
+    "gain_controls": true,
+    "finish_file": "court-finish-v9.m4a",
+    "finish_duration": 1.55,
+    "finish_at": 3.5,
+    "effects_scope": "intro-only"
+  },
+  "caption_style": "calm-myeongjo",
+  "caption_layout": {
+    "max_chars": 18,
+    "font_size": 54,
+    "top": 1374,
+    "one_line": true
+  },
+  "player_revision": "series-v15",
+  "player_only": false,
+  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "exports": {
+    "ko": "ep07-short-ko-v18-cover.mp4",
+    "en": "ep07-short-en-v18-cover.mp4",
+    "ja": "ep07-short-ja-v18-cover.mp4"
+  },
+  "cover_exports": {
+    "ko": "../episodes/ep07/art/covers-v18/ko.png",
+    "en": "../episodes/ep07/art/covers-v18/en.png",
+    "ja": "../episodes/ep07/art/covers-v18/ja.png"
+  }
+}

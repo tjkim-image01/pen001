@@ -1,0 +1,163 @@
+{
+  "episode": "ep08",
+  "language": "ja",
+  "provider": "Typecast",
+  "actor": "이노우에 다이치",
+  "narration": "将棋を指す人なら、この集中が分かるかもしれません。 これは韓国のチャンギです。 文字のある駒を動かしますが、日本の将棋と同じではありません。 駒の種類ごとに動き方があり、次の一手を考えます。 二人の伏せた顔と、盤へ伸びる手を見てみましょう。 似た遊びを知っていれば、違いへの興味も生まれます。 文字を読めなくても、相手を待つ時間は伝わります。 絵に残るのは、勝敗よりも考える姿です。 この作品はウンチョの作と伝わります。 ティージェイキム・コレクションから、一手を待つ時間を見つめます。",
+  "blocks": [
+    {
+      "text": "将棋を指す人なら、この集中が分かるかもしれません。",
+      "caption": "この集中に覚えがありますか。"
+    },
+    {
+      "text": "これは韓国のチャンギです。",
+      "caption": "韓国のチャンギです。"
+    },
+    {
+      "text": "文字のある駒を動かしますが、日本の将棋と同じではありません。",
+      "caption": "同じ将棋とは限りません。"
+    },
+    {
+      "text": "駒の種類ごとに動き方があり、次の一手を考えます。",
+      "caption": "駒ごとに動き方があります。"
+    },
+    {
+      "text": "二人の伏せた顔と、盤へ伸びる手を見てみましょう。",
+      "caption": "盤へ伸びる手を見てみます。"
+    },
+    {
+      "text": "似た遊びを知っていれば、違いへの興味も生まれます。",
+      "caption": "似た遊びから違いに気付きます。"
+    },
+    {
+      "text": "文字を読めなくても、相手を待つ時間は伝わります。",
+      "caption": "相手を待つ時間が伝わります。"
+    },
+    {
+      "text": "絵に残るのは、勝敗よりも考える姿です。",
+      "caption": "考える姿が残りました。"
+    },
+    {
+      "text": "この作品はウンチョの作と伝わります。",
+      "caption": "ウンチョ作と伝わります。"
+    },
+    {
+      "text": "ティージェイキム・コレクションから、一手を待つ時間を見つめます。",
+      "caption": "TJ KIMの所蔵品です。"
+    }
+  ],
+  "voice": "locales/ja/voice-director.m4a",
+  "settings": {
+    "title": "一手を待つ時間",
+    "hook": "将棋に似て、違う盤の上へ",
+    "byline": "伝・ウンチョ作 · TJ KIM",
+    "captionEdits": {}
+  },
+  "sources": [
+    {
+      "title": "장기: 말의 종류와 진법 놀이",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048325"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "audience_adaptation": "日本でなじみのある道具や遊びとの比較から違いを観察する。起源や同一性は断定しない。",
+  "font": "./fonts/NotoSerifCJKjp-Regular.otf",
+  "captions": [
+    {
+      "start": 6.79778,
+      "end": 12.38034,
+      "text": "この集中に覚えがありますか。",
+      "words": []
+    },
+    {
+      "start": 12.68631,
+      "end": 15.92866,
+      "text": "韓国のチャンギです。",
+      "words": []
+    },
+    {
+      "start": 16.23464,
+      "end": 22.4729,
+      "text": "同じ将棋とは限りません。",
+      "words": []
+    },
+    {
+      "start": 22.77887,
+      "end": 28.42706,
+      "text": "駒ごとに動き方があります。",
+      "words": []
+    },
+    {
+      "start": 28.73303,
+      "end": 33.92548,
+      "text": "盤へ伸びる手を見てみます。",
+      "words": []
+    },
+    {
+      "start": 34.23146,
+      "end": 38.96929,
+      "text": "似た遊びから違いに気付きます。",
+      "words": []
+    },
+    {
+      "start": 39.27526,
+      "end": 44.05427,
+      "text": "相手を待つ時間が伝わります。",
+      "words": []
+    },
+    {
+      "start": 44.36024,
+      "end": 48.78382,
+      "text": "考える姿が残りました。",
+      "words": []
+    },
+    {
+      "start": 49.0898,
+      "end": 53.99305,
+      "text": "ウンチョ作と伝わります。",
+      "words": []
+    },
+    {
+      "start": 54.29902,
+      "end": 58.18324,
+      "text": "TJ KIMの所蔵品です。",
+      "words": []
+    }
+  ],
+  "translations": {
+    "TJ KIM 컬렉션 소장품": "TJ KIM コレクション所蔵",
+    "풍속화 속 한국  /  07": "風俗画に見る韓国  /  07",
+    "그린 그림에서 소장 이미지로": "所蔵画像へ重なる",
+    "소장 이미지 · AI 정리 편집본": "所蔵画像・AI整画像",
+    "인물 1 · 얼굴과 머리": "人物1・顔と髪",
+    "인물 1 · 몸과 손": "人物1・体と手",
+    "인물 1 · 다리·아랫옷": "人物1・脚と衣服",
+    "인물 2 · 얼굴과 머리": "人物2・顔と髪",
+    "인물 2 · 몸과 손": "人物2・体と手",
+    "인물 2 · 다리·아랫옷": "人物2・脚と衣服",
+    "물건 · 생활의 도구": "暮らしの道具",
+    "배경 · 이곳의 하루": "暮らしの背景"
+  },
+  "timing": {
+    "intro": 6,
+    "narration_start": 12.936813,
+    "raw_duration": 40.4,
+    "tempo": 0.88,
+    "inter_block_pause": 0.7878787878787882,
+    "narration_end": 63.930604,
+    "alignment": "Whisper word timestamps mapped to canonical blocks, silence-centered cuts; calm one-line condensed captions; first audible narration aligned to Korean after intro",
+    "sync_reference": "korean",
+    "first_audible": 12.939562,
+    "korean_first_audible": 12.936813,
+    "sync_tempo": 1.03
+  },
+  "asr_script_similarity": 0.8657407407407407,
+  "raw_sha256": "dbf64054c4467675ed748a90baa08afe09e24f7fce54aefcbb421e418684bebd"
+}

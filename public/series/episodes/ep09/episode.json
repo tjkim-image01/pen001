@@ -1,0 +1,337 @@
+{
+  "id": "ep09",
+  "number": 9,
+  "title": "두 사람이 맞추는 박자",
+  "hook": "떡메 아래 먹거리",
+  "category": "일·먹거리",
+  "album": 6,
+  "side": "right",
+  "duration": 66,
+  "byline": "운초 전칭 · TJ KIM 컬렉션",
+  "narration": [
+    "큰 나무 메가 머리 위로 올라갑니다. 싸우는 장면이 아닙니다. 익힌 곡물을 쳐서 떡을 만드는 작업입니다.",
+    "한 사람은 힘껏 메를 내리고, 다른 사람은 아래의 떡을 뒤집고 다듬습니다. 힘만큼 중요한 것은 서로 손을 넣고 빼는 박자입니다. 옆에서 돕는 사람과 뒤를 지나는 개까지, 일터의 움직임이 함께 담겼습니다.",
+    "나무 메의 긴 자루를 먼저 그리고, 몸을 굽힌 사람의 등을 이어 봅니다. 메를 드는 팔과 떡을 만지는 손은 떨어져 있지만, 한 가지 일을 함께 완성하고 있습니다.",
+    "외국인의 눈에는 쌀로 만든 음식도, 그것을 두드리는 도구도 새로운 풍경이었을 겁니다. 풍속화는 완성된 먹거리뿐 아니라 만드는 순서를 보여 주는 설명 그림이 되었습니다.",
+    "오늘 우리는 그 기술과 함께 협업도 읽을 수 있습니다. 한 번의 힘찬 동작 뒤에, 상대의 손을 살피는 오랜 호흡이 있었습니다."
+  ],
+  "voice_id": "S09",
+  "voice_text": "큰 나무 메가 머리 위로 올라갑니다. 싸우는 장면이 아닙니다. 익힌 곡물을 쳐서 떡을 만드는 작업입니다. 한 사람은 힘껏 메를 내리고, 다른 사람은 아래의 떡을 뒤집고 다듬습니다. 힘만큼 중요한 것은 서로 손을 넣고 빼는 박자입니다. 옆에서 돕는 사람과 뒤를 지나는 개까지, 일터의 움직임이 함께 담겼습니다. 나무 메의 긴 자루를 먼저 그리고, 몸을 굽힌 사람의 등을 이어 봅니다. 메를 드는 팔과 떡을 만지는 손은 떨어져 있지만, 한 가지 일을 함께 완성하고 있습니다. 외국인의 눈에는 쌀로 만든 음식도, 그것을 두드리는 도구도 새로운 풍경이었을 겁니다. 풍속화는 완성된 먹거리뿐 아니라 만드는 순서를 보여 주는 설명 그림이 되었습니다. 오늘 우리는 그 기술과 함께 협업도 읽을 수 있습니다. 한 번의 힘찬 동작 뒤에, 상대의 손을 살피는 오랜 호흡이 있었습니다.",
+  "voice_file": "S09.wav",
+  "video": "../episodes/ep09/output/ep09-short-60s.mp4",
+  "poster": "../episodes/ep09/art/poster.jpg",
+  "original": "../episodes/ep09/art/original-clean.png",
+  "source_photo": "../../../research/album-6.jpg",
+  "sources": [
+    {
+      "title": "떡: 안반과 떡메를 사용하는 만드는 방법",
+      "url": "https://encykorea.aks.ac.kr/Article/E0017196"
+    },
+    {
+      "title": "기산 김준근 풍속화 소개 · 국사편찬위원회",
+      "url": "https://contents.history.go.kr/collection/level.do?levelId=mp_009_0030"
+    },
+    {
+      "title": "기산풍속도첩 · 서울역사박물관",
+      "url": "https://museum.seoul.go.kr/www/relic/RelicView.do?cdLanguage=KOR&mcseqno1=021945&mcseqno2=00000&mcsjgbnc=PS01003026001"
+    }
+  ],
+  "status": "ready",
+  "player_director": {
+    "intro_duration": 6,
+    "shots": [
+      {
+        "element": "left_worker_face",
+        "start": 0.8,
+        "end": 4.066666666666669,
+        "box": [
+          319.5,
+          210.5,
+          529.5,
+          378.5
+        ],
+        "zoom": 4.76,
+        "secondary": false
+      },
+      {
+        "element": "left_worker_body",
+        "start": 4.066666666666669,
+        "end": 8.059259259259266,
+        "box": [
+          180.5,
+          226.5,
+          570.5,
+          538.5
+        ],
+        "zoom": 2.56,
+        "secondary": false
+      },
+      {
+        "element": "left_worker_legs",
+        "start": 8.059259259259266,
+        "end": 11.083950617283957,
+        "box": [
+          165.0,
+          311.5,
+          465.0,
+          551.5
+        ],
+        "zoom": 3.33,
+        "secondary": false
+      },
+      {
+        "element": "rear_worker_face",
+        "start": 11.083950617283957,
+        "end": 14.350617283950628,
+        "box": [
+          456.5,
+          62.0,
+          666.5,
+          230.0
+        ],
+        "zoom": 4.76,
+        "secondary": false
+      },
+      {
+        "element": "rear_worker_body",
+        "start": 14.350617283950628,
+        "end": 18.34320987654322,
+        "box": [
+          357.25,
+          82.4,
+          858.75,
+          483.6
+        ],
+        "zoom": 1.99,
+        "secondary": false
+      },
+      {
+        "element": "rear_worker_legs",
+        "start": 18.34320987654322,
+        "end": 21.367901234567913,
+        "box": [
+          470.5,
+          238.5,
+          770.5,
+          478.5
+        ],
+        "zoom": 3.33,
+        "secondary": false
+      },
+      {
+        "element": "right_worker_face",
+        "start": 21.367901234567913,
+        "end": 24.63456790123459,
+        "box": [
+          603.5,
+          286.5,
+          813.5,
+          454.5
+        ],
+        "zoom": 4.76,
+        "secondary": false
+      },
+      {
+        "element": "right_worker_body",
+        "start": 24.63456790123459,
+        "end": 28.627160493827187,
+        "box": [
+          564.7,
+          315.56,
+          883.3,
+          570.44
+        ],
+        "zoom": 3.14,
+        "secondary": false
+      },
+      {
+        "element": "right_worker_legs",
+        "start": 28.627160493827187,
+        "end": 31.65185185185187,
+        "box": [
+          594.0,
+          379.5,
+          894.0,
+          619.5
+        ],
+        "zoom": 3.33,
+        "secondary": false
+      },
+      {
+        "element": "objects",
+        "start": 31.65185185185187,
+        "end": 40.12098765432103,
+        "box": [
+          94.3,
+          30.88,
+          870.7,
+          652.0
+        ],
+        "zoom": 1.29,
+        "secondary": false
+      },
+      {
+        "element": "background",
+        "start": 40.12098765432103,
+        "end": 49.8,
+        "box": [
+          0,
+          0,
+          1000,
+          652
+        ],
+        "zoom": 1.0,
+        "secondary": false
+      }
+    ],
+    "brush_types": {
+      "fine": {
+        "label": "세필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "fine-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "medium": {
+        "label": "중필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "medium-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "large": {
+        "label": "대필",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "large-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      },
+      "flat": {
+        "label": "평붓",
+        "frames": 96,
+        "unique_frames": 96,
+        "atlas": "flat-atlas.png",
+        "width": 192,
+        "height": 288,
+        "columns": 12,
+        "rows": 8,
+        "anchor": [
+          62.4,
+          253.2
+        ]
+      }
+    },
+    "brush_frames": 96,
+    "viewport": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "ink_bleed": 0.45,
+    "signature": "approved portrait Tj v13",
+    "signature_duration": 2.5,
+    "pressure_brush": {
+      "atlas": "pressure-atlas.png",
+      "width": 192,
+      "height": 288,
+      "anchor": [
+        62.4,
+        253.2
+      ],
+      "levels": 4,
+      "angles": 24
+    },
+    "caption_top": 1374,
+    "material": "fiber-height-wet-roughness-shader",
+    "caption_font_size": 60,
+    "brush_motion": "path-direction-speed-pressure-live-3d",
+    "intro_brush": "large-calligraphy-separate-tuft",
+    "intro_brush_scale": 9.04,
+    "intro_ink_bleed_multiplier": 2,
+    "brush_camera_reference": {
+      "intro": 3.6,
+      "painting": 5.14
+    },
+    "signature_canvas": [
+      1080,
+      1920
+    ],
+    "signature_approved": true,
+    "wet_ink_on_contact": true
+  },
+  "player_music": {
+    "file": "../../../music/flow-march-ready.m4a",
+    "title": "붓끝의 행진",
+    "source": "Google Flow Music original generation",
+    "hide_credit": true,
+    "effects_at": [
+      1,
+      1.35,
+      1.65,
+      1.93,
+      2.17,
+      2.38,
+      2.56,
+      2.73,
+      2.88,
+      3.02,
+      3.15,
+      3.27,
+      3.39,
+      3.5
+    ],
+    "separate_tracks": true,
+    "default_start": 5,
+    "default_offset": 0,
+    "intro_rim_file": "court-finish-v9.m4a",
+    "roll_file": "roll-v7.m4a",
+    "finish_instrument": "three-buk-inspired",
+    "gain_controls": true,
+    "finish_file": "court-finish-v9.m4a",
+    "finish_duration": 1.55,
+    "finish_at": 3.5,
+    "effects_scope": "intro-only"
+  },
+  "caption_style": "calm-myeongjo",
+  "caption_layout": {
+    "max_chars": 18,
+    "font_size": 54,
+    "top": 1374,
+    "one_line": true
+  },
+  "player_revision": "series-v15",
+  "player_only": false,
+  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "exports": {
+    "ko": "ep09-short-ko-v18-cover.mp4",
+    "en": "ep09-short-en-v18-cover.mp4",
+    "ja": "ep09-short-ja-v18-cover.mp4"
+  },
+  "cover_exports": {
+    "ko": "../episodes/ep09/art/covers-v18/ko.png",
+    "en": "../episodes/ep09/art/covers-v18/en.png",
+    "ja": "../episodes/ep09/art/covers-v18/ja.png"
+  }
+}
