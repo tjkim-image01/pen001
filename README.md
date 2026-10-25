@@ -2,12 +2,14 @@
 
 https://tjkim-image01.github.io/pen001/
 
-A photographic archive of the genre-painting album in the TJ KIM Collection.
+A video-led collection of Korean genre paintings, redesigned with Google Stitch.
+
+Source project: `web/t001` in the local tjkim2 workspace. Homepage → films → physical works → saved collection. The homepage supports Korean, English and Japanese, with each film card showing its matching localized opening cover.
 
 - 10 original album photographs and 17 mounted paintings
 - Korean, English and Japanese editions
 - 10 drawing films in each language
-- Mobile pinch zoom, pan, album swipes, search and slideshows
+- Mobile two-column film grid, search, theme filters, saved works and album zoom
 - Browser drawing studio with settings and personal music stored on the visitor's device
 
 The `public/` directory is a curated static website. GitHub Actions publishes it to GitHub Pages.

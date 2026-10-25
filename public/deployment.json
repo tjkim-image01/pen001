@@ -1,8 +1,9 @@
 {
-  "files": 846,
-  "bytes": 716383828,
-  "megabytes": 716.4,
+  "files": 877,
+  "bytes": 722899362,
+  "megabytes": 722.9,
   "base_path": "/pen001",
+  "frontend": "t001",
   "photos": 10,
   "paintings": 17,
   "videos": 30,
