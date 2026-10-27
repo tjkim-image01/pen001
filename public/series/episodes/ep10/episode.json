@@ -37,147 +37,92 @@
     "intro_duration": 6,
     "shots": [
       {
-        "element": "standing_seller_face",
+        "element": "standing_seller",
         "start": 0.8,
-        "end": 4.066666666666669,
+        "end": 4.956332160841083,
         "box": [
-          470.4,
-          24.22,
-          813.6,
-          298.78
-        ],
-        "zoom": 2.91,
-        "secondary": false
+          491.0,
+          82.0,
+          798.0,
+          581.0
+        ]
       },
       {
-        "element": "standing_seller_body",
-        "start": 4.066666666666669,
-        "end": 8.059259259259262,
+        "element": "standing_seller",
+        "start": 4.956332160841083,
+        "end": 13.904711902006866,
         "box": [
-          311.65,
-          65.32,
-          978.35,
-          598.68
-        ],
-        "zoom": 1.5,
-        "secondary": false
+          491.0,
+          82.0,
+          798.0,
+          581.0
+        ]
       },
       {
-        "element": "standing_seller_legs",
-        "start": 8.059259259259262,
-        "end": 11.083950617283953,
+        "element": "left_seller",
+        "start": 13.904711902006866,
+        "end": 16.076324983957356,
         "box": [
-          505.0,
-          346.5,
-          805.0,
-          586.5
-        ],
-        "zoom": 3.33,
-        "secondary": false
+          68.0,
+          213.0,
+          397.0,
+          562.0
+        ]
       },
       {
-        "element": "left_seller_face",
-        "start": 11.083950617283953,
-        "end": 14.350617283950617,
+        "element": "left_seller",
+        "start": 16.076324983957356,
+        "end": 25.819992805363356,
         "box": [
-          111.0,
-          193.5,
-          321.0,
-          361.5
-        ],
-        "zoom": 4.76,
-        "secondary": false
+          68.0,
+          213.0,
+          397.0,
+          562.0
+        ]
       },
       {
-        "element": "left_seller_body",
-        "start": 14.350617283950617,
-        "end": 18.343209876543213,
+        "element": "rear_customer",
+        "start": 25.819992805363356,
+        "end": 28.093921544003162,
         "box": [
-          9.775,
-          209.82,
-          455.225,
-          566.18
-        ],
-        "zoom": 2.24,
-        "secondary": false
+          246.0,
+          140.0,
+          551.0,
+          458.0
+        ]
       },
       {
-        "element": "left_seller_legs",
-        "start": 18.343209876543213,
-        "end": 21.36790123456791,
+        "element": "rear_customer",
+        "start": 28.093921544003162,
+        "end": 36.8,
         "box": [
-          64.1,
-          360.08,
-          398.9,
-          627.92
-        ],
-        "zoom": 2.99,
-        "secondary": false
-      },
-      {
-        "element": "rear_customer_face",
-        "start": 21.36790123456791,
-        "end": 24.634567901234572,
-        "box": [
-          225.5,
-          121.5,
-          435.5,
-          289.5
-        ],
-        "zoom": 4.76,
-        "secondary": false
-      },
-      {
-        "element": "rear_customer_body",
-        "start": 24.634567901234572,
-        "end": 28.627160493827176,
-        "box": [
-          199.875,
-          140.7,
-          598.125,
-          459.3
-        ],
-        "zoom": 2.51,
-        "secondary": false
-      },
-      {
-        "element": "rear_customer_legs",
-        "start": 28.627160493827176,
-        "end": 31.651851851851863,
-        "box": [
-          266.0,
-          275.5,
-          566.0,
-          515.5
-        ],
-        "zoom": 3.33,
-        "secondary": false
+          246.0,
+          140.0,
+          551.0,
+          458.0
+        ]
       },
       {
         "element": "objects",
-        "start": 31.651851851851863,
-        "end": 40.12098765432101,
+        "start": 36.8,
+        "end": 42.8,
         "box": [
-          201.3,
-          0.0,
-          941.7,
-          592.32
-        ],
-        "zoom": 1.35,
-        "secondary": false
+          239.0,
+          83.0,
+          903.0,
+          482.0
+        ]
       },
       {
         "element": "background",
-        "start": 40.12098765432101,
+        "start": 42.8,
         "end": 49.8,
         "box": [
           0,
           0,
           1000,
           652
-        ],
-        "zoom": 1.0,
-        "secondary": false
+        ]
       }
     ],
     "brush_types": {
@@ -246,8 +191,8 @@
       1440
     ],
     "ink_bleed": 0.45,
-    "signature": "approved portrait Tj v13",
-    "signature_duration": 2.5,
+    "signature": "approved bitmap Tj v27 / angled close-up brush v29",
+    "signature_duration": 3.5,
     "pressure_brush": {
       "atlas": "pressure-atlas.png",
       "width": 192,
@@ -275,7 +220,9 @@
       1920
     ],
     "signature_approved": true,
-    "wet_ink_on_contact": true
+    "wet_ink_on_contact": true,
+    "signature_revision": 31,
+    "intro_brush_visible_from": 0
   },
   "player_music": {
     "file": "../../../music/flow-playful-ready.m4a",
@@ -317,17 +264,18 @@
     "top": 1374,
     "one_line": true
   },
-  "player_revision": "series-v15",
+  "player_revision": "raster-v31",
   "player_only": false,
-  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "drawing_order": "각 인물 머리·얼굴 채색 → 몸 채색 → 세선 정리 → 다음 인물 → 물건 → 색별 배경",
   "exports": {
-    "ko": "ep10-short-ko-v18-cover.mp4",
-    "en": "ep10-short-en-v18-cover.mp4",
-    "ja": "ep10-short-ja-v18-cover.mp4"
+    "ko": "ep10-short-ko-v31-cover.mp4",
+    "en": "ep10-short-en-v31-cover.mp4",
+    "ja": "ep10-short-ja-v31-cover.mp4"
   },
   "cover_exports": {
     "ko": "../episodes/ep10/art/covers-v18/ko.png",
     "en": "../episodes/ep10/art/covers-v18/en.png",
     "ja": "../episodes/ep10/art/covers-v18/ja.png"
-  }
+  },
+  "review_status": "approved-body-immediate-brush"
 }

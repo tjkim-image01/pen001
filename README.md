@@ -13,7 +13,7 @@ Source project: `web/t001` in the local tjkim2 workspace. Homepage → films →
 - Browser drawing studio with settings and personal music stored on the visitor's device
 
 The `public/` directory is a curated static website. GitHub Actions publishes it to GitHub Pages.
-The three language-specific video bundles are distributed as assets of release `v18`.
+The three language-specific video bundles are distributed as assets of release `v31`.
 
 Collection: APKC260507306. Artist: Uncho, attributed.
 Photographs are provided by the TJ KIM Collection. AI-assisted film images and title covers are identified separately from the actual collection photographs.
@@ -21,3 +21,5 @@ Photographs are provided by the TJ KIM Collection. AI-assisted film images and t
 Reference research: https://contents.history.go.kr/collection/level.do?levelId=mp_009
 
 Font and Three.js licenses are retained alongside their files. Private production logs, browser sessions and inventory systems are not part of this repository.
+
+Current film revision: **v31**. The 30 MP4s and three language bundles are hosted on GitHub Releases; the live drawing editors and lossless stroke assets are served by Pages.

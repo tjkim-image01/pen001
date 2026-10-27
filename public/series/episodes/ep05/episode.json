@@ -37,290 +37,180 @@
     "intro_duration": 6,
     "shots": [
       {
-        "element": "front_carrier_face",
+        "element": "front_carrier",
         "start": 0.8,
-        "end": 3.519424460431649,
+        "end": 2.158895750868751,
         "box": [
-          447.0,
-          392.0,
-          657.0,
-          560.0
-        ],
-        "zoom": 4.76,
-        "secondary": false
+          428.0,
+          393.0,
+          646.0,
+          652
+        ]
       },
       {
-        "element": "front_carrier_body",
-        "start": 3.519424460431649,
-        "end": 6.843165467625887,
+        "element": "front_carrier",
+        "start": 2.158895750868751,
+        "end": 6.285490373282863,
         "box": [
-          380.65,
-          397.92,
-          693.35,
-          648.08
-        ],
-        "zoom": 3.2,
-        "secondary": false
+          428.0,
+          393.0,
+          646.0,
+          652
+        ]
       },
       {
-        "element": "front_carrier_legs",
-        "start": 6.843165467625887,
-        "end": 9.36115107913667,
+        "element": "front_seated",
+        "start": 6.285490373282863,
+        "end": 8.774433649960791,
         "box": [
-          379.0,
-          412.0,
-          679.0,
-          652.0
-        ],
-        "zoom": 3.33,
-        "secondary": false
+          548.0,
+          321.0,
+          799.0,
+          652
+        ]
       },
       {
-        "element": "front_seated_face",
-        "start": 9.36115107913667,
-        "end": 12.08057553956832,
+        "element": "front_seated",
+        "start": 8.774433649960791,
+        "end": 12.372611040660475,
         "box": [
-          593.5,
-          316.2,
-          825.5,
-          501.8
-        ],
-        "zoom": 4.31,
-        "secondary": false
+          548.0,
+          321.0,
+          799.0,
+          652
+        ]
       },
       {
-        "element": "front_seated_body",
-        "start": 12.08057553956832,
-        "end": 15.404316546762562,
+        "element": "front_right",
+        "start": 12.372611040660475,
+        "end": 14.508686713172178,
         "box": [
-          465.788,
-          318.06,
-          883.212,
-          652.0
-        ],
-        "zoom": 2.4,
-        "secondary": false
+          744.0,
+          265.0,
+          950.0,
+          652
+        ]
       },
       {
-        "element": "front_seated_legs",
-        "start": 15.404316546762562,
-        "end": 17.922302158273347,
+        "element": "front_right",
+        "start": 14.508686713172178,
+        "end": 18.95660783694632,
         "box": [
-          547.5,
-          412.0,
-          847.5,
-          652.0
-        ],
-        "zoom": 3.33,
-        "secondary": false
+          744.0,
+          265.0,
+          950.0,
+          652
+        ]
       },
       {
-        "element": "front_right_face",
-        "start": 17.922302158273347,
-        "end": 20.641726618704997,
+        "element": "door_sitting",
+        "start": 18.95660783694632,
+        "end": 20.36452625719817,
         "box": [
-          742.156,
-          258.625,
-          986.844,
-          454.375
-        ],
-        "zoom": 4.09,
-        "secondary": false
+          145.0,
+          238.0,
+          340.0,
+          467.0
+        ]
       },
       {
-        "element": "front_right_body",
-        "start": 20.641726618704997,
-        "end": 23.965467625899233,
+        "element": "door_sitting",
+        "start": 20.36452625719817,
+        "end": 23.941706407218494,
         "box": [
-          498.5,
-          250.8,
-          1000.0,
-          652.0
-        ],
-        "zoom": 1.99,
-        "secondary": false
+          145.0,
+          238.0,
+          340.0,
+          467.0
+        ]
       },
       {
-        "element": "front_right_legs",
-        "start": 23.965467625899233,
-        "end": 26.483453237410014,
+        "element": "door_standing",
+        "start": 23.941706407218494,
+        "end": 25.443878974694897,
         "box": [
-          692.0,
-          412.0,
-          992.0,
-          652.0
-        ],
-        "zoom": 3.33,
-        "secondary": false
+          259.0,
+          152.0,
+          455.0,
+          458.0
+        ]
       },
       {
-        "element": "door_sitting_face",
-        "start": 26.483453237410014,
-        "end": 27.13812949640282,
+        "element": "door_standing",
+        "start": 25.443878974694897,
+        "end": 28.963001561473305,
         "box": [
-          8.0,
-          128.0,
-          438.0,
-          472.0
-        ],
-        "zoom": 2.33,
-        "secondary": true
+          259.0,
+          152.0,
+          455.0,
+          458.0
+        ]
       },
       {
-        "element": "door_sitting_body",
-        "start": 27.13812949640282,
-        "end": 28.14532374100713,
+        "element": "rear_small",
+        "start": 28.963001561473305,
+        "end": 30.31350832504879,
         "box": [
-          27.5,
-          181.0,
-          457.5,
-          525.0
-        ],
-        "zoom": 2.33,
-        "secondary": true
+          646.5,
+          245.0,
+          806.5,
+          375.0
+        ]
       },
       {
-        "element": "door_sitting_legs",
-        "start": 28.14532374100713,
-        "end": 28.6992805755395,
+        "element": "rear_small",
+        "start": 30.31350832504879,
+        "end": 32.48587613228213,
         "box": [
-          27.5,
-          233.5,
-          457.5,
-          577.5
-        ],
-        "zoom": 2.33,
-        "secondary": true
+          646.5,
+          245.0,
+          806.5,
+          375.0
+        ]
       },
       {
-        "element": "door_standing_face",
-        "start": 28.6992805755395,
-        "end": 29.3539568345323,
+        "element": "rear_cloaked",
+        "start": 32.48587613228213,
+        "end": 33.779197596894555,
         "box": [
-          109.5,
-          45.5,
-          539.5,
-          389.5
-        ],
-        "zoom": 2.33,
-        "secondary": true
+          720.5,
+          158.0,
+          880.5,
+          375.0
+        ]
       },
       {
-        "element": "door_standing_body",
-        "start": 29.3539568345323,
-        "end": 30.36115107913661,
+        "element": "rear_cloaked",
+        "start": 33.779197596894555,
+        "end": 36.8,
         "box": [
-          142.5005,
-          133.5,
-          572.5005,
-          477.5
-        ],
-        "zoom": 2.33,
-        "secondary": true
-      },
-      {
-        "element": "door_standing_legs",
-        "start": 30.36115107913661,
-        "end": 30.915107913668987,
-        "box": [
-          114.0,
-          218.0,
-          544.0,
-          562.0
-        ],
-        "zoom": 2.33,
-        "secondary": true
-      },
-      {
-        "element": "rear_small_face",
-        "start": 30.915107913668987,
-        "end": 31.56978417266179,
-        "box": [
-          508.0,
-          113.0,
-          938.0,
-          457.0
-        ],
-        "zoom": 2.33,
-        "secondary": true
-      },
-      {
-        "element": "rear_small_body",
-        "start": 31.56978417266179,
-        "end": 32.576978417266105,
-        "box": [
-          512.0,
-          138.0,
-          942.0,
-          482.0
-        ],
-        "zoom": 2.33,
-        "secondary": true
-      },
-      {
-        "element": "rear_small_legs",
-        "start": 32.576978417266105,
-        "end": 33.13093525179849,
-        "box": [
-          517.0,
-          165.5,
-          947.0,
-          509.5
-        ],
-        "zoom": 2.33,
-        "secondary": true
-      },
-      {
-        "element": "rear_cloaked_body",
-        "start": 33.13093525179849,
-        "end": 34.13812949640282,
-        "box": [
-          570.0,
-          95.0,
-          1000.0,
-          439.0
-        ],
-        "zoom": 2.33,
-        "secondary": true
-      },
-      {
-        "element": "rear_cloaked_legs",
-        "start": 34.13812949640282,
-        "end": 34.69208633093519,
-        "box": [
-          570.0,
-          159.5,
-          1000.0,
-          503.5
-        ],
-        "zoom": 2.33,
-        "secondary": true
+          720.5,
+          158.0,
+          880.5,
+          375.0
+        ]
       },
       {
         "element": "objects",
-        "start": 34.69208633093519,
-        "end": 41.74244604316541,
+        "start": 36.8,
+        "end": 42.8,
         "box": [
-          415.8,
-          194.94,
-          802.2,
-          504.06
-        ],
-        "zoom": 2.59,
-        "secondary": false
+          424.0,
+          206.0,
+          797.0,
+          492.0
+        ]
       },
       {
         "element": "background",
-        "start": 41.74244604316541,
+        "start": 42.8,
         "end": 49.8,
         "box": [
           0,
           0,
           1000,
           652
-        ],
-        "zoom": 1.0,
-        "secondary": false
+        ]
       }
     ],
     "brush_types": {
@@ -389,8 +279,8 @@
       1440
     ],
     "ink_bleed": 0.45,
-    "signature": "approved portrait Tj v13",
-    "signature_duration": 2.5,
+    "signature": "approved bitmap Tj v27 / angled close-up brush v29",
+    "signature_duration": 3.5,
     "pressure_brush": {
       "atlas": "pressure-atlas.png",
       "width": 192,
@@ -418,7 +308,9 @@
       1920
     ],
     "signature_approved": true,
-    "wet_ink_on_contact": true
+    "wet_ink_on_contact": true,
+    "signature_revision": 31,
+    "intro_brush_visible_from": 0
   },
   "player_music": {
     "file": "../../../music/flow-night-ready.m4a",
@@ -460,17 +352,18 @@
     "top": 1374,
     "one_line": true
   },
-  "player_revision": "series-v15",
+  "player_revision": "raster-v31",
   "player_only": false,
-  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "drawing_order": "각 인물 머리·얼굴 채색 → 몸 채색 → 세선 정리 → 다음 인물 → 물건 → 색별 배경",
   "exports": {
-    "ko": "ep05-short-ko-v18-cover.mp4",
-    "en": "ep05-short-en-v18-cover.mp4",
-    "ja": "ep05-short-ja-v18-cover.mp4"
+    "ko": "ep05-short-ko-v31-cover.mp4",
+    "en": "ep05-short-en-v31-cover.mp4",
+    "ja": "ep05-short-ja-v31-cover.mp4"
   },
   "cover_exports": {
     "ko": "../episodes/ep05/art/covers-v18/ko.png",
     "en": "../episodes/ep05/art/covers-v18/en.png",
     "ja": "../episodes/ep05/art/covers-v18/ja.png"
-  }
+  },
+  "review_status": "approved-body-immediate-brush"
 }

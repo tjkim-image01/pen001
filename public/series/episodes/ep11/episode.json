@@ -37,147 +37,92 @@
     "intro_duration": 6,
     "shots": [
       {
-        "element": "front_woman_face",
+        "element": "front_woman",
         "start": 0.8,
-        "end": 5.541935483870957,
+        "end": 5.5097433862076635,
         "box": [
-          562.0,
-          179.0,
-          772.0,
-          347.0
-        ],
-        "zoom": 4.76,
-        "secondary": false
+          539.0,
+          187.0,
+          829.0,
+          485.0
+        ]
       },
       {
-        "element": "front_woman_body",
-        "start": 5.541935483870957,
-        "end": 11.33763440860213,
+        "element": "front_woman",
+        "start": 5.5097433862076635,
+        "end": 19.530162613847153,
         "box": [
-          499.388,
-          188.41,
-          869.612,
-          484.59
-        ],
-        "zoom": 2.7,
-        "secondary": false
+          539.0,
+          187.0,
+          829.0,
+          485.0
+        ]
       },
       {
-        "element": "front_woman_legs",
-        "start": 11.33763440860213,
-        "end": 15.728315412186355,
+        "element": "rear_left",
+        "start": 19.530162613847153,
+        "end": 22.375437573144236,
         "box": [
-          541.5,
-          276.5,
-          841.5,
-          516.5
-        ],
-        "zoom": 3.33,
-        "secondary": false
+          278.0,
+          173.5,
+          438.0,
+          303.5
+        ]
       },
       {
-        "element": "rear_left_face",
-        "start": 15.728315412186355,
-        "end": 16.869892473118256,
+        "element": "rear_left",
+        "start": 22.375437573144236,
+        "end": 27.552976774489704,
         "box": [
-          135.5,
-          46.5,
-          565.5,
-          390.5
-        ],
-        "zoom": 2.33,
-        "secondary": true
+          278.0,
+          173.5,
+          438.0,
+          303.5
+        ]
       },
       {
-        "element": "rear_left_body",
-        "start": 16.869892473118256,
-        "end": 18.626164874551943,
+        "element": "rear_right",
+        "start": 27.552976774489704,
+        "end": 30.582066355076012,
         "box": [
-          143.5,
-          67.5,
-          573.5,
-          411.5
-        ],
-        "zoom": 2.33,
-        "secondary": true
+          340.0,
+          145.0,
+          543.0,
+          280.0
+        ]
       },
       {
-        "element": "rear_left_legs",
-        "start": 18.626164874551943,
-        "end": 19.59211469534047,
+        "element": "rear_right",
+        "start": 30.582066355076012,
+        "end": 36.8,
         "box": [
-          143.5,
-          91.0,
-          573.5,
-          435.0
-        ],
-        "zoom": 2.33,
-        "secondary": true
-      },
-      {
-        "element": "rear_right_face",
-        "start": 19.59211469534047,
-        "end": 20.733691756272368,
-        "box": [
-          225.5,
-          17.0,
-          655.5,
-          361.0
-        ],
-        "zoom": 2.33,
-        "secondary": true
-      },
-      {
-        "element": "rear_right_body",
-        "start": 20.733691756272368,
-        "end": 22.489964157706055,
-        "box": [
-          227.0,
-          41.0,
-          657.0,
-          385.0
-        ],
-        "zoom": 2.33,
-        "secondary": true
-      },
-      {
-        "element": "rear_right_legs",
-        "start": 22.489964157706055,
-        "end": 23.455913978494586,
-        "box": [
-          266.0,
-          71.5,
-          696.0,
-          415.5
-        ],
-        "zoom": 2.33,
-        "secondary": true
+          340.0,
+          145.0,
+          543.0,
+          280.0
+        ]
       },
       {
         "element": "objects",
-        "start": 23.455913978494586,
-        "end": 35.74982078853041,
+        "start": 36.8,
+        "end": 42.8,
         "box": [
-          258.1,
-          46.98,
-          976.9,
-          622.02
-        ],
-        "zoom": 1.39,
-        "secondary": false
+          294.0,
+          95.0,
+          940.0,
+          569.0
+        ]
       },
       {
         "element": "background",
-        "start": 35.74982078853041,
+        "start": 42.8,
         "end": 49.8,
         "box": [
           0,
           0,
           1000,
           652
-        ],
-        "zoom": 1.0,
-        "secondary": false
+        ]
       }
     ],
     "brush_types": {
@@ -246,8 +191,8 @@
       1440
     ],
     "ink_bleed": 0.45,
-    "signature": "approved portrait Tj v13",
-    "signature_duration": 2.5,
+    "signature": "approved bitmap Tj v27 / angled close-up brush v29",
+    "signature_duration": 3.5,
     "pressure_brush": {
       "atlas": "pressure-atlas.png",
       "width": 192,
@@ -275,7 +220,9 @@
       1920
     ],
     "signature_approved": true,
-    "wet_ink_on_contact": true
+    "wet_ink_on_contact": true,
+    "signature_revision": 31,
+    "intro_brush_visible_from": 0
   },
   "player_music": {
     "file": "../../../music/flow-calm-ready.m4a",
@@ -317,17 +264,18 @@
     "top": 1374,
     "one_line": true
   },
-  "player_revision": "series-v15",
+  "player_revision": "raster-v31",
   "player_only": false,
-  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "drawing_order": "각 인물 머리·얼굴 채색 → 몸 채색 → 세선 정리 → 다음 인물 → 물건 → 색별 배경",
   "exports": {
-    "ko": "ep11-short-ko-v18-cover.mp4",
-    "en": "ep11-short-en-v18-cover.mp4",
-    "ja": "ep11-short-ja-v18-cover.mp4"
+    "ko": "ep11-short-ko-v31-cover.mp4",
+    "en": "ep11-short-en-v31-cover.mp4",
+    "ja": "ep11-short-ja-v31-cover.mp4"
   },
   "cover_exports": {
     "ko": "../episodes/ep11/art/covers-v18/ko.png",
     "en": "../episodes/ep11/art/covers-v18/en.png",
     "ja": "../episodes/ep11/art/covers-v18/ja.png"
-  }
+  },
+  "review_status": "approved-body-immediate-brush"
 }

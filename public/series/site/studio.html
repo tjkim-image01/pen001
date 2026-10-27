@@ -5,7 +5,7 @@
 <main>
 <section class="workspace" aria-label="그리는 과정 플레이어">
 <div class="stage"><canvas id="painting" width="1080" height="1920" aria-label="빈 종이에서 시작하는 풍속화 드로잉"></canvas><div id="loading" role="status"><strong>붓과 안료를 준비하고 있습니다</strong><progress id="loadProgress" max="1" value="0"></progress><span id="loadLabel">그림 불러오는 중</span></div></div>
-<div class="transport"><div class="playrow"><button id="play" class="primary" disabled>재생</button><button id="restart" disabled>처음부터</button><button id="previous" aria-label="이전 붓질" disabled>이전 획</button><button id="next" aria-label="다음 붓질" disabled>다음 획</button><output id="clock">00:00 / 01:00</output></div><input id="timeline" type="range" min="0" max="60" step="0.01" value="0" aria-label="재생 위치" disabled><div class="timeline-notes"><span id="strokeLabel">빈 종이</span><span>Space 재생 · ← → 5초 이동</span></div><div id="chapters" class="chapters" aria-label="그리기 단계"></div></div>
+<div class="transport"><div class="playrow"><button id="play" class="primary" disabled>재생</button><button id="toggleSound" aria-pressed="true" disabled>소리 끄기</button><button id="restart" disabled>처음부터</button><button id="previous" aria-label="이전 붓질" disabled>이전 획</button><button id="next" aria-label="다음 붓질" disabled>다음 획</button><output id="clock">00:00 / 01:00</output></div><p id="soundStatus" class="sound-status" role="status">음성을 준비하고 있습니다.</p><input id="timeline" type="range" min="0" max="60" step="0.01" value="0" aria-label="재생 위치" disabled><div class="timeline-notes"><span id="strokeLabel">빈 종이</span><span>Space 재생 · ← → 5초 이동</span></div><div id="chapters" class="chapters" aria-label="그리기 단계"></div></div>
 </section>
 <aside aria-label="플레이어 수정 옵션">
 <div class="panel-head"><div><small>작업 옵션</small><h1>직접 보며 조절하세요</h1></div><span id="saveState" role="status">불러오는 중</span></div>
@@ -22,4 +22,4 @@
 <details><summary>원본과 비교</summary><img class="reference" id="referenceImage" alt="소장품 원본, 짚 덮개 상여와 장례 행렬"><p class="help">원본 구도를 따라 새로 그린 그림입니다. 인물과 옷 주름은 단순화했습니다.</p></details>
 <div class="save-panel"><button id="save" class="primary" disabled>설정 저장</button><button id="snapshot" disabled>현재 장면 PNG</button><div class="file-actions"><button id="exportSettings">설정 파일 받기</button><label class="file-button">설정 불러오기<input id="importSettings" type="file" accept="application/json,.json"></label><button id="reset">기본값</button></div><p class="help">저장한 옵션은 다음에 열어도 유지됩니다. 완성 MP4는 고정된 별도 영상입니다.</p><p id="message" role="status" aria-live="polite"></p></div>
 </aside>
-</main><audio id="audio"  preload="auto"></audio><audio id="musicAudio"  preload="auto"></audio><script type="module" src="studio.js?revision=vector-v17"></script></body></html>
+</main><audio id="audio"  preload="auto"></audio><audio id="musicAudio"  preload="auto"></audio><script type="module" src="studio.js?revision=raster-v31-immediate-brush"></script></body></html>

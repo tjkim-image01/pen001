@@ -113,7 +113,7 @@
       "editions": {
         "ko": {
           "title": "네 사람이 둘러앉은 이유",
-          "video": "/pen001/series/episodes/ep02/output/ep02-short-ko-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep02-short-ko-v31-cover.mp4",
           "narration": [
             "조선 사람들은 쉬는 날, 무엇을 하며 놀았을까요? 네 사람이 낮은 판을 둘러싸고 앉았습니다. 오늘의 주인공은 윷놀이입니다.",
             "윷을 던진 결과에 따라 말을 움직이고, 어느 길로 갈지 머리를 씁니다. 운만으로 끝나지 않는 놀이죠. 작은 도구 몇 개가 사람들을 한자리에 모았습니다.",
@@ -125,11 +125,11 @@
           "poster": "/pen001/series/episodes/ep02/art/covers-v18/ko.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "en": {
           "title": "Why gather here?",
-          "video": "/pen001/series/episodes/ep02/output/ep02-short-en-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep02-short-en-v31-cover.mp4",
           "narration": [
             "Four people, one small board. What brought them together? This is yutnori, a Korean game played with four wooden sticks instead of dice. Players move their pieces around a board, choosing routes and trying to send every piece home. A lucky throw helps, but a smart choice matters too. Traditionally played around the Lunar New Year, the game brings families and neighbors together. Nineteenth-century visitors to Korea collected pictures of everyday life: work, clothing, and moments like this. Such a scene could introduce an unfamiliar country through something familiar: playing together. This work is attributed to Uncho. Watch the hands and the circle of players. From the TJ Kim Collection, a small game opens a window onto Korean life."
           ],
@@ -138,11 +138,11 @@
           "poster": "/pen001/series/episodes/ep02/art/covers-v18/en.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "ja": {
           "title": "四人が集まる理由",
-          "video": "/pen001/series/episodes/ep02/output/ep02-short-ja-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep02-short-ja-v31-cover.mp4",
           "narration": [
             "すごろくのように見えますか。これは韓国のユンノリです。さいころの代わりに四本の木の棒を投げ、駒を進めます。近道を選んだり、仲間の駒を一緒に進めたり。運だけでなく、相談する楽しさもあります。旧正月ごろ、家族や近所の人が集まって親しまれてきました。十九世紀の外国人にとって、こうした風俗画は、朝鮮の暮らしを知る窓でもありました。衣服だけでなく、遊ぶ時間や、人との距離も見えてきます。この作品は、ウンチョの作と伝わります。四人の手元から、その場の空気を想像してみましょう。ティージェイキム・コレクションの所蔵品です。"
           ],
@@ -151,7 +151,7 @@
           "poster": "/pen001/series/episodes/ep02/art/covers-v18/ja.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         }
       },
       "sources": [
@@ -233,14 +233,14 @@
             "이 그림은 운초의 작품으로 전합니다.",
             "티제이킴 컬렉션에서, 오래된 하루를 다시 만납니다."
           ],
-          "video": "/pen001/series/episodes/ep03/output/ep03-short-ko-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep03-short-ko-v31-cover.mp4",
           "ready": true,
           "language": "ko",
           "actor": "한준",
           "poster": "/pen001/series/episodes/ep03/art/covers-v18/ko.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "en": {
           "title": "Before the iron",
@@ -258,14 +258,14 @@
             "The work is attributed to Uncho.",
             "From the TJ Kim Collection, look beyond the garment to the hands that made it ready."
           ],
-          "video": "/pen001/series/episodes/ep03/output/ep03-short-en-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep03-short-en-v31-cover.mp4",
           "ready": true,
           "language": "en",
           "actor": "아레스",
           "poster": "/pen001/series/episodes/ep03/art/covers-v18/en.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "ja": {
           "title": "布を打つ時間",
@@ -283,14 +283,14 @@
             "この作品はウンチョの作と伝わります。",
             "ティージェイキム・コレクションから、二人の手の時間をたどります。"
           ],
-          "video": "/pen001/series/episodes/ep03/output/ep03-short-ja-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep03-short-ja-v31-cover.mp4",
           "ready": true,
           "language": "ja",
           "actor": "이노우에 다이치",
           "poster": "/pen001/series/episodes/ep03/art/covers-v18/ja.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         }
       },
       "sources": [
@@ -346,14 +346,14 @@
             "사람의 손에서 그릇으로, 다시 가게 안으로 눈길을 옮깁니다.",
             "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
           ],
-          "video": "/pen001/series/episodes/ep04/output/ep04-short-ko-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep04-short-ko-v31-cover.mp4",
           "ready": true,
           "language": "ko",
           "actor": "한준",
           "poster": "/pen001/series/episodes/ep04/art/covers-v18/ko.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "en": {
           "title": "A meal along the road",
@@ -370,14 +370,14 @@
             "The work is attributed to Uncho.",
             "From the TJ Kim Collection, an unfamiliar shop becomes a place of familiar human effort."
           ],
-          "video": "/pen001/series/episodes/ep04/output/ep04-short-en-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep04-short-en-v31-cover.mp4",
           "ready": true,
           "language": "en",
           "actor": "아레스",
           "poster": "/pen001/series/episodes/ep04/art/covers-v18/en.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "ja": {
           "title": "道の途中の食事",
@@ -394,14 +394,14 @@
             "ウンチョ作と伝わる風俗画です。",
             "ティージェイキム・コレクションから、食を支える手をたどります。"
           ],
-          "video": "/pen001/series/episodes/ep04/output/ep04-short-ja-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep04-short-ja-v31-cover.mp4",
           "ready": true,
           "language": "ja",
           "actor": "이노우에 다이치",
           "poster": "/pen001/series/episodes/ep04/art/covers-v18/ja.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         }
       },
       "sources": [
@@ -482,14 +482,14 @@
             "특별한 복식이 아니라, 살아가는 방법으로 그림을 읽어 봅니다.",
             "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
           ],
-          "video": "/pen001/series/episodes/ep05/output/ep05-short-ko-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep05-short-ko-v31-cover.mp4",
           "ready": true,
           "language": "ko",
           "actor": "한준",
           "poster": "/pen001/series/episodes/ep05/art/covers-v18/ko.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "en": {
           "title": "A rainy Korean day",
@@ -506,14 +506,14 @@
             "This painting is attributed to Uncho.",
             "From the TJ Kim Collection, a rainy street brings distant lives a little closer."
           ],
-          "video": "/pen001/series/episodes/ep05/output/ep05-short-en-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep05-short-en-v31-cover.mp4",
           "ready": true,
           "language": "en",
           "actor": "아레스",
           "poster": "/pen001/series/episodes/ep05/art/covers-v18/en.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "ja": {
           "title": "雨の日の朝鮮",
@@ -530,14 +530,14 @@
             "この作品はウンチョの作と伝わります。",
             "ティージェイキム・コレクションから、雨をしのぐ知恵をたどります。"
           ],
-          "video": "/pen001/series/episodes/ep05/output/ep05-short-ja-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep05-short-ja-v31-cover.mp4",
           "ready": true,
           "language": "ja",
           "actor": "이노우에 다이치",
           "poster": "/pen001/series/episodes/ep05/art/covers-v18/ja.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         }
       },
       "sources": [
@@ -589,14 +589,14 @@
             "곧은 창호선 너머로, 오래전 방 안의 음악을 상상합니다.",
             "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
           ],
-          "video": "/pen001/series/episodes/ep06/output/ep06-short-ko-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep06-short-ko-v31-cover.mp4",
           "ready": true,
           "language": "ko",
           "actor": "한준",
           "poster": "/pen001/series/episodes/ep06/art/covers-v18/ko.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "en": {
           "title": "Music without a stage",
@@ -613,14 +613,14 @@
             "This work is attributed to Uncho.",
             "From the TJ Kim Collection, imagine a small musical moment inside an ordinary room."
           ],
-          "video": "/pen001/series/episodes/ep06/output/ep06-short-en-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep06-short-en-v31-cover.mp4",
           "ready": true,
           "language": "en",
           "actor": "아레스",
           "poster": "/pen001/series/episodes/ep06/art/covers-v18/en.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "ja": {
           "title": "指先に残る音楽",
@@ -637,14 +637,14 @@
             "ウンチョ作と伝わる、部屋の小さな音楽の時間です。",
             "ティージェイキム・コレクションから、聞こえない音を想像します。"
           ],
-          "video": "/pen001/series/episodes/ep06/output/ep06-short-ja-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep06-short-ja-v31-cover.mp4",
           "ready": true,
           "language": "ja",
           "actor": "이노우에 다이치",
           "poster": "/pen001/series/episodes/ep06/art/covers-v18/ja.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         }
       },
       "sources": [
@@ -696,14 +696,14 @@
             "작은 가구 하나가 사람의 자세를 어떻게 정하는지 보입니다.",
             "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
           ],
-          "video": "/pen001/series/episodes/ep07/output/ep07-short-ko-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep07-short-ko-v31-cover.mp4",
           "ready": true,
           "language": "ko",
           "actor": "한준",
           "poster": "/pen001/series/episodes/ep07/art/covers-v18/ko.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "en": {
           "title": "A table close to home",
@@ -720,14 +720,14 @@
             "The work is attributed to Uncho.",
             "From the TJ Kim Collection, a small piece of furniture helps us read the shape of a day."
           ],
-          "video": "/pen001/series/episodes/ep07/output/ep07-short-en-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep07-short-en-v31-cover.mp4",
           "ready": true,
           "language": "en",
           "actor": "아레스",
           "poster": "/pen001/series/episodes/ep07/art/covers-v18/en.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "ja": {
           "title": "低い膳を囲む人々",
@@ -744,14 +744,14 @@
             "ウンチョ作と伝わる、小さな膳のある時間です。",
             "ティージェイキム・コレクションから、人と家具の距離をたどります。"
           ],
-          "video": "/pen001/series/episodes/ep07/output/ep07-short-ja-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep07-short-ja-v31-cover.mp4",
           "ready": true,
           "language": "ja",
           "actor": "이노우에 다이치",
           "poster": "/pen001/series/episodes/ep07/art/covers-v18/ja.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         }
       },
       "sources": [
@@ -807,14 +807,14 @@
             "낯선 옷차림 너머로, 같은 놀이의 즐거움을 만나 봅니다.",
             "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
           ],
-          "video": "/pen001/series/episodes/ep08/output/ep08-short-ko-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep08-short-ko-v31-cover.mp4",
           "ready": true,
           "language": "ko",
           "actor": "한준",
           "poster": "/pen001/series/episodes/ep08/art/covers-v18/ko.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "en": {
           "title": "A quiet contest",
@@ -831,14 +831,14 @@
             "The work is attributed to Uncho.",
             "From the TJ Kim Collection, a quiet game lets strangers share a familiar human moment."
           ],
-          "video": "/pen001/series/episodes/ep08/output/ep08-short-en-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep08-short-en-v31-cover.mp4",
           "ready": true,
           "language": "en",
           "actor": "아레스",
           "poster": "/pen001/series/episodes/ep08/art/covers-v18/en.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "ja": {
           "title": "一手を待つ時間",
@@ -855,14 +855,14 @@
             "この作品はウンチョの作と伝わります。",
             "ティージェイキム・コレクションから、一手を待つ時間を見つめます。"
           ],
-          "video": "/pen001/series/episodes/ep08/output/ep08-short-ja-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep08-short-ja-v31-cover.mp4",
           "ready": true,
           "language": "ja",
           "actor": "이노우에 다이치",
           "poster": "/pen001/series/episodes/ep08/art/covers-v18/ja.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         }
       },
       "sources": [
@@ -918,14 +918,14 @@
             "힘찬 한 번의 동작 뒤에, 오래 맞춰 온 호흡을 상상합니다.",
             "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
           ],
-          "video": "/pen001/series/episodes/ep09/output/ep09-short-ko-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep09-short-ko-v31-cover.mp4",
           "ready": true,
           "language": "ko",
           "actor": "한준",
           "poster": "/pen001/series/episodes/ep09/art/covers-v18/ko.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "en": {
           "title": "Food takes teamwork",
@@ -942,14 +942,14 @@
             "The painting is attributed to Uncho.",
             "From the TJ Kim Collection, the smallest pause between hands becomes part of the story."
           ],
-          "video": "/pen001/series/episodes/ep09/output/ep09-short-en-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep09-short-en-v31-cover.mp4",
           "ready": true,
           "language": "en",
           "actor": "아레스",
           "poster": "/pen001/series/episodes/ep09/art/covers-v18/en.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "ja": {
           "title": "息を合わせる手仕事",
@@ -966,14 +966,14 @@
             "この作品はウンチョの作と伝わります。",
             "ティージェイキム・コレクションから、息を合わせる技を見つめます。"
           ],
-          "video": "/pen001/series/episodes/ep09/output/ep09-short-ja-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep09-short-ja-v31-cover.mp4",
           "ready": true,
           "language": "ja",
           "actor": "이노우에 다이치",
           "poster": "/pen001/series/episodes/ep09/art/covers-v18/ja.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         }
       },
       "sources": [
@@ -1029,14 +1029,14 @@
             "옛 단맛과 함께, 그것을 지고 다닌 몸의 수고도 떠올립니다.",
             "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
           ],
-          "video": "/pen001/series/episodes/ep10/output/ep10-short-ko-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep10-short-ko-v31-cover.mp4",
           "ready": true,
           "language": "ko",
           "actor": "한준",
           "poster": "/pen001/series/episodes/ep10/art/covers-v18/ko.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "en": {
           "title": "A shop that walks",
@@ -1053,14 +1053,14 @@
             "This work is attributed to Uncho.",
             "From the TJ Kim Collection, imagine the sweetness and the effort of carrying it through the streets."
           ],
-          "video": "/pen001/series/episodes/ep10/output/ep10-short-en-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep10-short-en-v31-cover.mp4",
           "ready": true,
           "language": "en",
           "actor": "아레스",
           "poster": "/pen001/series/episodes/ep10/art/covers-v18/en.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "ja": {
           "title": "路地に来た甘さ",
@@ -1077,14 +1077,14 @@
             "ウンチョ作と伝わる風俗画です。",
             "ティージェイキム・コレクションから、甘さを運ぶ体を見てみます。"
           ],
-          "video": "/pen001/series/episodes/ep10/output/ep10-short-ja-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep10-short-ja-v31-cover.mp4",
           "ready": true,
           "language": "ja",
           "actor": "이노우에 다이치",
           "poster": "/pen001/series/episodes/ep10/art/covers-v18/ja.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         }
       },
       "sources": [
@@ -1136,14 +1136,14 @@
             "손과 굽힌 허리를 다시 보며, 깨끗한 하루의 수고를 읽습니다.",
             "운초의 작품으로 전하는, 티제이킴 컬렉션 소장품입니다."
           ],
-          "video": "/pen001/series/episodes/ep11/output/ep11-short-ko-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep11-short-ko-v31-cover.mp4",
           "ready": true,
           "language": "ko",
           "actor": "한준",
           "poster": "/pen001/series/episodes/ep11/art/covers-v18/ko.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "en": {
           "title": "The work of clean",
@@ -1160,14 +1160,14 @@
             "The painting is attributed to Uncho.",
             "From the TJ Kim Collection, an ordinary task helps us see the people behind a clean garment."
           ],
-          "video": "/pen001/series/episodes/ep11/output/ep11-short-en-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep11-short-en-v31-cover.mp4",
           "ready": true,
           "language": "en",
           "actor": "아레스",
           "poster": "/pen001/series/episodes/ep11/art/covers-v18/en.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         },
         "ja": {
           "title": "水辺に集まる一日",
@@ -1184,14 +1184,14 @@
             "この作品はウンチョの作と伝わります。",
             "ティージェイキム・コレクションから、きれいな一日を作る手を見ます。"
           ],
-          "video": "/pen001/series/episodes/ep11/output/ep11-short-ja-v18-cover.mp4",
+          "video": "https://github.com/tjkim-image01/pen001/releases/download/v31/ep11-short-ja-v31-cover.mp4",
           "ready": true,
           "language": "ja",
           "actor": "이노우에 다이치",
           "poster": "/pen001/series/episodes/ep11/art/covers-v18/ja.png",
           "duration": 67.5,
           "cover_seconds": 1.5,
-          "revision": "localized-cover-v18"
+          "revision": "raster-immediate-brush-v31"
         }
       },
       "sources": [
@@ -1333,34 +1333,34 @@
   ],
   "bundles": {
     "ko": {
-      "url": "https://github.com/tjkim-image01/pen001/releases/download/v18/TJ_KIM_FOLK_SHORTS_KO_10_v18.zip",
-      "bytes": 157401354,
-      "size_mb": 157,
-      "sha256": "4fa905cc6e39a60a70e2b2d88c24e874adf9ba383eba7f74a2892edc78db15c4",
+      "url": "https://github.com/tjkim-image01/pen001/releases/download/v31/TJ_KIM_FOLK_SHORTS_KO_10_v31.zip",
+      "bytes": 246176816,
+      "size_mb": 246,
+      "sha256": "65cbe91a203881ab209f6eab23c48e76fe9e2d1748584153eeae801cf01ceb76",
       "episodes": 10,
       "language": "ko",
-      "revision": "localized-cover-v18",
-      "source_fingerprint": "ad2cab7b46e8a493bc32cdc4c57f05734bc0d67a9493e1c6ae53f68a03dcbdfb"
+      "revision": "raster-immediate-brush-v31",
+      "source_fingerprint": "81164153912f0f9211e88bae09d27e4c7418b77e2522b9d88aec9203b4c920e9"
     },
     "en": {
-      "url": "https://github.com/tjkim-image01/pen001/releases/download/v18/TJ_KIM_FOLK_SHORTS_EN_10_v18.zip",
-      "bytes": 156860358,
-      "size_mb": 157,
-      "sha256": "889fd7279a2e41e91d69d579422200bd953637d868d28d4d522ab593c1b1c5e6",
+      "url": "https://github.com/tjkim-image01/pen001/releases/download/v31/TJ_KIM_FOLK_SHORTS_EN_10_v31.zip",
+      "bytes": 246399796,
+      "size_mb": 246,
+      "sha256": "7cdcb781658a0e7d20a5df37ad9880297d1bee5b5d2244bcfd23a03edf1f7252",
       "episodes": 10,
       "language": "en",
-      "revision": "localized-cover-v18",
-      "source_fingerprint": "c794214a36489e0b0da4575267bce08e38bd3e9f5f89f026c6476bb9e19b0d1e"
+      "revision": "raster-immediate-brush-v31",
+      "source_fingerprint": "bfed04c71e7ee13625a33a679bd19b5bbf709cc96a4d73a63d06ebd3af7cf3e2"
     },
     "ja": {
-      "url": "https://github.com/tjkim-image01/pen001/releases/download/v18/TJ_KIM_FOLK_SHORTS_JA_10_v18.zip",
-      "bytes": 158515909,
-      "size_mb": 159,
-      "sha256": "2d53bc5dee47db1a4282bf42620c6dc4077879f7d804551c5b851dd483cebc92",
+      "url": "https://github.com/tjkim-image01/pen001/releases/download/v31/TJ_KIM_FOLK_SHORTS_JA_10_v31.zip",
+      "bytes": 248446410,
+      "size_mb": 248,
+      "sha256": "790a0bebb3e8435d5cdb388064752734308af588870270810ff7cc5c8c1f94d1",
       "episodes": 10,
       "language": "ja",
-      "revision": "localized-cover-v18",
-      "source_fingerprint": "2d69b8f9c205c236df40efad263c6ba479142a238851ca16edcc3013121842b5"
+      "revision": "raster-immediate-brush-v31",
+      "source_fingerprint": "75c116a8f5fc31ad36ebf2c969de95c814eccd95bc7c2240b5fc2fd04364a774"
     }
   }
 }

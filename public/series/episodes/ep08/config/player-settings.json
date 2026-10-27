@@ -26,10 +26,11 @@
   "captionEdits": {},
   "brushType": "auto",
   "inkBleed": 0.25,
-  "musicStart": 3.8,
+  "musicStart": 0,
   "musicOffset": 18.0,
   "musicTrack": "flow-night",
   "effectsEnabled": true,
   "rollVolume": 0.75,
-  "finishVolume": 1
+  "finishVolume": 1,
+  "audioStartRevision": 26
 }

@@ -39,7 +39,7 @@
   "status": "ready",
   "caption_style": "calm-myeongjo",
   "revision": "figure-first-caption18-v3",
-  "drawing_order": "인물별 얼굴 → 몸과 손 → 다리·아랫옷 → 물건 → 배경",
+  "drawing_order": "각 인물 머리·얼굴 채색 → 몸 채색 → 세선 정리 → 다음 인물 → 물건 → 색별 배경",
   "caption_layout": {
     "max_chars": 18,
     "font_size": 54,
@@ -48,178 +48,120 @@
     "complete_sentence": true,
     "type": "condensed-sentences"
   },
-  "player_revision": "portrait-intro-v14",
-  "player_only": true,
+  "player_revision": "raster-v31",
+  "player_only": false,
   "player_director": {
     "intro_duration": 6,
     "shots": [
       {
-        "element": "front_man_face",
+        "element": "front_man",
         "start": 0.8,
-        "end": 3.4999999999999982,
+        "end": 3.7667157386167234,
         "box": [
-          251.5,
-          222.5,
-          461.5,
-          390.5
-        ],
-        "zoom": 4.76
+          158.0,
+          226.0,
+          504.0,
+          596.0
+        ]
       },
       {
-        "element": "front_man_body",
-        "start": 3.4999999999999982,
-        "end": 6.799999999999998,
+        "element": "front_man",
+        "start": 3.7667157386167234,
+        "end": 10.350725108196992,
         "box": [
-          93.788,
-          220.93,
-          570.212,
-          602.07
-        ],
-        "zoom": 2.1
+          158.0,
+          226.0,
+          504.0,
+          596.0
+        ]
       },
       {
-        "element": "front_man_legs",
-        "start": 6.799999999999998,
-        "end": 9.299999999999995,
+        "element": "rear_woman",
+        "start": 10.350725108196992,
+        "end": 13.16635024411525,
         "box": [
-          192.0,
-          395.0,
-          492.0,
-          635.0
-        ],
-        "zoom": 3.33
+          263.0,
+          122.0,
+          508.0,
+          395.5
+        ]
       },
       {
-        "element": "rear_woman_face",
-        "start": 9.299999999999995,
-        "end": 11.999999999999995,
+        "element": "rear_woman",
+        "start": 13.16635024411525,
+        "end": 17.52273134533301,
         "box": [
-          289.0,
-          113.0,
-          499.0,
-          281.0
-        ],
-        "zoom": 4.76
+          263.0,
+          122.0,
+          508.0,
+          395.5
+        ]
       },
       {
-        "element": "rear_woman_body",
-        "start": 11.999999999999995,
-        "end": 15.299999999999995,
+        "element": "rear_man",
+        "start": 17.52273134533301,
+        "end": 20.63142059537134,
         "box": [
-          219.325,
-          125.66,
-          552.675,
-          392.34
-        ],
-        "zoom": 3.0
+          461.0,
+          111.0,
+          890.0,
+          505.5
+        ]
       },
       {
-        "element": "rear_woman_legs",
-        "start": 15.299999999999995,
-        "end": 17.799999999999994,
+        "element": "rear_man",
+        "start": 20.63142059537134,
+        "end": 25.817591759249492,
         "box": [
-          253.0,
-          215.5,
-          553.0,
-          455.5
-        ],
-        "zoom": 3.33
+          461.0,
+          111.0,
+          890.0,
+          505.5
+        ]
       },
       {
-        "element": "rear_man_face",
-        "start": 17.799999999999994,
-        "end": 20.499999999999996,
+        "element": "front_woman",
+        "start": 25.817591759249492,
+        "end": 28.5372369960053,
         "box": [
-          511.781,
-          107.525,
-          749.219,
-          297.475
-        ],
-        "zoom": 4.21
+          486.0,
+          233.0,
+          907.0,
+          652
+        ]
       },
       {
-        "element": "rear_man_body",
-        "start": 20.499999999999996,
-        "end": 23.799999999999994,
+        "element": "front_woman",
+        "start": 28.5372369960053,
+        "end": 36.8,
         "box": [
-          421.562,
-          105.95,
-          930.438,
-          513.05
-        ],
-        "zoom": 1.97
-      },
-      {
-        "element": "rear_man_legs",
-        "start": 23.799999999999994,
-        "end": 26.299999999999986,
-        "box": [
-          559.0,
-          294.1,
-          895.0,
-          562.9
-        ],
-        "zoom": 2.98
-      },
-      {
-        "element": "front_woman_face",
-        "start": 26.299999999999986,
-        "end": 28.99999999999999,
-        "box": [
-          566.0,
-          224.5,
-          776.0,
-          392.5
-        ],
-        "zoom": 4.76
-      },
-      {
-        "element": "front_woman_body",
-        "start": 28.99999999999999,
-        "end": 32.29999999999999,
-        "box": [
-          420.15,
-          213.04,
-          968.85,
-          652.0
-        ],
-        "zoom": 1.82
-      },
-      {
-        "element": "front_woman_legs",
-        "start": 32.29999999999999,
-        "end": 34.79999999999998,
-        "box": [
-          479.7,
-          303.52,
-          915.3,
-          652.0
-        ],
-        "zoom": 2.3
+          486.0,
+          233.0,
+          907.0,
+          652
+        ]
       },
       {
         "element": "objects",
-        "start": 34.79999999999998,
-        "end": 41.800000000000004,
+        "start": 36.8,
+        "end": 42.8,
         "box": [
-          343.5,
-          300.5,
-          643.5,
-          540.5
-        ],
-        "zoom": 3.33
+          346.0,
+          313.0,
+          636.5,
+          532.5
+        ]
       },
       {
         "element": "background",
-        "start": 41.800000000000004,
+        "start": 42.8,
         "end": 49.8,
         "box": [
           0,
           0,
           1000,
           652
-        ],
-        "zoom": 1.0
+        ]
       }
     ],
     "brush_types": {
@@ -288,8 +230,8 @@
       1440
     ],
     "ink_bleed": 0.45,
-    "signature": "approved portrait Tj v13",
-    "signature_duration": 2.5,
+    "signature": "approved bitmap Tj v27 / angled close-up brush v29",
+    "signature_duration": 3.5,
     "pressure_brush": {
       "atlas": "pressure-atlas.png",
       "width": 192,
@@ -317,7 +259,9 @@
       1920
     ],
     "signature_approved": true,
-    "wet_ink_on_contact": true
+    "wet_ink_on_contact": true,
+    "signature_revision": 31,
+    "intro_brush_visible_from": 0
   },
   "player_music": {
     "file": "flow-music/meokbit-jangdan-source.m4a",
@@ -353,13 +297,14 @@
     "effects_scope": "intro-only"
   },
   "exports": {
-    "ko": "ep02-short-ko-v18-cover.mp4",
-    "en": "ep02-short-en-v18-cover.mp4",
-    "ja": "ep02-short-ja-v18-cover.mp4"
+    "ko": "ep02-short-ko-v31-cover.mp4",
+    "en": "ep02-short-en-v31-cover.mp4",
+    "ja": "ep02-short-ja-v31-cover.mp4"
   },
   "cover_exports": {
     "ko": "../episodes/ep02/art/covers-v18/ko.png",
     "en": "../episodes/ep02/art/covers-v18/en.png",
     "ja": "../episodes/ep02/art/covers-v18/ja.png"
-  }
+  },
+  "review_status": "approved-body-immediate-brush"
 }

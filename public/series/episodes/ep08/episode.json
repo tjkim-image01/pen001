@@ -41,108 +41,70 @@
     "intro_duration": 6,
     "shots": [
       {
-        "element": "left_man_face",
+        "element": "left_man",
         "start": 0.8,
-        "end": 4.934375000000005,
+        "end": 4.571423793762977,
         "box": [
-          167.875,
-          92.1,
-          465.125,
-          329.9
-        ],
-        "zoom": 3.36,
-        "secondary": false
+          109.0,
+          105.0,
+          506.0,
+          602.0
+        ]
       },
       {
-        "element": "left_man_body",
-        "start": 4.934375000000005,
-        "end": 9.98750000000001,
+        "element": "left_man",
+        "start": 4.571423793762977,
+        "end": 18.557227066203616,
         "box": [
-          0.0,
-          88.77,
-          659.325,
-          616.23
-        ],
-        "zoom": 1.52,
-        "secondary": false
+          109.0,
+          105.0,
+          506.0,
+          602.0
+        ]
       },
       {
-        "element": "left_man_legs",
-        "start": 9.98750000000001,
-        "end": 13.815625000000015,
+        "element": "right_man",
+        "start": 18.557227066203616,
+        "end": 23.25485613883032,
         "box": [
-          100.7,
-          341.92,
-          488.3,
-          652.0
-        ],
-        "zoom": 2.58,
-        "secondary": false
+          525.0,
+          88.0,
+          949.0,
+          573.0
+        ]
       },
       {
-        "element": "right_man_face",
-        "start": 13.815625000000015,
-        "end": 17.95000000000002,
+        "element": "right_man",
+        "start": 23.25485613883032,
+        "end": 36.8,
         "box": [
-          542.062,
-          78.25,
-          813.938,
-          295.75
-        ],
-        "zoom": 3.68,
-        "secondary": false
-      },
-      {
-        "element": "right_man_body",
-        "start": 17.95000000000002,
-        "end": 23.00312500000003,
-        "box": [
-          358.375,
-          72.85,
-          1000.0,
-          586.15
-        ],
-        "zoom": 1.56,
-        "secondary": false
-      },
-      {
-        "element": "right_man_legs",
-        "start": 23.00312500000003,
-        "end": 26.83125000000002,
-        "box": [
-          515.2,
-          298.72,
-          956.8,
-          652.0
-        ],
-        "zoom": 2.26,
-        "secondary": false
+          525.0,
+          88.0,
+          949.0,
+          573.0
+        ]
       },
       {
         "element": "objects",
-        "start": 26.83125000000002,
-        "end": 37.54999999999999,
+        "start": 36.8,
+        "end": 42.8,
         "box": [
-          304.25,
-          189.4,
-          805.75,
-          590.6
-        ],
-        "zoom": 1.99,
-        "secondary": false
+          346.5,
+          193.0,
+          762.0,
+          591.0
+        ]
       },
       {
         "element": "background",
-        "start": 37.54999999999999,
+        "start": 42.8,
         "end": 49.8,
         "box": [
           0,
           0,
           1000,
           652
-        ],
-        "zoom": 1.0,
-        "secondary": false
+        ]
       }
     ],
     "brush_types": {
@@ -211,8 +173,8 @@
       1440
     ],
     "ink_bleed": 0.45,
-    "signature": "approved portrait Tj v13",
-    "signature_duration": 2.5,
+    "signature": "approved bitmap Tj v27 / angled close-up brush v29",
+    "signature_duration": 3.5,
     "pressure_brush": {
       "atlas": "pressure-atlas.png",
       "width": 192,
@@ -240,7 +202,9 @@
       1920
     ],
     "signature_approved": true,
-    "wet_ink_on_contact": true
+    "wet_ink_on_contact": true,
+    "signature_revision": 31,
+    "intro_brush_visible_from": 0
   },
   "player_music": {
     "file": "../../../music/flow-night-ready.m4a",
@@ -282,17 +246,18 @@
     "top": 1374,
     "one_line": true
   },
-  "player_revision": "series-v15",
+  "player_revision": "raster-v31",
   "player_only": false,
-  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "drawing_order": "각 인물 머리·얼굴 채색 → 몸 채색 → 세선 정리 → 다음 인물 → 물건 → 색별 배경",
   "exports": {
-    "ko": "ep08-short-ko-v18-cover.mp4",
-    "en": "ep08-short-en-v18-cover.mp4",
-    "ja": "ep08-short-ja-v18-cover.mp4"
+    "ko": "ep08-short-ko-v31-cover.mp4",
+    "en": "ep08-short-en-v31-cover.mp4",
+    "ja": "ep08-short-ja-v31-cover.mp4"
   },
   "cover_exports": {
     "ko": "../episodes/ep08/art/covers-v18/ko.png",
     "en": "../episodes/ep08/art/covers-v18/en.png",
     "ja": "../episodes/ep08/art/covers-v18/ja.png"
-  }
+  },
+  "review_status": "approved-body-immediate-brush"
 }

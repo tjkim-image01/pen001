@@ -41,108 +41,70 @@
     "intro_duration": 6,
     "shots": [
       {
-        "element": "left_woman_face",
+        "element": "left_woman",
         "start": 0.8,
-        "end": 4.934374999999996,
+        "end": 5.120029357452962,
         "box": [
-          260.0,
-          173.5,
-          470.0,
-          341.5
-        ],
-        "zoom": 4.76,
-        "secondary": false
+          262.0,
+          198.0,
+          543.0,
+          498.0
+        ]
       },
       {
-        "element": "left_woman_body",
-        "start": 4.934374999999996,
-        "end": 9.987499999999994,
+        "element": "left_woman",
+        "start": 5.120029357452962,
+        "end": 18.52600902385008,
         "box": [
-          216.413,
-          199.23,
-          589.587,
-          497.77
-        ],
-        "zoom": 2.68,
-        "secondary": false
+          262.0,
+          198.0,
+          543.0,
+          498.0
+        ]
       },
       {
-        "element": "left_woman_legs",
-        "start": 9.987499999999994,
-        "end": 13.815624999999994,
+        "element": "right_woman",
+        "start": 18.52600902385008,
+        "end": 23.223387693766664,
         "box": [
-          253.0,
-          305.0,
-          553.0,
-          545.0
-        ],
-        "zoom": 3.33,
-        "secondary": false
+          493.0,
+          142.0,
+          729.0,
+          465.0
+        ]
       },
       {
-        "element": "right_woman_face",
-        "start": 13.815624999999994,
-        "end": 17.94999999999999,
+        "element": "right_woman",
+        "start": 23.223387693766664,
+        "end": 36.8,
         "box": [
-          505.0,
-          125.5,
-          715.0,
-          293.5
-        ],
-        "zoom": 4.76,
-        "secondary": false
-      },
-      {
-        "element": "right_woman_body",
-        "start": 17.94999999999999,
-        "end": 23.003124999999986,
-        "box": [
-          407.95,
-          141.16,
-          815.05,
-          466.84
-        ],
-        "zoom": 2.46,
-        "secondary": false
-      },
-      {
-        "element": "right_woman_legs",
-        "start": 23.003124999999986,
-        "end": 26.831249999999986,
-        "box": [
-          462.0,
-          278.5,
-          762.0,
-          518.5
-        ],
-        "zoom": 3.33,
-        "secondary": false
+          493.0,
+          142.0,
+          729.0,
+          465.0
+        ]
       },
       {
         "element": "objects",
-        "start": 26.831249999999986,
-        "end": 37.549999999999976,
+        "start": 36.8,
+        "end": 42.8,
         "box": [
-          339.1,
-          201.08,
-          763.9,
-          540.92
-        ],
-        "zoom": 2.35,
-        "secondary": false
+          374.0,
+          203.0,
+          728.0,
+          538.0
+        ]
       },
       {
         "element": "background",
-        "start": 37.549999999999976,
+        "start": 42.8,
         "end": 49.8,
         "box": [
           0,
           0,
           1000,
           652
-        ],
-        "zoom": 1.0,
-        "secondary": false
+        ]
       }
     ],
     "brush_types": {
@@ -211,8 +173,8 @@
       1440
     ],
     "ink_bleed": 0.45,
-    "signature": "approved portrait Tj v13",
-    "signature_duration": 2.5,
+    "signature": "approved bitmap Tj v27 / angled close-up brush v29",
+    "signature_duration": 3.5,
     "pressure_brush": {
       "atlas": "pressure-atlas.png",
       "width": 192,
@@ -240,7 +202,9 @@
       1920
     ],
     "signature_approved": true,
-    "wet_ink_on_contact": true
+    "wet_ink_on_contact": true,
+    "signature_revision": 31,
+    "intro_brush_visible_from": 0
   },
   "player_music": {
     "file": "../../../music/flow-calm-ready.m4a",
@@ -282,17 +246,18 @@
     "top": 1374,
     "one_line": true
   },
-  "player_revision": "series-v15",
+  "player_revision": "raster-v31",
   "player_only": false,
-  "drawing_order": "각 인물 얼굴 → 몸 → 다리 → 물건 → 배경",
+  "drawing_order": "각 인물 머리·얼굴 채색 → 몸 채색 → 세선 정리 → 다음 인물 → 물건 → 색별 배경",
   "exports": {
-    "ko": "ep03-short-ko-v18-cover.mp4",
-    "en": "ep03-short-en-v18-cover.mp4",
-    "ja": "ep03-short-ja-v18-cover.mp4"
+    "ko": "ep03-short-ko-v31-cover.mp4",
+    "en": "ep03-short-en-v31-cover.mp4",
+    "ja": "ep03-short-ja-v31-cover.mp4"
   },
   "cover_exports": {
     "ko": "../episodes/ep03/art/covers-v18/ko.png",
     "en": "../episodes/ep03/art/covers-v18/en.png",
     "ja": "../episodes/ep03/art/covers-v18/ja.png"
-  }
+  },
+  "review_status": "approved-body-immediate-brush"
 }
